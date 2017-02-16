@@ -18,16 +18,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 # PREAMBLE
 **WE, THE UNDERGRADUATE STUDENTS**
-<br> of the University of Notre Dame du Lac, recognize the uncommon value of the vision of 
-Our Lady’s University and our essential role in its ongoing realizations. In order to achieve the
-greatest possible contribution to our community, we endeavor to make efficient and effective use
-of the resources available, to communicate student convictions clearly and willfully to
-faculty, administrators, and trustees, and to achieve consensus within the University
-community on the formulation and execution of policy. We labor with the entire Notre Dame
-family to ensure that each student reaches his or her full academic, social, and spiritual potential
-and resolve to sustain the evolving spirit of Notre Dame by entrusting its care to the student.
-Therefore, we do hereby ordain and establish this Constitution of the Undergraduate Student
-Body of the University of Notre Dame and form the Notre Dame Student Union.
+<br> of the University of Notre Dame du Lac, recognize the uncommon value of the vision of  Our Lady’s University and our essential role in its ongoing realizations. In order to achieve the greatest possible contribution to our community, we endeavor to make efficient and effective use of the resources available, to communicate student convictions clearly and willfully to faculty, administrators, and trustees, and to achieve consensus within the University community on the formulation and execution of policy. We labor with the entire Notre Dame family to ensure that each student reaches his or her full academic, social, and spiritual potential and resolve to sustain the evolving spirit of Notre Dame by entrusting its care to the student. Therefore, we do hereby ordain and establish this Constitution of the Undergraduate Student Body of the University of Notre Dame and form the Notre Dame Student Union.
 
 # ARTICLE I. GENERAL PROVISIONS
 ## Section 1.1. Name
@@ -78,119 +69,61 @@ Body of the University of Notre Dame and form the Notre Dame Student Union.
 
 # ARTICLE II. EXECUTIVE OFFICERS
 ## Section 2.1. Student Body President
-(a) The Student Body President shall serve a
-one-year term beginning on April 1st of the year
-elected.
-(b) The Student Body President shall ensure the
-efficient and effective operation of the Student
-Union.
-(c) The Student Body President shall represent
-undergraduate student interests and maintain
-regular communication with the undergraduate
-student body and be responsive to undergraduate
-student opinion.
-(d) The Student Body President shall address
-the Senate at least once each semester in his or
-her State of the Student Union Address, but may
-address the Senate at any time with regards to an
-important issue or topic. Each shall be delivered
-orally and submitted in written form to each
-member of the Senate. State of the Student
-Union Addresses shall occur by the following
-schedule:
-(1) Upon the Student Body President’s
-election by the last Senate meeting of the
-semester.
-(2) By the last Senate meeting of
-November.
-(3) By the last Senate meeting of his or her
-term.
-(e) The Student Body President shall serve as
-the chairperson of the Campus Life Council in
-the capacity outlined in the Bylaws of the
-Campus Life Council.
-(f) The Student Body President shall represent
-the undergraduate student body as an ex officio
-member of the Student Affairs Committee of the
-Board of Trustees.
-(g) The Student Body President shall appoint a
-Student Union Secretary, a Chief of Staff, an
-Executive Controller, and a Director of
-Communications as outlined in Article I. The
-Student Body President shall also appoint Senate
-Department Directors. All enumerated
-appointments shall be approved by the Senate.
-(h) The Student Body President shall attend all
-Senate meetings.
-(i) The Student Body President shall create ad
-hoc Senate departments as needed.
-(j) The Student Body President shall schedule
-and chair meetings between university leaders
-and local law enforcement leaders including, but
-not limited to, the Chief of the South Bend
-Police Department, Sheriff of St. Joseph County,
-District 1 Commander of the Indiana Excise
-Police, Chief of the Notre Dame Security Police,
-and a representative from the University of
-Notre Dame administration. The meetings shall
-take place at the following times during the
-President’s term:
-(1) Once during the month of August.
-(2) Once during the month of January.
-(3) Once during the month of April.
-(A) The previous Student Body
-President shall also be present at the
-meeting held in the month of April.
-(k) The Student Body President or any qualified
-designee acting on behalf thereof shall attend all
-meetings of the Community/Campus Advisory
-Coalition (CCAC) as the representative of the
-student body of the University of Notre Dame.
-The Student Body President or the designee
-thereof shall brief the Student Senate regarding
-the affairs of the CCAC at its first regular
-meeting after any meeting of the CCAC.
-(l) The Student Body President shall develop,
-submit, and present a budget proposal for the
-Senate to the Financial Management Board for
-the annual allocation meeting with the assistance
-of the Student Body Vice-President and
-Executive Controller.
-(m) The Student Body President shall develop,
-submit, and present a budget proposal for the
-Office of the Student Body President for the
-purposes of limited, policy-based programming
-to the Financial Management Board for the
-annual allocation meeting with the assistance of
-the Student Body Vice-President and the
-Executive Controller.
-(n) The Director of Student Activities shall
-designate an advisor to the Student Body
-President.
+* (a) The Student Body President shall serve a one-year term beginning on April 1st of the year elected.  
+
+* (b) The Student Body President shall ensure the efficient and effective operation of the Student Union.  
+
+* (c) The Student Body President shall represent undergraduate student interests and maintain regular communication with the undergraduate student body and be responsive to undergraduate student opinion.  
+
+* (d) The Student Body President shall address the Senate at least once each semester in his or her State of the Student Union Address, but may address the Senate at any time with regards to an important issue or topic. Each shall be delivered orally and submitted in written form to each member of the Senate. State of the Student Union Addresses shall occur by the following schedule:  
+
+  * (1) Upon the Student Body President’s election by the last Senate meeting of the semester.  
+  
+  * (2) By the last Senate meeting of November.  
+  
+  * (3) By the last Senate meeting of his or her term.  
+  
+* (e) The Student Body President shall serve as the chairperson of the Campus Life Council in the capacity outlined in the Bylaws of the Campus Life Council.  
+
+* (f) The Student Body President shall represent the undergraduate student body as an ex officio member of the Student Affairs Committee of the Board of Trustees.  
+
+* (g) The Student Body President shall appoint a Student Union Secretary, a Chief of Staff, an Executive Controller, and a Director of Communications as outlined in Article I. The Student Body President shall also appoint Senate Department Directors. All enumerated appointments shall be approved by the Senate.  
+
+* (h) The Student Body President shall attend all Senate meetings.  
+
+* (i) The Student Body President shall create ad hoc Senate departments as needed.  
+
+* (j) The Student Body President shall schedule and chair meetings between university leaders and local law enforcement leaders including, but not limited to, the Chief of the South Bend Police Department, Sheriff of St. Joseph County, District 1 Commander of the Indiana Excise Police, Chief of the Notre Dame Security Police, and a representative from the University of Notre Dame administration. The meetings shall take place at the following times during the President’s term:  
+
+  * (1) Once during the month of August.  
+  
+  * (2) Once during the month of January.  
+  
+  * (3) Once during the month of April.  
+  
+    * (i) The previous Student Body President shall also be present at the meeting held in the month of April.  
+    
+* (k) The Student Body President or any qualified designee acting on behalf thereof shall attend all meetings of the Community/Campus Advisory Coalition (CCAC) as the representative of the student body of the University of Notre Dame. The Student Body President or the designee thereof shall brief the Student Senate regarding the affairs of the CCAC at its first regular meeting after any meeting of the CCAC.  
+
+  * (l) The Student Body President shall develop, submit, and present a budget proposal for the Senate to the Financial Management Board for the annual allocation meeting with the assistance of the Student Body Vice-President and Executive Controller.  
+  
+* (m) The Student Body President shall develop, submit, and present a budget proposal for the Office of the Student Body President for the purposes of limited, policy-based programming to the Financial Management Board for the annual allocation meeting with the assistance of the Student Body Vice-President and the Executive Controller.  
+
+* (n) The Director of Student Activities shall designate an advisor to the Student Body President.  
+
 ## Section 2.2. Student Body Vice-President
-(a) The Student Body Vice-President shall
-assist the Student Body President in the
-performance of presidential duties.
-(b) The Student Body Vice-President shall serve
-a one-year term beginning on April 1st of the
-year elected.
-(c) The Student Body Vice-President shall serve
-as the Chairperson of the Senate and ensure its
-efficient and effective operation.
-(d) The Student Body Vice-President shall
-attend Executive Cabinet meetings.
-(e) The Student Body Vice-President shall
-assist the Student Body President and the
-Executive Controller in the development,
-submission, and presentation of the budget
-proposal for the Senate to the Financial
-Management Board for the annual allocation
-meeting.
-(f) The Student Body Vice-President shall
-assist the Student Body President in the
-development, submission, and presentation of
-the budget proposal for the Office of the Student
-Body President.
+* (a) The Student Body Vice-President shall assist the Student Body President in the performance of presidential duties.  
+
+* (b) The Student Body Vice-President shall serve a one-year term beginning on April 1st of the year elected.  
+
+* (c) The Student Body Vice-President shall serve as the Chairperson of the Senate and ensure its efficient and effective operation.  
+
+* (d) The Student Body Vice-President shall attend Executive Cabinet meetings.  
+
+* (e) The Student Body Vice-President shall assist the Student Body President and the Executive Controller in the development, submission, and presentation of the budget proposal for the Senate to the Financial Management Board for the annual allocation meeting.  
+
+* (f) The Student Body Vice-President shall assist the Student Body President in the development, submission, and presentation of the budget proposal for the Office of the Student Body President.  
+
 ## Section 2.3. Chief of Staff
 (a) The Chief of Staff shall assist the Student
 Body President in the daily duties and tasks of
