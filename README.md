@@ -13,7 +13,8 @@ Rachel Wallace <br> *Student Union Representative to Diversity Council* | MaKenn
 Louis Bertolotti <br> *Student Union Board Executive Director* | Christina Fernandez and Elizabeth Feeley <br> *Hall Presidents Council Co-Chairs* | Daniel Hopkinson and Nabila Mourad <br> *FUEL Directors*
 Paulina Eberts <br> *Club Coordination Council* | Michelle Lacouture <br> *Off-Campus President* | Katelyn Wray <br> *Senior Class President*
 Sara Dugan <br> *Junior Class President* | Michael Conlon <br> *Sophomore Class President* | Joe Witt <br> *Freshman Class President*
-Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *University Policy Liaison* | Prathm Juneja <br> *Director of National Engagement and Outreach*
+Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *University Policy Liaison* | Prathm Juneja <br> *Director of National Engagement and Outreach*  
+
 <hr>
 
 # PREAMBLE
