@@ -14,58 +14,33 @@ Louis Bertolotti <br> *Student Union Board Executive Director* | Christina Ferna
 Paulina Eberts <br> *Club Coordination Council* | Michelle Lacouture <br> *Off-Campus President* | Katelyn Wray <br> *Senior Class President*
 Sara Dugan <br> *Junior Class President* | Michael Conlon <br> *Sophomore Class President* | Joe Witt <br> *Freshman Class President*
 Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *University Policy Liaison* | Prathm Juneja <br> *Director of National Engagement and Outreach*
+<hr>
 
 # PREAMBLE
 **WE, THE UNDERGRADUATE STUDENTS**
 <br> of the University of Notre Dame du Lac, recognize the uncommon value of the vision of 
-Our Lady’s University and our essential role in
-its ongoing realizations. In order to achieve the
-greatest possible contribution to our community,
-we endeavor to make efficient and effective use
-of the resources available, to communicate
-student convictions clearly and willfully to
-faculty, administrators, and trustees, and to
-achieve consensus within the University
-community on the formulation and execution of
-policy. We labor with the entire Notre Dame
-family to ensure that each student reaches his or
-her full academic, social, and spiritual potential
-and resolve to sustain the evolving spirit of
-Notre Dame by entrusting its care to the student.
-Therefore, we do hereby ordain and establish
-this Constitution of the Undergraduate Student
-Body of the University of Notre Dame and form
-the Notre Dame Student Union.
+Our Lady’s University and our essential role in its ongoing realizations. In order to achieve the
+greatest possible contribution to our community, we endeavor to make efficient and effective use
+of the resources available, to communicate student convictions clearly and willfully to
+faculty, administrators, and trustees, and to achieve consensus within the University
+community on the formulation and execution of policy. We labor with the entire Notre Dame
+family to ensure that each student reaches his or her full academic, social, and spiritual potential
+and resolve to sustain the evolving spirit of Notre Dame by entrusting its care to the student.
+Therefore, we do hereby ordain and establish this Constitution of the Undergraduate Student
+Body of the University of Notre Dame and form the Notre Dame Student Union.
 
 # ARTICLE I. GENERAL PROVISIONS
-## Section 1.1. Name.
-(a) The name of the organization which shall
-carry out the goals of the preamble shall be the
-‘Notre Dame Student Union,’ henceforth
-referred to as ‘Student Union.’
-## Section 1.2. Authority.
-(a) The authority of this Constitution is the
-basis for all business of the Student Union. The
-Student Union or any members thereof shall not
-act in any way that is contrary to this
-Constitution.
-(b) Each Student Union organization shall
-develop written bylaws by May 1st to establish
-the operational procedures (including attendance
-and tardiness) necessary for the organization to
-carry out its constitutional duties. These bylaws
-must be approved by the organization’s Student
-Activities advisor and presented to the Student
-Union Ethics Commission.
-(1) Nothing in the bylaws shall come into
-conflict with this Constitution.
-(2) Amendments to an organization’s
-bylaws may only be written by the
-organization the bylaws pertain to and must
-be approved by ¾ of the voting members
-within that organization. The Student
-Activities advisor to the organization must
-approve any bylaw amendments.
+## Section 1.1. Name
+(a) The name of the organization which shall carry out the goals of the preamble shall be the ‘Notre Dame Student Union,’ henceforth referred to as ‘Student Union.’
+## Section 1.2. Authority
+(a) The authority of this Constitution is the basis for all business of the Student Union. The
+Student Union or any members thereof shall not act in any way that is contrary to this Constitution.
+(b) Each Student Union organization shall develop written bylaws by May 1st to establish
+the operational procedures (including attendance and tardiness) necessary for the organization to
+carry out its constitutional duties. These bylaws must be approved by the organization’s Student
+Activities advisor and presented to the Student Union Ethics Commission.
+(1) Nothing in the bylaws shall come into conflict with this Constitution.
+(2) Amendments to an organization’s bylaws may only be written by the organization the bylaws pertain to and must be approved by ¾ of the voting members within that organization. The Student Activities advisor to the organization must approve any bylaw amendments.
 (c) This Constitution shall mandate the
 following—
 (1) All voting shall require a simple
@@ -97,7 +72,7 @@ of this Constitution.
 records of all official meetings and shall
 submit such records to the Student Union
 Secretary.
-## Section 1.3. Eligibility for Office.
+## Section 1.3. Eligibility for Office
 (a) Any undergraduate student enrolled at the
 University of Notre Dame who is of good
 academic standing, as determined by the Office
@@ -115,7 +90,7 @@ Department Directors must be present for their
 entire term.
 (c) No person may simultaneously hold more
 than one office enumerated in this Constitution.
-## Section 1.4. Amendment.
+## Section 1.4. Amendment
 (a) An amendment to this Constitution may be
 presented to the Senate by any member of
 Senate or through a petition.
@@ -141,7 +116,7 @@ with a five-sixths vote of all voting members
 of the Senate.
 (3) The approval of the Student Activities
 Office.
-## Section 1.5. Non-Discrimination Clause.
+## Section 1.5. Non-Discrimination Clause
 (a) This Constitution recognizes the Godgranted
 dignity of all persons and their right to
 respect, justice, and a welcoming environment,
@@ -157,7 +132,7 @@ be brought before the Student Union Ethics
 Commission as misconduct under Subsection (a)
 of Section 13.7 of this Constitution.
 # ARTICLE II. EXECUTIVE OFFICERS
-## Section 2.1. Student Body President.
+## Section 2.1. Student Body President
 (a) The Student Body President shall serve a
 one-year term beginning on April 1st of the year
 elected.
@@ -189,7 +164,6 @@ term.
 the chairperson of the Campus Life Council in
 the capacity outlined in the Bylaws of the
 Campus Life Council.
-6 Constitution of the Undergraduate Student Body 01/17/2017
 (f) The Student Body President shall represent
 the undergraduate student body as an ex officio
 member of the Student Affairs Committee of the
@@ -248,7 +222,7 @@ Executive Controller.
 (n) The Director of Student Activities shall
 designate an advisor to the Student Body
 President.
-## Section 2.2. Student Body Vice-President.
+## Section 2.2. Student Body Vice-President
 (a) The Student Body Vice-President shall
 assist the Student Body President in the
 performance of presidential duties.
@@ -272,8 +246,7 @@ assist the Student Body President in the
 development, submission, and presentation of
 the budget proposal for the Office of the Student
 Body President.
-## Section 2.3. Chief of Staff.
-04/13/2016 University of Notre Dame du Lac 7
+## Section 2.3. Chief of Staff
 (a) The Chief of Staff shall assist the Student
 Body President in the daily duties and tasks of
 the President.
@@ -299,7 +272,7 @@ Senate.
 (h) The Chief of Staff shall chair meetings of
 the Executive Programming Board and shall
 oversee the online programming calendar.
-## Section 2.4. Student Union Secretary.
+## Section 2.4. Student Union Secretary
 (a) The Student Body President shall nominate
 the Student Union Secretary at the first Senate
 meeting of the term. The Senate shall review and
@@ -336,7 +309,7 @@ request the minutes.
 document containing all agendas, dockets, and
 minutes for the given aforementioned Student
 Union groups’ terms.
-## Section 2.5. Parliamentarian.
+## Section 2.5. Parliamentarian
 (a) The incoming Judicial Council President
 shall nominate a Parliamentarian to the Senate at
 the first Senate meeting of the term. The Senate
@@ -345,7 +318,7 @@ shall review and approve this nomination.
 Chairperson of the Senate and Campus Life
 Council regarding parliamentary procedure and
 The Standard Code of Parliamentary Procedure.
-## Section 2.6. Director of Communications.
+## Section 2.6. Director of Communications
 (a) The Director of Communications shall
 update and maintain a web site consistent with
 the Student Union Board and Senate and shall
@@ -354,7 +327,6 @@ government.
 (b) The web site shall—
 (1) Facilitate communication and
 collaboration among student groups.
-8 Constitution of the Undergraduate Student Body 01/17/2017
 (2) Effectively publicize all student group
 events and programs to the student body.
 (3) Be updated weekly during the academic
@@ -365,7 +337,7 @@ Programming Board meetings.
 (d) The Director of Communications shall be
 appointed by the Student Body President and
 approved by the Senate.
-## Section 2.7. Athletics Representative.
+## Section 2.7. Athletics Representative
 (a) The Student Body President shall appoint a
 representative to the University Department of
 Athletics.
@@ -376,7 +348,7 @@ athletics.
 (c) The Athletics Representative shall serve as a
 member of Executive Cabinet and be approved
 by the Student Senate.
-## Section 2.8. Executive Controller.
+## Section 2.8. Executive Controller
 (a) The Executive Controller shall maintain an
 accurate and timely record of all income and
 expenses of the Senate.
@@ -395,7 +367,7 @@ meeting.
 (e) The Executive Controller shall attend all
 Executive Cabinet meetings and all Financial
 Management Board meetings.
-## Section 2.9. Campus Ministry Representative.
+## Section 2.9. Campus Ministry Representative
 (a) The Student Body President shall appoint a
 representative to the Office of Campus Ministry.
 (b) The Campus Ministry Representative shall
@@ -405,8 +377,7 @@ student government policies relating to the same.
 (c) The Campus Ministry Representative shall
 sit as a member of the Executive Cabinet and be
 approved by the Student Senate.
-## Section 2.10. Student Union Representative to
-Diversity Council
+## Section 2.10. Student Union Representative to Diversity Council
 (a) The Student Body President shall appoint a
 representative to the Diversity Council.
 (b) Student Union Representative to Diversity
@@ -422,7 +393,7 @@ Diversity Council shall sit as a member of the
 Executive Cabinet and be approved by the
 Student Senate.
 # ARTICLE III. SENATE
-## Section 3.1. Voting Composition.
+## Section 3.1. Voting Composition
 (a) The Senate shall be composed of the
 following members:
 (1) One elected Senator per undergraduate
@@ -450,7 +421,7 @@ serve as the Chairperson of the Senate and
 ensure its efficient and effective operation.
 The Chairperson shall only cast a vote when
 casting a vote affects the result.
-## Section 3.2. Non-Voting Composition.
+## Section 3.2. Non-Voting Composition
 (a) The Student Body President shall serve as a
 non-voting member of the Senate.
 (1) The Student Body President shall
@@ -543,7 +514,7 @@ speaking privileges, but may not vote or
 make motions, so as to prevent any bias in
 his/her role as the chief judicial officer of
 the Student Union.
-## Section 3.3. Powers & Duties.
+## Section 3.3. Powers & Duties
 (a) The Senate shall formulate and advance the
 position of the undergraduate student body on all
 issues concerning campus life.
@@ -633,7 +604,7 @@ vote of the Senate.
 passage of any action unless otherwise specified
 in this Constitution, Senate bylaws, or The
 Standard Code of Parliamentary Procedure.
-## Section 3.4. Meetings & Procedures.
+## Section 3.4. Meetings & Procedures
 (a) The Senate shall meet at least every week
 from April 1st to March 31st during the regular
 academic school year at a reasonable time and
@@ -831,14 +802,14 @@ of the Senate, provided a two-thirds majority of
 the Senate agrees to consider the measure.
 (x) The Senate shall create any Standing Rules
 by a simple majority vote.
-## Section 3.5. External Requests.
+## Section 3.5. External Requests
 (a) The Director of Student Activities shall
 serve as or designate an advisor to the Senate.
 (b) The Student Union Treasurer shall submit
 all necessary financial information to members
 of the Senate by November 30th and as
 requested by the Senate.
-## Section 3.6. Transition.
+## Section 3.6. Transition
 (a) The Senate shall hold an informational
 meeting for those seeking office in the Student
 Senate as his or her dorm’s elected
@@ -934,7 +905,7 @@ as coordinated by the Student Union
 Representative to Diversity Council. This event
 is mandatory for all Senators and shall take
 place by October 1.
-## Section 3.7. Election Appeals.
+## Section 3.7. Election Appeals
 (a) In the event of an appeal of an Election
 Committee decision, in accordance with Article
 XVII, the Senate shall convene within 48 hours
@@ -979,7 +950,7 @@ appeal, or a decision is not reached during the
 convened meeting, the decision of the Election
 Committee shall stand.
 # ARTICLE IV. EXECUTIVE CABINET
-## Section 4.1. Composition.
+## Section 4.1. Composition
 (a) The following members shall attend the
 weekly Executive Cabinet meeting:
 (1) Student Body Vice-President
@@ -1000,7 +971,7 @@ meetings.
 (c) The Student Body President may appoint
 other such members to the Executive Cabinet as
 he/she may see fit.
-## Section 4.2. Purpose & Duties.
+## Section 4.2. Purpose & Duties
 (a) The Executive Cabinet and its constituent
 members shall advance the agenda of the
 Student Body President and Vice-President
@@ -1009,7 +980,7 @@ interests of students in all areas of university
 life, provide services to the undergraduate
 student body, and advance the policy priorities
 of the Student Union.
-## Section 4.3. Executive Departments.
+## Section 4.3. Executive Departments
 (a) The Department of Academic Affairs shall
 address undergraduate student needs as they
 relate to the academic affairs of the university
@@ -1107,7 +1078,7 @@ related to their issues that include (but are not
 limited to) such activities as awareness weeks,
 focus groups, speakers, and information nights.
 # ARTICLE V. EXECUTIVE PROGRAMMING BOARD
-## Section 5.1. Composition.
+## Section 5.1. Composition
 (a) The following members shall attend the
 Executive Programming Board meeting.
 (1) One Hall Presidents’ Council Co-Chair.
@@ -1124,7 +1095,7 @@ oversee the online programming calendar.
 (c) The Director of Student Activities shall
 appoint an advisor to the Executive
 Programming Board.
-## Section 5.2. Powers & Duties.
+## Section 5.2. Powers & Duties
 (a) The Executive Programming Board shall
 facilitate the coordination, communication, and
 calendar setting of all Student Union groups
@@ -1159,7 +1130,7 @@ necessary, at the request of four members of
 the Executive Programming Board or by
 direction of the Chief of Staff.
 # ARTICLE VI. FIRST UNDERGRADUATE EXPERIENCE IN LEADERSHIP (FUEL)
-## Section 6.1 Composition.
+## Section 6.1 Composition
 (a) FUEL Directors.
 (1) At least two FUEL directors shall be
 appointed as described in Section 6.3.
@@ -1192,7 +1163,7 @@ accordance with the FUEL Bylaws.
 the Student Body President.
 (4) The membership shall serve from date
 of selection until March 31.
-## Section 6.2 Purpose.
+## Section 6.2 Purpose
 (a) The FUEL Directors and FUEL
 Membership shall aid in the effective
 achievement of the goals of the Student Union
@@ -1210,7 +1181,7 @@ and procedures to First Year leaders.
 among the First Year leaders.
 (4) Education of the First Year leaders in
 the practices of ethical peer leadership.
-## Section 6.3 Transition.
+## Section 6.3 Transition
 (a) The Student Body President shall appoint at
 least two FUEL directors.
 (1) The FUEL directors from the previous
@@ -1241,7 +1212,7 @@ must be approved by the directors’ Student
 Activities advisor and presented to the Student
 Union Ethics Commission.
 # ARTICLE VII. STUDENT UNION BOARD
-## Section 7.1. Composition.
+## Section 7.1. Composition
 (a) Student Union Board Directors.
 (1) The Student Union Executive Board of
 Directors shall be composed of the SUB
@@ -1374,7 +1345,7 @@ volunteer members for their division.
 shall also assist with the distribution of
 approved SUB publicity within his or her
 own dorm.
-## Section 7.2. Purpose & Duties.
+## Section 7.2. Purpose & Duties
 (a) SUB shall enhance undergraduate student
 life by providing undergraduate student services
 and social, intellectual, and cultural
@@ -1398,7 +1369,7 @@ May 1st. During the period, the outgoing
 members of SUB shall meet and work with their
 successors to explain the role and practical
 functioning of SUB.
-## Section 7.3. Divisions.
+## Section 7.3. Divisions
 (a) The Student Union Board Executive
 Director and the Director(s) of Programming
 shall create divisions to fulfill the diverse
@@ -1539,7 +1510,7 @@ concession stands.
 (3) The Hall Presidents Council Athletic
 Chair shall fulfill the responsibilities of
 coordinating pep rally hosts.
-## Section 8.2. Purpose.
+## Section 8.2. Purpose
 (a) The Hall Presidents Council shall serve as
 an information disseminating body, provide a
 forum for members to discuss common matters
@@ -1549,7 +1520,7 @@ Hall Presidents Council shall promote the wellbeing
 of the undergraduate student body by
 working for the betterment of undergraduate
 residential life.
-## Section 8.3. General Provisions.
+## Section 8.3. General Provisions
 (a) The Director of Student Activities shall
 designate an advisor to the Hall Presidents
 Council.
@@ -1568,7 +1539,7 @@ constitutional duties. These bylaws must be
 approved by the organization’s Student
 Activities advisor and presented to the Student
 Union Ethics Commission.
-## Section 8.4. Hall of the Year.
+## Section 8.4. Hall of the Year
 (a) The decision to award the title of Hall of the
 Year to a residence hall shall be decided by a
 review board comprised of the following
@@ -1681,7 +1652,7 @@ term beginning April 1st of the year
 elected.
 (3) The CCC Controller shall sit on the
 Financial Management Board.
-## Section 9.2. Purpose & Duties.
+## Section 9.2. Purpose & Duties
 (a) The Club Coordination Council shall
 disseminate information concerning
 undergraduate club issues and activities,
@@ -1699,7 +1670,7 @@ approved by the organization’s Student
 Activities advisor and presented to the Student
 Union Ethics Commission.
 # ARTICLE X. CLASS COUNCILS
-## Section 10.1. Composition.
+## Section 10.1. Composition
 (a) Sophomore, Junior, & Senior Class Officers.
 (1) The Sophomore, Junior, and Senior
 undergraduate classes shall be represented
@@ -1730,12 +1701,12 @@ October 15 of the year of their selection.
 (4) The President shall ensure the efficient
 and effective operation of the Freshman
 Class Council.
-## Section 10.2. Purpose.
+## Section 10.2. Purpose
 (a) The Class Councils shall promote the wellbeing
 of their respective classes by sponsoring
 functions that promote unity among class
 members.
-## Section 10.3. General Provisions & Duties.
+## Section 10.3. General Provisions & Duties
 (a) The Director of Student Activities shall
 designate an advisor to each class.
 (b) All Class Presidents shall attend weekly
@@ -1774,14 +1745,14 @@ Freshman Class Council shall create bylaws if
 instructed by their advisor. These bylaws must
 be approved by the organization’s Student
 Activities advisor.
-## Section 10.4. Transition.
+## Section 10.4. Transition
 (a) The incoming members of Class Council
 shall commence their roles on Student Senate,
 Financial Management Board, Executive
 Programming Board, and the Committee on the
 Budget on April 1st of the year elected.
 # ARTICLE XI. OFF-CAMPUS COUNCIL
-## Section 11.1. Composition.
+## Section 11.1. Composition
 (a) Off-Campus President.
 (1) The Off-Campus President shall be
 elected by the students who will reside offcampus
@@ -1835,12 +1806,12 @@ Council. Ambassadors represent the
 opinions of this appointed area and
 disseminate information in such a way that it
 is readily accessible to residents of this area.
-## Section 11.2. Purpose.
+## Section 11.2. Purpose
 (a) The Off-Campus Council shall promote the
 well-being of off-campus students by sponsoring
 functions and disseminating information to offcampus
 students.
-## Section 11.3. General Provisions & Duties.
+## Section 11.3. General Provisions & Duties
 (a) The Director of Student Activities shall
 designate an advisor to the Off-Campus Council.
 (b) The Off-Campus President shall develop,
@@ -1897,7 +1868,7 @@ Campus President and Vice-President in
 transitioning during the end of the Spring
 academic semester.
 # ARTICLE XII. FINANCIAL MANAGEMENT BOARD
-## Section 12.1. Composition.
+## Section 12.1. Composition
 (a) The Financial Management Board shall be
 composed of the Student Union Treasurer, the
 Executive Controller, the Student Union Board
@@ -1977,7 +1948,7 @@ Shirt Project.
 (5) Assistants to the Student Union
 Treasurer shall perform other duties as the
 Student Union Treasurer may determine.
-## Section 12.2. Meetings & Procedures.
+## Section 12.2. Meetings & Procedures
 (a) The Financial Management Board shall
 meet at least once every two weeks from April
 1st to March 31st during the regular academic
@@ -2062,7 +2033,7 @@ Union Treasurer no later than September
 (j) The records of the Student Union Treasurer
 shall be available for undergraduate student
 inspection upon request.
-## Section 12.3. Powers & Duties.
+## Section 12.3. Powers & Duties
 (a) The Financial Management Board shall
 conduct an annual hearing to ensure the fair
 allocation of undergraduate student funds. This
@@ -2092,7 +2063,7 @@ and reverse such decisions by a two-thirds vote.
 (g) All decisions made by the Financial
 Management Board and the Student Union
 Treasurer may be appealed to the Senate.
-## Section 12.4. Student Businesses.
+## Section 12.4. Student Businesses
 (a) The Student Businesses shall provide
 students with practical experience in a business
 environment and offer convenient services to the
@@ -2164,7 +2135,7 @@ Management Board may determine.
 the Student Business Managers may be
 appealed to the Senate and overturned by a
 two-thirds vote of all Senate members.
-## Section 12.5. The Shirt Project.
+## Section 12.5. The Shirt Project
 (a) The Shirt Project shall endeavor to promote
 unity among the undergraduate student body and
 serve as a fundraiser for charitable causes as
@@ -2202,8 +2173,7 @@ Any expenditure over $5,000 for The Shirt
 Project shall be approved by the Financial
 Management Board in an efficient and timely
 manner.
-## Section 12.6. Special-Interest Student
-Organizations.
+## Section 12.6. Special-Interest Student Organizations
 (a) Definitions and Organizations.
 (1) The following groups are defined as
 special-interest student organizations:
@@ -2282,7 +2252,7 @@ allocate the funds available to the specialinterest
 organizations as it sees fit, taking
 into account availability and expectation of
 outside funding.
-## Section 12.7. Collaboration Fund.
+## Section 12.7. Collaboration Fund
 (a) The Financial Management Board
 Collaboration Fund is intended as a means for
 clubs, residence halls, and organizations, such as
@@ -2299,7 +2269,7 @@ when deciding on presented appeals.
 support a policy of retroactive funding; all
 appeals shall be made before the event is to
 occur.
-## Section 12.8. Collaboration Fund Appeal.
+## Section 12.8. Collaboration Fund Appeal
 (a) The process of this appeal to the Financial
 Management Board shall be initiated and
 organized by the club.
@@ -2363,7 +2333,7 @@ of either the dollar amount recommended by the
 Club Coordination Council or the dollar amount
 requested by the club.
 # ARTICLE XIII. JUDICIAL COUNCIL
-## Section 13.1. Composition.
+## Section 13.1. Composition
 (a) The Judicial Council shall be composed of
 (but not limited to) the Judicial Council
 President, the Judicial Council Vice-President of
@@ -2439,7 +2409,7 @@ undergraduate student advocates.
 (5) The Judicial Council Vice-Presidents
 shall perform other duties as the Judicial
 Council President may determine.
-## Section 13.2. Powers & Duties.
+## Section 13.2. Powers & Duties
 (a) The Director of Student Activities shall
 appoint an advisor to the Judicial Council.
 (b) The Judicial Council shall work to ensure
@@ -2525,7 +2495,7 @@ These bylaws must be approved by the
 organization’s Student Activities advisor and
 presented to the Student Union Ethics
 Commission.
-## Section 13.3. Meetings & Procedures.
+## Section 13.3. Meetings & Procedures
 (a) The Judicial Council President and Vice-
 Presidents shall meet at least once each month,
 during regular academic school year, at a
@@ -2540,7 +2510,7 @@ of the Election Committee when necessary.
 (d) The Vice-President of Peer Advocacy shall
 call meetings of the undergraduate student
 advocates when necessary.
-## Section 13.4. Specific Duties.
+## Section 13.4. Specific Duties
 (a) The incoming Judicial Council President
 shall develop, submit, and present a budget
 proposal for the Judicial Council to the Financial
@@ -2558,7 +2528,7 @@ responsible for distributing election information
 and guidelines to the Hall Councils, monitoring
 voting sites, and administering awareness for the
 rules of elections within their Hall.
-## Section 13.5. Hearings.
+## Section 13.5. Hearings
 (a) All allegations of election misconduct are to
 be submitted to the Vice-President of Elections.
 All potential violations must be reported within
@@ -2634,7 +2604,7 @@ decision of the Election Committee, which must
 be informed by the written report of the Senate
 and may not be identical to the original decision,
 is final.
-## Section 13.6. Debates.
+## Section 13.6. Debates
 (a) The Election Committee and Judicial
 Council shall facilitate campus debates for the
 candidates running for Student Body President
@@ -2652,8 +2622,7 @@ following the primary election.
 Judicial Council shall host an additional debate
 between the run-off re-election candidates on
 Sunday night preceding the run-off re-election.
-## Section 13.7. Student Union Ethics
-Commission.
+## Section 13.7. Student Union Ethics Commission
 (a) The Student Union Ethics Commission shall
 conduct hearings according to this Constitution,
 its bylaws, and guidelines adopted by the Senate
@@ -2726,7 +2695,7 @@ aid the Senate in the selection process of the
 Michael J. Palumbo Award as defined in Article
 XIX of this Constitution.
 # ARTICLE XIV. REMOVALS, RECALLS, & VACANCIES
-## Section 14.1. Impeachment & Removal.
+## Section 14.1. Impeachment & Removal
 (a) The Senate may bring bills of impeachment
 against the Student Body President, the Student
 04/13/2016 University of Notre Dame du Lac 35
@@ -2760,7 +2729,7 @@ office.
 Senate not listed in Subsection (a) above is
 subject to removal by the Senate with a twothirds
 vote for misconduct in office.
-## Section 14.2. Recall of Elected Officials.
+## Section 14.2. Recall of Elected Officials
 (a) A petition bearing the valid signatures of
 15% of the undergraduate student body currently
 residing locally shall cause the Senate to hold a
@@ -2797,7 +2766,7 @@ and local address of the signing student.
 be necessary for removal from office, provided
 that 20% of the elected official’s specified
 constituency casts votes.
-## Section 14.3. Vacancies.
+## Section 14.3. Vacancies
 (a) In the event of a vacancy in an elected office
 due to resignation or recall, a new election shall
 be held within two academic weeks.
@@ -2892,7 +2861,7 @@ President and an Acting Vice-President
 within two academic weeks, subject to the
 approval of the Senate.
 # ARTICLE XV. PETITION, INITIATIVE, & REFERENDUM
-## Section 15.1. Petition.
+## Section 15.1. Petition
 (a) A petition bearing the valid signatures of
 200 members of the undergraduate student body
 shall cause the Senate to consider a specific
@@ -2901,7 +2870,7 @@ presentation of the petition to the Senate.
 (b) A valid signature for the purpose of petition
 must include the full name and local address of
 the signing undergraduate student.
-## Section 15.2. Initiative.
+## Section 15.2. Initiative
 (a) A petition containing the signatures of 15%
 of the undergraduate student body may create an
 initiative.
@@ -2916,7 +2885,7 @@ the issue of the initiative.
 (c) A valid signature for the purpose of
 initiative must include the full name and local
 address of the signing undergraduate student.
-## Section 15.3. Referendum.
+## Section 15.3. Referendum
 (a) A referendum is an instrument by which the
 Senate can gauge undergraduate student opinion
 on a certain issue by placing the issue in ballot
@@ -2927,7 +2896,7 @@ action by the Senate.
 front of the undergraduate student body by a
 simple majority vote.
 # ARTICLE XVI. TRANSITION & EVALUATION
-## Section 16.1. Transition & Continuity.
+## Section 16.1. Transition & Continuity
 (a) Each Student Union organization shall
 develop written procedures, methods, and
 policies to maintain continuity and ensure a
@@ -2945,7 +2914,7 @@ plans. The Student Union Ethics Commission
 shall monitor the transition and internal review
 of the Student Union and make
 recommendations to the Senate.
-## Section 16.2. Internal Review & Reform.
+## Section 16.2. Internal Review & Reform
 (a) Student Union organizations shall review
 sections of this Constitution enumerating their
 respective purpose, duties, powers, and
@@ -2957,7 +2926,7 @@ Senate prior to April 30th of each year.
 Suggestions shall be presented as amendments
 when appropriate.
 # ARTICLE XVII. ELECTIONS
-## Section 17.1. General Provisions.
+## Section 17.1. General Provisions
 (a) Any Notre Dame undergraduate student in
 good academic standing (as determined by the
 Office of the Registrar or the First Year of
@@ -3131,7 +3100,7 @@ the discretion of the Election Committee. The
 Election Committee shall be able to select an
 appropriate sanction, up to and including
 forfeiture of candidacy.
-## Section 17.2. Student Body President, Vice-President, & Class Councils.
+## Section 17.2. Student Body President, Vice-President, & Class Councils
 (a) The exact date of the elections for Student
 Body President, Vice-President, and Class
 Officers shall be announced before January 30th
@@ -3332,7 +3301,7 @@ shall not be assessed against the limit.
 Combining campaigning funds of more than
 one ticket is not permitted and shall result in
 forfeiture.
-## Section 17.3. Hall Elections.
+## Section 17.3. Hall Elections
 (a) General Hall Provisions.
 (1) All hall elections are to be conducted by
 the Hall Election Coordinator.
@@ -3414,7 +3383,7 @@ shall not be assessed against the limit.
 Combining campaigning funds of more than
 one ticket is not permitted and shall result in
 forfeiture.
-## Section 17.4. Off-Campus Elections.
+## Section 17.4. Off-Campus Elections
 (a) The election shall be held on or before the
 third full week of April of each year.
 (b) The Off-Campus President and Vice-
@@ -3444,7 +3413,7 @@ which shall not be assessed against the limit.
 Combining campaigning funds of more than one
 ticket is not permitted and shall result in
 forfeiture.
-## Section 17.5. Election Results.
+## Section 17.5. Election Results
 (a) To win the election, a candidate/ticket must
 receive a majority of valid votes cast. There
 shall be an option for the voter to abstain on the
@@ -3513,7 +3482,7 @@ limit.
 candidates for a position or office, that position
 or office shall go unfilled.
 # ARTICLE XVIII. STUDENT UNION FISCAL POLICY
-## Section 18.1. Preamble.
+## Section 18.1. Preamble
 (a) The following general fiscal policy and
 guidelines provides the means for facilitating a
 sharing of responsibilities and decision making
@@ -3521,7 +3490,7 @@ opportunities among the officially recognized
 Student Union organizations and the Student
 Activities Office of the University of Notre
 Dame.
-## Section 18.2. General Guidelines.
+## Section 18.2. General Guidelines
 (a) Mandatory student activity fees, as fixed by
 the University and the Student Senate shall be
 collected by the Notre Dame Accounting
@@ -3554,7 +3523,7 @@ organizations.
 serving in official capacities, or to any other
 full or part-time employees of the Student
 Union.
-## Section 18.3. Method of Allocation.
+## Section 18.3. Method of Allocation
 (a) The pool of available funds shall be
 comprised of the total amount of student activity
 fees collected plus a portion of the proceeds
@@ -3619,7 +3588,7 @@ the Shirt Charity Medical Fund a minimum
 $100,000 Rector Fund allocation, direct revenue
 will be diverted from that year’s Shirt Charity
 Endowment investment to offset any difference.
-## Section 18.4. Special Limitations.
+## Section 18.4. Special Limitations
 (a) Allocated funds may not be used for the
 purchase of alcoholic beverages, tobacco
 products, or other controlled substances of any
@@ -3686,7 +3655,7 @@ Treasurer, and Financial Management Board,
 when accepting bids for The Shirt, will ensure
 that the accepted bid is from a company which
 does not employ the use of sweatshops.
-## Section 18.5. Political Activities.
+## Section 18.5. Political Activities
 (a) Funds of any type (allocated or unallocated)
 cannot be used for a direct contribution to any
 candidate for political office, including student
@@ -3728,8 +3697,7 @@ as a club and a disclaimer that it is not a
 University-sponsored event, either orally or
 in writing, at rallies and other events, and on
 club websites.
-## Section 18.6. Financial Management Board
-Approvals.
+## Section 18.6. Financial Management Board Approvals
 (a) The salaries, if any, of elected and/or
 appointed officials shall be approved by the
 Financial Management Board and the Student
@@ -3765,7 +3733,7 @@ in order to grant approval.
 Management Board decisions and reverse these
 decisions by a two-thirds vote of all Senate
 members.
-## Section 18.7. Student Business Financial Guidelines.
+## Section 18.7. Student Business Financial Guidelines
 (a) The Financial Management Board shall
 monitor the finances of the Student Businesses.
 (b) The Student Businesses shall have no initial
@@ -3814,8 +3782,7 @@ decisions must be finalized by October 31st
 04/13/2016 University of Notre Dame du Lac 47
 to permit the necessary funds transfer prior
 to November 1st, as outlined above.
-## Section 18.8. Club Coordination Council
-Guidelines.
+## Section 18.8. Club Coordination Council Guidelines
 (a) Funds from clubs rendered inactive by the
 Club Coordination Council and Student
 Activities shall be reallocated by the Club
@@ -3902,7 +3869,7 @@ overseen by the Financial Management Board.
 (f) Any disputes regarding the Shirt Charity
 Endowment shall be resolved by the Senate.
 # ARTICLE XIX. ANNUAL AWARDS
-## Section 19.1. The Irish Clover Award.
+## Section 19.1. The Irish Clover Award
 (a) The Irish Clover Award is given to two
 outstanding members of the Notre Dame
 community for exemplary service to the student
@@ -3910,7 +3877,7 @@ body. Recipients may include students, faculty,
 staff, administrators, or alumni.
 (b) The Student Senate shall choose the
 recipients of the Irish Clover Award each term.
-## Section 19.2. The Michael J. Palumbo Award.
+## Section 19.2. The Michael J. Palumbo Award
 (a) Named in honor of its first recipient, the
 Michael J. Palumbo Award shall be given
 annually to a member of the undergraduate
