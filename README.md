@@ -31,78 +31,51 @@ Body of the University of Notre Dame and form the Notre Dame Student Union.
 
 # ARTICLE I. GENERAL PROVISIONS
 ## Section 1.1. Name
-(a) The name of the organization which shall carry out the goals of the preamble shall be the ‘Notre Dame Student Union,’ henceforth referred to as ‘Student Union.’
+* (a) The name of the organization which shall carry out the goals of the preamble shall be the ‘Notre Dame Student Union,’ henceforth referred to as ‘Student Union.’  
 
 ## Section 1.2. Authority
-(a) The authority of this Constitution is the basis for all business of the Student Union. The Student Union or any members thereof shall not act in any way that is contrary to this Constitution. 
-(b) Each Student Union organization shall develop written bylaws by May 1st to establish the operational procedures (including attendance and tardiness) necessary for the organization to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
-		(1) Nothing in the bylaws shall come into conflict with this Constitution.  
-		(2) Amendments to an organization’s bylaws may only be written by the organization the bylaws pertain to and must be approved by ¾ of the voting members within that organization. The Student Activities advisor to the organization must approve any bylaw amendments.  
-(c) This Constitution shall mandate the following—  
-		(1) All voting shall require a simple majority unless otherwise specified in this Constitution. When not specified by this Constitution, The Standard Code of Parliamentary Procedure shall take effect.  
-		(2) All members of the Senate must be given a copy of The Standard Code of Parliamentary Procedure as well as a copy of this Constitution.  
-		(3) The Student Union Ethics Commission shall be in charge of reviewing and enforcing all attendance policies set forth in each Student Union organization’s constitutional article and/or bylaws. Furthermore, the Ethics Commission will oversee the faithful completion of the duties of each position enumerated in this Constitution. Should the Ethics Commission feel that any Student Union official is in violation of attendance policies and/or neglecting his or her duties as set forth in this Constitution and/or any applicable bylaws, the Ethics Commission may take the appropriate action outlined in Section 13.7 of this Constitution.  
-		(4) All organizations shall maintain detailed records of all official meetings and shall submit such records to the Student Union Secretary.
+* (a) The authority of this Constitution is the basis for all business of the Student Union. The Student Union or any members thereof shall not act in any way that is contrary to this Constitution.  
+
+* (b) Each Student Union organization shall develop written bylaws by May 1st to establish the operational procedures (including attendance and tardiness) necessary for the organization to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
+  * (1) Nothing in the bylaws shall come into conflict with this Constitution.  
+
+  * (2) Amendments to an organization’s bylaws may only be written by the organization the bylaws pertain to and must be approved by ¾ of the voting members within that organization. The Student Activities advisor to the organization must approve any bylaw amendments.  
+
+* (c) This Constitution shall mandate the following—  
+
+  * (1) All voting shall require a simple majority unless otherwise specified in this Constitution. When not specified by this Constitution, The Standard Code of Parliamentary Procedure shall take effect.  
+
+  * (2) All members of the Senate must be given a copy of The Standard Code of Parliamentary Procedure as well as a copy of this Constitution.  
+
+* (3) The Student Union Ethics Commission shall be in charge of reviewing and enforcing all attendance policies set forth in each Student Union organization’s constitutional article and/or bylaws. Furthermore, the Ethics Commission will oversee the faithful completion of the duties of each position enumerated in this Constitution. Should the Ethics Commission feel that any Student Union official is in violation of attendance policies and/or neglecting his or her duties as set forth in this Constitution and/or any applicable bylaws, the Ethics Commission may take the appropriate action outlined in Section 13.7 of this Constitution.  
+
+* (4) All organizations shall maintain detailed records of all official meetings and shall submit such records to the Student Union Secretary.  
 		
 ## Section 1.3. Eligibility for Office
-(a) Any undergraduate student enrolled at the
-University of Notre Dame who is of good
-academic standing, as determined by the Office
-of the Registrar or the First Year of Studies
-Program, and of good disciplinary standing, as
-W
-04/13/2016 University of Notre Dame du Lac 5
-determined by the Office of Community
-Standards and Housing, shall be eligible to hold
-an office in the Notre Dame Student Union.
-(b) All elected officials (including those within
-the Hall Presidents Council, Student Union
-Board, and Senate) as well as appointed Senate
-Department Directors must be present for their
-entire term.
-(c) No person may simultaneously hold more
-than one office enumerated in this Constitution.
+* (a) Any undergraduate student enrolled at the University of Notre Dame who is of good academic standing, as determined by the Office of the Registrar or the First Year of Studies Program, and of good disciplinary standing, as determined by the Office of Community Standards and Housing, shall be eligible to hold an office in the Notre Dame Student Union.  
+
+* (b) All elected officials (including those within the Hall Presidents Council, Student Union Board, and Senate) as well as appointed Senate Department Directors must be present for their entire term.  
+
+* (c) No person may simultaneously hold more than one office enumerated in this Constitution.  
+
 ## Section 1.4. Amendment
-(a) An amendment to this Constitution may be
-presented to the Senate by any member of
-Senate or through a petition.
-(1) Before a member of the Senate presents
-an amendment to the Senate, he or she shall
-consult with the Judicial Council President
-and the Director of the Department of
-Internal Affairs on the consistency of the
-proposed amendment within this
-constitution.
-(b) A presented amendment to this Constitution
-shall be adopted with the following actions—
-(1) A two-thirds vote of all present and
-voting members of the Senate and the
-signature of the Student Body President.
-(2) If the Student Body President does not
-sign an amendment passed by a two-thirds
-vote of all voting members of the Senate, he
-or she shall return it to the Senate, stating his
-or her objections, within two weeks, at
-which time the amendment may be adopted
-with a five-sixths vote of all voting members
-of the Senate.
-(3) The approval of the Student Activities
-Office.
+* (a) An amendment to this Constitution may be presented to the Senate by any member of Senate or through a petition.  
+
+  * (1) Before a member of the Senate presents an amendment to the Senate, he or she shall consult with the Judicial Council President and the Director of the Department of Internal Affairs on the consistency of the proposed amendment within this constitution.  
+
+* (b) A presented amendment to this Constitution shall be adopted with the following actions—  
+
+  * (1) A two-thirds vote of all present and voting members of the Senate and the signature of the Student Body President.  
+  
+  * (2) If the Student Body President does not sign an amendment passed by a two-thirds vote of all voting members of the Senate, he or she shall return it to the Senate, stating his or her objections, within two weeks, at which time the amendment may be adopted with a five-sixths vote of all voting members of the Senate.  
+  
+  * (3) The approval of the Student Activities Office.  
+  
 ## Section 1.5. Non-Discrimination Clause
-(a) This Constitution recognizes the Godgranted
-dignity of all persons and their right to
-respect, justice, and a welcoming environment,
-regardless of race, color, ethnicity, nationality,
-age, sex, gender, sexual orientation, gender
-identity, ability or disability, religion, veteran
-status, socioeconomic status, and documentation
-status. This Constitution forbids any acts of
-harmful and unjust discrimination and disrespect
-within the Student Union.
-(b) Allegations of discriminatory activity shall
-be brought before the Student Union Ethics
-Commission as misconduct under Subsection (a)
-of Section 13.7 of this Constitution.
+* (a) This Constitution recognizes the Godgranted dignity of all persons and their right to respect, justice, and a welcoming environment, regardless of race, color, ethnicity, nationality, age, sex, gender, sexual orientation, gender identity, ability or disability, religion, veteran status, socioeconomic status, and documentation status. This Constitution forbids any acts of harmful and unjust discrimination and disrespect within the Student Union.  
+
+* (b) Allegations of discriminatory activity shall be brought before the Student Union Ethics Commission as misconduct under Subsection (a) of Section 13.7 of this Constitution.  
+
 # ARTICLE II. EXECUTIVE OFFICERS
 ## Section 2.1. Student Body President
 (a) The Student Body President shall serve a
