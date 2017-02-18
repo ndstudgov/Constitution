@@ -125,273 +125,192 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 * (f) The Student Body Vice-President shall assist the Student Body President in the development, submission, and presentation of the budget proposal for the Office of the Student Body President.  
 
 ## Section 2.3. Chief of Staff
-(a) The Chief of Staff shall assist the Student
-Body President in the daily duties and tasks of
-the President.
-(b) The Chief of Staff shall assist the Student
-Body Vice-President in the coordination of the
-efforts of any standing or ad hoc departments as
-needed.
-(c) The Chief of Staff shall attend all Executive
-Cabinet meetings.
-(d) The Chief of Staff shall also attend as a nonvoting
-member all Student Union meetings the
-Student Body President attends as enumerated
-below—
-(1) Senate.
-(2) Campus Life Council.
-(e) The Chief of Staff shall be responsible for
-all Senate press releases.
-(f) The Chief of Staff shall be responsible for
-publicity for the Senate.
-(g) The Chief of Staff shall be appointed by the
-Student Body President and approved by the
-Senate.
-(h) The Chief of Staff shall chair meetings of
-the Executive Programming Board and shall
-oversee the online programming calendar.
+* (a) The Chief of Staff shall assist the Student Body President in the daily duties and tasks of the President.  
+
+* (b) The Chief of Staff shall assist the Student Body Vice-President in the coordination of the efforts of any standing or ad hoc departments as needed.  
+
+* (c) The Chief of Staff shall attend all Executive Cabinet meetings. 
+
+* (d) The Chief of Staff shall also attend as a nonvoting member all Student Union meetings the Student Body President attends as enumerated below—
+  * (1) Senate.  
+  * (2) Campus Life Council.  
+  
+* (e) The Chief of Staff shall be responsible for all Senate press releases. 
+
+* (f) The Chief of Staff shall be responsible for publicity for the Senate.  
+
+* (g) The Chief of Staff shall be appointed by the Student Body President and approved by the Senate.  
+
+* (h) The Chief of Staff shall chair meetings of the Executive Programming Board and shall oversee the online programming calendar.   
+
 ## Section 2.4. Student Union Secretary
-(a) The Student Body President shall nominate
-the Student Union Secretary at the first Senate
-meeting of the term. The Senate shall review and
-approve this nomination.
-(b) The Student Union Secretary shall facilitate
-the distribution of information among all
-branches of the Student Union. This shall
-include distribution of information among the
-following groups—
-(1) Senate.
-(2) Executive Cabinet.
-(3) Executive Programming Board.
-(4) Campus Life Council.
-(c) The Student Union Secretary shall be
-responsible for the maintenance of the Student
-Union’s public records, which shall include (but
-are not limited to) the minutes and agendas of
-the aforementioned Student Union meetings.
-The Student Union Secretary shall also serve as
-the archivist of the Student Union Archives and
-ensure their effective and efficient organization
-and operation.
-(d) The Student Union Secretary shall make all
-public records of the Student Union easily
-accessible to all students, faculty, and staff of
-the University.
-(e) The Student Union Secretary shall be
-responsible for the preparation of minutes of the
-aforementioned Student Union meetings and
-distribute the minutes to the members of the
-Senate as well as students, faculty, and staff who
-request the minutes.
-(f) The Student Union Secretary must compile a
-document containing all agendas, dockets, and
-minutes for the given aforementioned Student
-Union groups’ terms.
-## Section 2.5. Parliamentarian
-(a) The incoming Judicial Council President
-shall nominate a Parliamentarian to the Senate at
-the first Senate meeting of the term. The Senate
-shall review and approve this nomination.
-(b) The Parliamentarian shall advise the
-Chairperson of the Senate and Campus Life
-Council regarding parliamentary procedure and
-The Standard Code of Parliamentary Procedure.
+* (a) The Student Body President shall nominate the Student Union Secretary at the first Senate meeting of the term. The Senate shall review and approve this nomination.  
+* (b) The Student Union Secretary shall facilitate the distribution of information among all branches of the Student Union. This shall include distribution of information among the following groups—  
+
+  * (1) Senate.  
+  * (2) Executive Cabinet.  
+  * (3) Executive Programming Board.  
+  * (4) Campus Life Council.  
+  
+* (c) The Student Union Secretary shall be responsible for the maintenance of the Student Union’s public records, which shall include (but are not limited to) the minutes and agendas of the aforementioned Student Union meetings. The Student Union Secretary shall also serve as the archivist of the Student Union Archives and ensure their effective and efficient organization and operation.  
+
+* (d) The Student Union Secretary shall make all public records of the Student Union easily accessible to all students, faculty, and staff of the University.  
+
+* (e) The Student Union Secretary shall be responsible for the preparation of minutes of the aforementioned Student Union meetings and distribute the minutes to the members of the Senate as well as students, faculty, and staff who request the minutes. 
+
+* (f) The Student Union Secretary must compile a document containing all agendas, dockets, and minutes for the given aforementioned Student Union groups’ terms.  
+  
+## Section 2.5. Parliamentarian  
+
+* (a) The incoming Judicial Council President shall nominate a Parliamentarian to the Senate at the first Senate meeting of the term. The Senate shall review and approve this nomination.  
+
+* (b) The Parliamentarian shall advise the Chairperson of the Senate and Campus Life Council regarding parliamentary procedure and The Standard Code of Parliamentary Procedure.  
+
 ## Section 2.6. Director of Communications
-(a) The Director of Communications shall
-update and maintain a web site consistent with
-the Student Union Board and Senate and shall
-oversee all external communications of student
-government.
-(b) The web site shall—
-(1) Facilitate communication and
-collaboration among student groups.
-(2) Effectively publicize all student group
-events and programs to the student body.
-(3) Be updated weekly during the academic
-year.
-(c) The Director of Communications shall
-attend Executive Cabinet and Executive
-Programming Board meetings.
-(d) The Director of Communications shall be
-appointed by the Student Body President and
-approved by the Senate.
-## Section 2.7. Athletics Representative
-(a) The Student Body President shall appoint a
-representative to the University Department of
-Athletics.
-(b) The Athletics Representative shall aid and
-advise the Student Body President and Student
-Body Vice-President in all matters pertaining to
-athletics.
-(c) The Athletics Representative shall serve as a
-member of Executive Cabinet and be approved
-by the Student Senate.
-## Section 2.8. Executive Controller
-(a) The Executive Controller shall maintain an
-accurate and timely record of all income and
-expenses of the Senate.
-(b) The Executive Controller shall approve all
-transactions of the Senate and submit requests to
-the Office of the Student Union Treasurer.
-(c) The Executive Controller shall be appointed
-by the Student Body President and be approved
-by the Student Senate.
-(d) The Executive Controller shall assist the
-Student Body President in the development,
-submission, and presentation of the budget
-proposal for the Senate to the Financial
-Management Board for the annual allocation
-meeting.
-(e) The Executive Controller shall attend all
-Executive Cabinet meetings and all Financial
-Management Board meetings.
-## Section 2.9. Campus Ministry Representative
-(a) The Student Body President shall appoint a
-representative to the Office of Campus Ministry.
-(b) The Campus Ministry Representative shall
-be responsible for providing input on the
-spiritual needs of the student body and the
-student government policies relating to the same.
-(c) The Campus Ministry Representative shall
-sit as a member of the Executive Cabinet and be
-approved by the Student Senate.
-## Section 2.10. Student Union Representative to Diversity Council
-(a) The Student Body President shall appoint a
-representative to the Diversity Council.
-(b) Student Union Representative to Diversity
-Council shall be responsible for maintaining
-contact and communication between Student
-Government and Diversity Council.
-(c) Final resolutions and recommendations may
-be presented between the two bodies by way of
-the Student Union Representative to Diversity
-Council.
-(d) The Student Union Representative to
-Diversity Council shall sit as a member of the
-Executive Cabinet and be approved by the
-Student Senate.
-# ARTICLE III. SENATE
-## Section 3.1. Voting Composition
-(a) The Senate shall be composed of the
-following members:
-(1) One elected Senator per undergraduate
-residence hall.
-04/13/2016 University of Notre Dame du Lac 9
-(2) One elected off-campus undergraduate
-Senator.
-(3) Four Class Presidents.
-(4) Club Coordination Council President.
-(5) Off-Campus President.
-(b) Each Senator shall be elected by the
-undergraduate residents of each hall each year.
-Students who currently reside off-campus or will
-during the fall semester shall elect one
-undergraduate student to serve as the Off-
-Campus Senator each year.
-(c) Each Senate member must be present for the
-entire term.
-(d) Each Senate member shall serve a one-year
-term beginning on April 1st of the year elected.
-(e) Each Senate member shall have one vote.
-(f) Student Body Vice-President.
-(1) The Student Body Vice-President shall
-serve as the Chairperson of the Senate and
-ensure its efficient and effective operation.
-The Chairperson shall only cast a vote when
-casting a vote affects the result.
-## Section 3.2. Non-Voting Composition
-(a) The Student Body President shall serve as a
-non-voting member of the Senate.
-(1) The Student Body President shall
-verbally communicate points of inquiry
-raised by the Senate within one academic
-week to the Office of Student Affairs.
-(b) Parliamentarian.
-(1) The Parliamentarian shall advise the
-Chairperson of the Senate regarding
-procedure.
-(c) Student Union Secretary.
-(1) The Student Union Secretary shall be
-responsible for the maintenance of the
-Senate’s public records, which shall include,
-but are not limited to, the minutes and
-agendas of Senate.
-(2) The Student Union Secretary shall make
-all public records of the Senate easily
-accessible to all students, faculty, and staff
-of the University.
-(3) The Student Union Secretary shall
-prepare the minutes of Senate meetings and
-distribute the minutes to the members of the
-Senate as well as students, faculty, and staff
-who request the minutes.
-(4) The Student Union Secretary must
-compile a document containing all agendas,
-dockets, and minutes for a given Senate’s
-and Campus Life Council’s term.
-(d) Department Directors.
-(1) The Student Body President shall accept
-applications for Department Directors and
-then nominate a Department Director for
-each of the Executive Departments.
-(2) Department Directors must be
-nominated by the Student Body President to
-the incoming Senate. Department Directors
-shall be approved by a ⅔ vote of the Student
-Senate. Any potential conflicts of interest
-that may arise because the Director will
-simultaneously be a member of a Student
-Union club or special interest organization
-should be made known to the Senate during
-the approval process.
-(3) Senate Department Directors shall be
-appointed after the elections for Senators
-have taken place.
-(4) The appointed Department Director may
-attend and speak at Senate meetings.
-(5) The appointed Department Director
-shall attend all weekly Executive Cabinet
-meetings.
-(e) Executive Controller.
-(1) The Controller shall maintain an
-accurate and timely record of all income and
-expenses of the Senate.
-(2) The Controller shall approve all
-transactions of the Senate and submit
-requests to the Office of the Student Union
-Treasurer.
-(3) The Controller shall be appointed by the
-Student Body President.
-(4) The Controller shall assist the Student
-Body President in the development,
-submission, and presentation of the budget
-proposal for the Senate to the Financial
-Management Board for the annual allocation
-meeting.
-(5) The Controller shall attend Executive
-Cabinet meetings.
-(f) Chief of Staff.
-(1) The Chief of Staff shall be responsible
-for all Senate press releases.
-(2) The Chief of Staff shall be responsible
-for publicity for the Senate.
-(3) The Chief of Staff shall attend
-Executive Cabinet meetings.
-(g) The Student Union Treasurer shall be a nonvoting
-member of Senate.
-(h) The Student Union Board Executive
-Director shall be a non-voting member of
-Senate.
-(i) At least one Hall Presidents Council Co-
-Chair shall be a non-voting member of Senate.
-(j) Judicial Council President.
-(1) The Judicial Council President shall
-serve as non-voting member of Senate.
-(2) The Judicial Council President has
-speaking privileges, but may not vote or
-make motions, so as to prevent any bias in
-his/her role as the chief judicial officer of
-the Student Union.
+
+* (a) The Director of Communications shall update and maintain a web site consistent with the Student Union Board and Senate and shall oversee all external communications of student government.  
+
+* (b) The web site shall—  
+
+  * (1) Facilitate communication and collaboration among student groups.  
+  
+  * (2) Effectively publicize all student group events and programs to the student body.  
+  
+  * (3) Be updated weekly during the academic year.  
+  
+* (c) The Director of Communications shall attend Executive Cabinet and Executive Programming Board meetings.  
+
+* (d) The Director of Communications shall be appointed by the Student Body President and approved by the Senate.  
+
+## Section 2.7. Athletics Representative  
+
+* (a) The Student Body President shall appoint a representative to the University Department of Athletics.  
+
+* (b) The Athletics Representative shall aid and advise the Student Body President and Student Body Vice-President in all matters pertaining to athletics.  
+
+* (c) The Athletics Representative shall serve as a member of Executive Cabinet and be approved by the Student Senate.  
+
+## Section 2.8. Executive Controller  
+
+* (a) The Executive Controller shall maintain an accurate and timely record of all income and expenses of the Senate.  
+
+* (b) The Executive Controller shall approve all transactions of the Senate and submit requests to the Office of the Student Union Treasurer.  
+
+* (c) The Executive Controller shall be appointed by the Student Body President and be approved by the Student Senate.  
+
+* (d) The Executive Controller shall assist the Student Body President in the development, submission, and presentation of the budget proposal for the Senate to the Financial Management Board for the annual allocation meeting.  
+
+* (e) The Executive Controller shall attend all Executive Cabinet meetings and all Financial Management Board meetings.  
+
+## Section 2.9. Campus Ministry Representative  
+
+* (a) The Student Body President shall appoint a representative to the Office of Campus Ministry.  
+
+* (b) The Campus Ministry Representative shall be responsible for providing input on the spiritual needs of the student body and the  student government policies relating to the same.  
+
+* (c) The Campus Ministry Representative shall sit as a member of the Executive Cabinet and be approved by the Student Senate.  
+
+## Section 2.10. Student Union Representative to Diversity Council  
+
+* (a) The Student Body President shall appoint a representative to the Diversity Council.  
+
+* (b) Student Union Representative to Diversity Council shall be responsible for maintaining contact and communication between Student Government and Diversity Council.  
+
+* (c) Final resolutions and recommendations may be presented between the two bodies by way of the Student Union Representative to Diversity Council.  
+
+* (d) The Student Union Representative to Diversity Council shall sit as a member of the Executive Cabinet and be approved by the Student Senate.  
+
+# ARTICLE III. SENATE  
+
+## Section 3.1. Voting Composition  
+
+* (a) The Senate shall be composed of the following members:  
+
+  * (1) One elected Senator per undergraduate residence hall.  
+  
+  * (2) One elected off-campus undergraduate Senator.  
+  
+  * (3) Four Class Presidents.  
+  
+  * (4) Club Coordination Council President.  
+  
+  * (5) Off-Campus President.  
+  
+* (b) Each Senator shall be elected by the undergraduate residents of each hall each year. Students who currently reside off-campus or will during the fall semester shall elect one undergraduate student to serve as the Off-Campus Senator each year.  
+
+* (c) Each Senate member must be present for the entire term.  
+ 
+* (d) Each Senate member shall serve a one-year term beginning on April 1st of the year elected.  
+
+* (e) Each Senate member shall have one vote.  
+
+* (f) Student Body Vice-President.  
+
+  * (1) The Student Body Vice-President shall serve as the Chairperson of the Senate and ensure its efficient and effective operation. The Chairperson shall only cast a vote when casting a vote affects the result.  
+  
+## Section 3.2. Non-Voting Composition  
+
+* (a) The Student Body President shall serve as a non-voting member of the Senate.  
+
+  * (1) The Student Body President shall verbally communicate points of inquiry raised by the Senate within one academic week to the Office of Student Affairs.  
+
+* (b) Parliamentarian.  
+
+  * (1) The Parliamentarian shall advise the Chairperson of the Senate regarding procedure.  
+  
+* (c) Student Union Secretary.  
+
+  * (1) The Student Union Secretary shall be responsible for the maintenance of the Senate’s public records, which shall include, but are not limited to, the minutes and agendas of Senate.  
+  
+  * (2) The Student Union Secretary shall make all public records of the Senate easily accessible to all students, faculty, and staff of the University.  
+  
+  * (3) The Student Union Secretary shall prepare the minutes of Senate meetings and distribute the minutes to the members of the Senate as well as students, faculty, and staff who request the minutes.  
+  
+  * (4) The Student Union Secretary must compile a document containing all agendas, dockets, and minutes for a given Senate’s and Campus Life Council’s term.  
+  
+* (d) Department Directors.  
+
+  * (1) The Student Body President shall accept applications for Department Directors and then nominate a Department Director for each of the Executive Departments.  
+  
+  * (2) Department Directors must be nominated by the Student Body President to the incoming Senate. Department Directors shall be approved by a ⅔ vote of the Student Senate. Any potential conflicts of interest that may arise because the Director will simultaneously be a member of a Student Union club or special interest organization should be made known to the Senate during the approval process.  
+  
+  * (3) Senate Department Directors shall be appointed after the elections for Senators have taken place.  
+  
+  * (4) The appointed Department Director may attend and speak at Senate meetings.  
+  
+  * (5) The appointed Department Director shall attend all weekly Executive Cabinet meetings.  
+  
+* (e) Executive Controller.  
+
+  * (1) The Controller shall maintain an accurate and timely record of all income and expenses of the Senate.  
+  
+  * (2) The Controller shall approve all transactions of the Senate and submit requests to the Office of the Student Union Treasurer.  
+  
+  * (3) The Controller shall be appointed by the Student Body President.  
+  
+  * (4) The Controller shall assist the Student Body President in the development, submission, and presentation of the budget proposal for the Senate to the Financial Management Board for the annual allocation meeting.  
+  
+  * (5) The Controller shall attend Executive Cabinet meetings.
+  
+* (f) Chief of Staff.  
+
+  * (1) The Chief of Staff shall be responsible for all Senate press releases.  
+  
+  * (2) The Chief of Staff shall be responsible for publicity for the Senate.  
+   
+  * (3) The Chief of Staff shall attend Executive Cabinet meetings.
+* (g) The Student Union Treasurer shall be a nonvoting member of Senate.  
+
+* (h) The Student Union Board Executive Director shall be a non-voting member of Senate.  
+
+* (i) At least one Hall Presidents Council Co-Chair shall be a non-voting member of Senate.  
+
+* (j) Judicial Council President.  
+
+  * (1) The Judicial Council President shall serve as non-voting member of Senate.  
+  
+  * (2) The Judicial Council President has speaking privileges, but may not vote or make motions, so as to prevent any bias in his/her role as the chief judicial officer of the Student Union.  
+  
 ## Section 3.3. Powers & Duties
 (a) The Senate shall formulate and advance the
 position of the undergraduate student body on all
