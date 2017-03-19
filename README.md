@@ -91,7 +91,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (h) The Student Body President shall attend all Senate meetings.  
 
-* (i) The Student Body President shall create ad hoc Senate departments as needed.  
+* (i) The Student Body President shall create *ad hoc* Senate departments as needed.  
 
 * (j) The Student Body President shall schedule and chair meetings between university leaders and local law enforcement leaders including, but not limited to, the Chief of the South Bend Police Department, Sheriff of St. Joseph County, District 1 Commander of the Indiana Excise Police, Chief of the Notre Dame Security Police, and a representative from the University of Notre Dame administration. The meetings shall take place at the following times during the President’s term:  
 
@@ -127,7 +127,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 ## Section 2.3. Chief of Staff
 * (a) The Chief of Staff shall assist the Student Body President in the daily duties and tasks of the President.  
 
-* (b) The Chief of Staff shall assist the Student Body Vice-President in the coordination of the efforts of any standing or ad hoc departments as needed.  
+* (b) The Chief of Staff shall assist the Student Body Vice-President in the coordination of the efforts of any standing or *ad hoc* departments as needed.  
 
 * (c) The Chief of Staff shall attend all Executive Cabinet meetings. 
 
@@ -312,620 +312,325 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   * (2) The Judicial Council President has speaking privileges, but may not vote or make motions, so as to prevent any bias in his/her role as the chief judicial officer of the Student Union.  
   
 ## Section 3.3. Powers & Duties
-(a) The Senate shall formulate and advance the
-position of the undergraduate student body on all
-issues concerning campus life.
-(b) Resolutions constitute a call for action and
-must be passed by a two-thirds vote of the
-Senate. A resolution cannot be adopted until it
-has been signed by the Student Body President.
-Any resolution not signed by the Student Body
-President within one academic week may be
-adopted by a three-fourths vote of all the voting
-members of the Senate.
-(c) Orders constitute the execution of explicitly
-stated powers of the Senate. Orders must be
-passed by a two-thirds vote unless otherwise
-stated.
-(d) A letter shall constitute an inquiry or point
-of information. Points of inquiry to the Office of
-Student Affairs shall be communicated verbally
-by the Student Body President within one
-academic week.
-(e) The Senate shall establish the fiscal policies
-of the Student Union and supervise the proper
-implementation of these policies.
-(f) The Senate shall review and address any
-allegation of misuse of undergraduate student
-organization funds or misconduct of
-undergraduate student organizations and their
-members though the Student Union Ethics
-Commission.
-(g) The Senate shall use the Campus Life
-Council as a forum where students may discuss
-matters affecting student affairs with faculty and
-administrative personnel in order to build
-campus-wide consensus and make appropriate
-recommendations to the Vice-President for
-Student Affairs. Resolutions passed in the
-Senate addressing the Office of Student Affairs
-shall be submitted directly to the Campus Life
-Council.
-(h) The Senate shall elect four Senators as
-voting members to serve on the Campus Life
-Council. The Senator representing Off-Campus
-shall automatically be appointed to serve as one
-of the four voting members on the Campus Life
-Council.
-(i) For all meetings of the Board of Trustees
-Student Affairs Committee, at which the agenda
-of the undergraduate student presentation is
-determined by the Student Body President and
-Vice-President, the Student Body President and
-Vice-President shall present to the Senate, no
-later than one week prior to the presentation to
-the Board of Trustees Student Affairs
-Committee, a summary of the issues covered in
-the presentation. The Senate may make informal
-recommendations regarding the content of the
-report to the Student Body President and Vice-
-President for their consideration.
-(j) The Senate shall review and approve any
-nominations made to it pursuant to the relevant
-provisions of this Constitution.
-(k) The Senate shall establish regulations for all
-elections under this Constitution.
-(l) The Senate shall make Senate documents
-available to undergraduate students upon
-request.
-(m) Each Senator shall attend his or her
-respective Hall Council meetings to disseminate
-information and survey undergraduate student
-opinion on Senate agenda items.
-(n) All positions enumerated in this Constitution
-shall perform other duties as the Senate may
-determine by a two-thirds vote of all Senate
-members.
-(o) The Senate shall adopt the most recent
-edition of The Standard Code of Parliamentary
-Procedure as the official rules of procedure
-governing the operation of the Senate. This
-Constitution and Senate bylaws shall take
-precedence when this Constitution or Senate
-bylaws and The Standard Code of
-Parliamentary Procedure conflict. Any rule in
-The Standard Code of Parliamentary Procedure
-may be temporarily suspended by a two-thirds
-vote of the Senate.
-(p) A majority vote shall be required for the
-passage of any action unless otherwise specified
-in this Constitution, Senate bylaws, or The
-Standard Code of Parliamentary Procedure.
+* (a) The Senate shall formulate and advance the position of the undergraduate student body on all issues concerning campus life.  
+
+* (b) Resolutions constitute a call for action and must be passed by a two-thirds vote of the Senate. A resolution cannot be adopted until it has been signed by the Student Body President. Any resolution not signed by the Student Body President within one academic week may be adopted by a three-fourths vote of all the voting members of the Senate.  
+
+* (c) Orders constitute the execution of explicitly stated powers of the Senate. Orders must be passed by a two-thirds vote unless otherwise stated.  
+
+* (d) A letter shall constitute an inquiry or point of information. Points of inquiry to the Office of Student Affairs shall be communicated verbally by the Student Body President within one academic week.  
+
+* (e) The Senate shall establish the fiscal policies of the Student Union and supervise the proper implementation of these policies.  
+
+* (f) The Senate shall review and address any allegation of misuse of undergraduate student organization funds or misconduct of undergraduate student organizations and their members though the Student Union Ethics Commission.  
+
+* (g) The Senate shall use the Campus Life Council as a forum where students may discuss matters affecting student affairs with faculty and administrative personnel in order to build campus-wide consensus and make appropriate recommendations to the Vice-President for Student Affairs. Resolutions passed in the Senate addressing the Office of Student Affairs shall be submitted directly to the Campus Life Council.  
+
+* (h) The Senate shall elect four Senators as voting members to serve on the Campus Life Council. The Senator representing Off-Campus shall automatically be appointed to serve as one of the four voting members on the Campus Life Council.  
+
+* (i) For all meetings of the Board of Trustees Student Affairs Committee, at which the agenda of the undergraduate student presentation is determined by the Student Body President and Vice-President, the Student Body President and Vice-President shall present to the Senate, no later than one week prior to the presentation to the Board of Trustees Student Affairs Committee, a summary of the issues covered in the presentation. The Senate may make informal recommendations regarding the content of the report to the Student Body President and Vice-President for their consideration.  
+
+* (j) The Senate shall review and approve any nominations made to it pursuant to the relevant provisions of this Constitution.  
+
+* (k) The Senate shall establish regulations for all elections under this Constitution.  
+
+* (l) The Senate shall make Senate documents available to undergraduate students upon request.  
+
+* (m) Each Senator shall attend his or her respective Hall Council meetings to disseminate information and survey undergraduate student opinion on Senate agenda items.  
+
+* (n) All positions enumerated in this Constitution shall perform other duties as the Senate may determine by a two-thirds vote of all Senate members.  
+
+* (o) The Senate shall adopt the most recent edition of The Standard Code of Parliamentary Procedure as the official rules of procedure governing the operation of the Senate. This Constitution and Senate bylaws shall take precedence when this Constitution or Senate bylaws and The Standard Code of Parliamentary Procedure conflict. Any rule in The Standard Code of Parliamentary Procedure may be temporarily suspended by a two-thirds vote of the Senate.  
+
+* (p) A majority vote shall be required for the passage of any action unless otherwise specified in this Constitution, Senate bylaws, or The Standard Code of Parliamentary Procedure.  
+
 ## Section 3.4. Meetings & Procedures
-(a) The Senate shall meet at least every week
-from April 1st to March 31st during the regular
-academic school year at a reasonable time and
-campus location determined by the Chairperson.
-(b) Any five members of the Senate possess the
-power to call a meeting with 48 hours written
-notice.
-(c) No business shall be conducted in the Senate
-unless a quorum is present. A quorum exists
-when 3/5 of the voting members are present. The
-Chairperson shall not be counted in the quorum.
-A member represented by proxy shall not be
-counted in the quorum.
-(d) Any member of the Senate shall lead the
-body in a short prayer to begin the meeting.
-(e) The Senate shall present bylaws by May 1st
-to establish the operational procedures
-(including, but not limited to, attendance and
-tardiness policies) necessary for the Senate to
-carry out its constitutional duties. These bylaws
-must be approved by the organization’s Student
-Activities advisor and presented to the Student
-Union Ethics Commission.
-(f) Attendance at meetings of the full Senate is
-mandatory for Senate members. Permission for
-an absence must be obtained from the
-Chairperson.
-(1) The Senate Department Directors and
-the Student Union Secretary are responsible
-for taking attendance at their respective
-meetings and will use their own discretion to
-mark absences.
-(2) A tardy is marked as more than ten
-minutes late for a meeting and three tardies
-are counted as one absence.
-(3) The Senate Department Directors or the
-Student Union Secretary will notify the
-Student Union Ethics Commission when a
-Senator has reached three unexcused
-absences for the full Senate meeting or three
-unexcused absences for a department
-meeting. An absence is deemed unexcused
-when one has not obtained consent from the
-Chair. The Chair should be notified at least
-twenty-four hours in advance.
-(4) The Student Union Ethics Commission
-will alert the Senator in writing when he or
-she has reached three unexcused absences.
-(5) After four unexcused absences have
-been reported by the Student Union
-Secretary or by Senate Department Directors
-to the Student Union Ethics Commission,
-the Student Union Ethics Commission will
-conduct a hearing to judge if a bill of
-impeachment is necessary due to the
-Senator’s negligence.
-(6) Excessive excused absences are
-unacceptable and will result in a referral to
-the Student Union Ethics Commission by
-the Chairperson of the Senate for review.
-(7) If the Student Union Ethics Commission
-finds that the Senator should be removed
-from office due to their behavior, a bill of
-impeachment will be brought before the full
-Senate at the next meeting.
-(g) After an individual has been impeached by
-the Senate, a hearing shall be conducted at the
-next regular meeting of the Senate or one
-academic school week, whichever is later, after
-impeachment. A hearing must be conducted
-before the vote for removal may be taken.
-(h) In the event of the absence of the
-Chairperson, and in the event the Chairperson
-has not given notice and appointed a voting
-member of Senate to the Chair, the Senate shall
-elect an acting chairperson from its voting
-membership present at that meeting.
-(i) The Chairperson shall establish the agenda
-in conjunction with the Executive Cabinet.
-(1) Said agenda as well as all resolutions
-and orders to be voted upon shall be
-distributed to Senate members no less than
-48 hours prior to the Senate meeting.
-(2) Any resolution or order that does not
-meet this condition may only come to a vote
-at the current meeting if the members
-unanimously agree to take a vote.
-(3) In the event of a Senator-called meeting
-as outlined in subsection 3.4 (b), a tentative
-agenda and any new business to be voted
-upon must be provided when the meeting is
-called.
-(j) Any member of the Senate, non-voting or
-voting, shall possess the right of agenda.
-(k) Should an agenda item affecting the interests
-of the faculty come before the Student Senate,
-the Chairperson may recognize a representative
-of the Academic Council to address the Student
-Senate on the issue.
-(l) All meetings of the Senate shall be open to
-the public. The Senate may close a meeting with
-a two-thirds vote.
-(m) Only voting members of the Senate may
-make motions.
-(n) The person who authors or presents a bill to
-the floor of the Senate shall be allowed to
-remark an unlimited number of times in debate,
-unless otherwise instructed by the Chairperson.
-(o) Except when expressly noted in the
-Constitution and Senate bylaws, all votes taken
-in the Senate shall be taken from the voting
-membership present at a meeting, provided there
-is a quorum, and not necessarily from the entire
-voting membership of the Senate.
-(p) Proxy.
-(1) In the event that a voting member of the
-Senate should be absent from a meeting, that
-member may leave a proxy with another
-voting member of the Senate.
-(2) The proxy shall contain the measure that
-is to be acted upon as well as the vote the
-member would like to cast on that measure.
-(3) The proxy must be signed in order to be
-valid.
-(4) If the measure the proxy pertains to is
-significantly altered, as determined by the
-Chairperson, then the proxy will become
-invalid unless stipulations were made on the
-proxy for the alterations.
-(5) Any proxy shall be submitted to the
-Chairperson prior to the meeting and added
-to the meeting’s official records.
-(q) Committee on the Budget.
-(1) The Committee on the Budget shall
-meet at least once each term for the purpose
-of approving the Student Union Budget, as
-submitted by the Student Union Treasurer.
-(2) The committee shall be chaired by the
-Student Body President.
-(3) The members of Senate who shall serve
-as voting members of this committee are:
-(a) Four Class Presidents.
-(b) Club Coordination Council
-President.
-(c) Student Body Vice-President.
-04/13/2016 University of Notre Dame du Lac 13
-(d) Student Union Treasurer.
-(e) Judicial Council President.
-(f) The incoming Student Union Board
-Executive Director.
-(g) Off-Campus President.
-(h) One Hall Presidents Council Co-
-Chair
-(4) The Student Union Secretary and
-Parliamentarian shall attend the meeting to
-record the minutes of the meeting and advise
-the Chair on parliamentary procedure,
-respectively.
-(5) The Student Union Budget shall be
-approved by May 1 of each year.
-(r) If meetings are closed, distribution of the
-minutes shall be restricted to members of the
-Senate. Minutes shall present non-biased and
-comprehensive documentation of all business
-that occurs at the meetings.
-(s) If a meeting is closed to a specific member
-of the Senate, as determined by the Senate, that
-member is not eligible to receive the minutes of
-that closed meeting.
-(t) Any measure requiring Senate approval may
-be introduced at any standing or ad hoc
-department meeting by a member of that
-department where it shall be reviewed.
-(u) Any measure requiring Senate approval may
-be introduced at any meeting of the Senate by a
-sponsoring member of Senate. The Chairperson
-of the Senate may assign the measure to the
-appropriate executive department or an ad hoc
-committee created by the Chairperson for the
-purpose of reviewing the measure. The
-Chairperson of the Senate may waive
-assignment of any resolution, letter or order and
-hold immediate consideration of it before the
-Senate in extraordinary circumstances.
-(v) Upon departmental or committee approval, a
-measure shall be introduced at the next meeting
-of the Senate provided no less than three days
-pass between approval and Senate consideration.
-(w) Upon departmental or committee rejection
-or if the sponsor feels the measure’s intent has
-been significantly altered by the department or
-committee, the sponsor may nevertheless
-introduce the measure at the subsequent meeting
-of the Senate, provided a two-thirds majority of
-the Senate agrees to consider the measure.
-(x) The Senate shall create any Standing Rules
-by a simple majority vote.
-## Section 3.5. External Requests
-(a) The Director of Student Activities shall
-serve as or designate an advisor to the Senate.
-(b) The Student Union Treasurer shall submit
-all necessary financial information to members
-of the Senate by November 30th and as
-requested by the Senate.
-## Section 3.6. Transition
-(a) The Senate shall hold an informational
-meeting for those seeking office in the Student
-Senate as his or her dorm’s elected
-representative at least two weeks prior to the
-Election Day established by the Judicial
-Council.
-(1) The meeting shall seek to inform
-prospective Senators about—
-(A) The role and importance of the
-Student Senate.
-(B) The commitments, time and
-otherwise, which Senators are expected
-to make.
-(C) Election regulations.
-(2) This meeting shall be coordinated by the
-Department of Internal Affairs.
-(b) Incoming Senators, following their election,
-but prior to taking office, shall attend a
-workshop session to prepare them for their
-upcoming term in office.
-(1) This workshop shall include, but not be
-limited to, the following topics –
-(A) An overview of the current
-status of ongoing issues and projects of
-Student Senate and the Student Union.
-(B) Parliamentary procedure.
-(C) The role of the Senate and its
-duties.
-(D) Commitments and expectations
-of incoming Senators.
-(E) The department structure and
-solicitation of departmental preferences.
-(2) This workshop shall be coordinated by
-the Department of Internal Affairs and the
-incoming Chairperson of the Senate.
-(A) The outgoing Chairperson of the
-Senate and outgoing Department
-Directors shall also attend the workshop.
-(c) Newly elected Senators shall attend all
-sessions of the outgoing Senate held after the
-incoming Senate’s election date.
-(d) Each Senator shall meet with the newly
-elected Senator from his or her respective
-residence hall to explain at least the following:
-recent business, the purpose of the Senate, the
-responsibilities of the position, and the role of
-the Senate in the Student Union.
-(e) The Chairperson, Parliamentarian, and
-Secretary shall each meet with the new
-Chairperson, Parliamentarian, and Secretary to
-explain their role in the Student Senate.
-(f) At the first Senate meeting each term, the
-Judicial Council President shall ask the Student
-Body President to raise his or her right hand and
-repeat the following Oath of Office—
-I do solemnly swear that I will faithfully
-execute the office of Student Body
-President of the University of Notre
-Dame du Lac, and will to the best of my
-ability, preserve, protect and defend the
-Constitution of the Undergraduate
-Student Body. So help me God.
-(g) At the first Senate meeting each term, the
-Judicial Council President shall ask the Student
-Body Vice-President to raise his or her right
-hand and repeat the following Oath of Office—
-I do solemnly swear that I will faithfully
-execute the office of Student Body Vice-
-President of the University of Notre
-Dame du Lac, and will to the best of my
-ability, preserve, protect and defend the
-Constitution of the Undergraduate
-Student Body. So help me God.
-(h) Before an incoming Senate conducts any
-business at its first meeting, the Chairman shall
-ask all Senators to raise their right hands and
-repeat the following Oath of Office—
-I, (name of Senator), do solemnly swear
-that I will faithfully execute the office of
-student Senator of the University of
-Notre Dame du Lac; that I will bear true
-allegiance to the same; that, exercising
-my highest ethic, I will to the best of my
-ability preserve, protect, and defend the
-Constitution of Undergraduate Student
-Body; that I take this obligation freely;
-and, that I will well and faithfully
-discharge the duties of the office which I
-am about to enter.
-(i) All new Senators entering office in April
-shall attend a Celebrating Diversity Workshop
-as coordinated by the Student Union
-Representative to Diversity Council. This event
-is mandatory for all Senators and shall take
-place by October 1.
-## Section 3.7. Election Appeals
-(a) In the event of an appeal of an Election
-Committee decision, in accordance with Article
-XVII, the Senate shall convene within 48 hours
-to hear the appeal.
-(b) All appeals must be filed within 12 hours of
-the conclusion of the hearing.
-(c) Until such time as Senate can hear the
-appeal, the decision of the Election Committee
-shall stand.
-(d) The meeting of the Senate once the appeal
-has been filed shall proceed as follows:
-(1) The Election Committee of the Judicial
-Council shall be represented by the
-Judicial Council President or the Vice-
-President of Elections, who shall speak
-first to the Senate, stating the allegation
-made against the candidate(s), the Election
-Committee’s deliberations, and the
-sanction given. This shall take no more
-than five minutes.
-(2) The candidate(s) shall then state his or
-her reason for appeal. This shall take no
-more than five minutes.
-(3) After hearing initially from the Judicial
-Council and the candidate(s), the Senate
-must decide by a two-thirds vote that there
-are grounds to hear the appeal.
-(4) If the Senate decides to hear the appeal,
-time shall be allowed for both sides to
-respond to the claims of the other and to
-call witnesses on their behalf
-(5) The Senate may ask relevant questions
-of either party, or request the presence of
-any other relevant third-person(s) for
-questioning.
-(e) The Senate may force the Election
-Committee to reconvene within 24 hours for the
-purpose of reconsidering its decision by a threefourths
-vote.
-(f) If quorum cannot be reached to hear the
-appeal, or a decision is not reached during the
-convened meeting, the decision of the Election
-Committee shall stand.
-# ARTICLE IV. EXECUTIVE CABINET
-## Section 4.1. Composition
-(a) The following members shall attend the
-weekly Executive Cabinet meeting:
-(1) Student Body Vice-President
-(2) Chief of Staff.
-(3) Standing and ad hoc Senate Department
-Directors.
-(4) Executive Controller.
-(5) Director of Communications.
-(6) Student Union Secretary.
-(7) FUEL Directors.
-(8) Parliamentarian.
-(9) Student Union Representative to
-Diversity Council
-(10) Athletics Representative.
-(11) Campus Ministry Representative.
-(b) The Student Body President shall chair these
-meetings.
-(c) The Student Body President may appoint
-other such members to the Executive Cabinet as
-he/she may see fit.
-## Section 4.2. Purpose & Duties
-(a) The Executive Cabinet and its constituent
-members shall advance the agenda of the
-Student Body President and Vice-President
-through the Senate in an effort to protect the
-interests of students in all areas of university
-life, provide services to the undergraduate
-student body, and advance the policy priorities
-of the Student Union.
-## Section 4.3. Executive Departments
-(a) The Department of Academic Affairs shall
-address undergraduate student needs as they
-relate to the academic affairs of the university
-and make appropriate recommendations to the
-Senate.
-(b) The Department of Campus Technology
-shall address undergraduate student needs
-concerning issues of information technologies
-and make appropriate recommendations to the
-Senate. This department will serve as a liaison
-between students and the Office of Information
-Technologies.
-(c) The Department of Community Relations
-shall address the relations between the student
-body and the residents of the Michiana area as it
-works to build a lasting relationship between the
-two groups. This department will serve as a
-liaison between students and the South Bend
-community by fostering relationships and
-maintaining the open lines of communication
-with community and neighborhood leaders,
-workers on campus, and city officials, among
-others. Additionally, this department will
-collaborate with representatives from various
-student governments of the colleges and
-universities in the Michiana area.
-(d) The Department of Constituent Services
-shall serve as the gateway department for the
-handling of student issues as they may arise. The
-department shall coordinate such activities as
-may be productive for improving student life
-16 Constitution of the Undergraduate Student Body 01/17/2017
-and making the voices of students heard within
-their government.
-(e) The Department of Gender Issues shall
-address undergraduate student needs concerning
-issues of gender, sexual orientation, sexual
-violence and the development of gender
-resources and make appropriate
-recommendations to the Senate.
-(f) The Department of Internal Affairs shall
-monitor the transition, internal review, and
-overall process of the Student Union as outlined
-in this Constitution and make appropriate
-recommendations to the Senate.
-(g) The Department of Residence Life shall
-address undergraduate student needs in all areas
-of residence life and make appropriate
-recommendations to the Senate.
-(h) The Department of Social Concerns shall
-address student concerns in areas such as social
-justice, human solidarity, and sustainability,
-both in the Notre Dame community and the
-global world, and then make appropriate
-recommendations to the Senate.
-(i) The Department of University Affairs shall
-be responsible for addressing all pressing and
-pertinent issues relevant to the student body in
-the respective year as well as any other issues
-not explicitly under the jurisdiction of another
-department.
-(j) Department membership and size shall be
-determined at the discretion of the Student Body
-President.
-(1) Each Senator shall serve in at least two
-departments unless the Senator is a Senate
-representative to the Campus Life Council,
-in which case the Senator is only required to
-serve in one department.
-(2) Department Directors shall not be
-required to serve in departments other than
-the one they chair.
-(3) The Student Body President may
-appoint members to each department via
-application to the Student Body President.
-(4) Department membership shall also be
-open to the entire student body.
-(k) Ad Hoc Departments.
-(1) The Student Body President may create
-ad hoc departments addressing special
-student interests as long as one Senator
-agrees to serve within that department.
-(2) The Student Body President shall
-nominate a director for each ad hoc
-department.
-(3) The Student Body President may
-disband any ad hoc department at any given
-time.
-(l) All standing and ad hoc departments shall
-meet at least once every two weeks during the
-regular academic year.
-(m) All standing and ad hoc departments shall
-have the ability to plan and program events
-related to their issues that include (but are not
-limited to) such activities as awareness weeks,
-focus groups, speakers, and information nights.
-# ARTICLE V. EXECUTIVE PROGRAMMING BOARD
-## Section 5.1. Composition
-(a) The following members shall attend the
-Executive Programming Board meeting.
-(1) One Hall Presidents’ Council Co-Chair.
-(2) Four Class Vice-Presidents.
-(3) Club Coordination Council Vice-
-President.
-(4) Off-Campus Vice-President.
-(5) Student Union Board Director(s) of
-Programming.
-(6) Director of Communications.
-(b) The Chief of Staff shall chair meetings of
-the Executive Programming Board and shall
-oversee the online programming calendar.
-(c) The Director of Student Activities shall
-appoint an advisor to the Executive
-Programming Board.
-## Section 5.2. Powers & Duties
-(a) The Executive Programming Board shall
-facilitate the coordination, communication, and
-calendar setting of all Student Union groups
-whose primary responsibility is to serve the
-programming needs of the student body.
-(b) The primary goal of this group will be to
-prevent overlap in programming and to increase
-the effectiveness and efficiency of each of the
-aforementioned groups’ events in an effort to
-draw more students to each group’s events. This
-shall be done by setting and updating an online
-calendar with all planned and proposed events
-for each group. Each member of this group is
-hereby required to update the online
-programming calendar in a timely fashion, as
-regards their individual events.
-(c) Meetings of the Executive Programming
-Board shall occur as follows.
-(1) Regular meetings shall occur three times
-annually: once each in October, January, and
-April. These meetings shall serve as
-organizational meetings for the new terms of
-office and semesters. At these meetings, the
-members of the Executive Programming
-Board shall establish such policies as are
-necessary for the maintenance of the online
-programming calendar, which is to be
-overseen by the Director of
-Communications and Chief of Staff.
-(2) Further meetings may be called, as
-necessary, at the request of four members of
-the Executive Programming Board or by
-direction of the Chief of Staff.
+
+* a) The Senate shall meet at least every week from April 1st to March 31st during the regular academic school year at a reasonable time and campus location determined by the Chairperson.  
+
+* (b) Any five members of the Senate possess the power to call a meeting with 48 hours written notice.  
+
+* (c) No business shall be conducted in the Senate unless a quorum is present. A quorum exists when 3/5 of the voting members are present. The Chairperson shall not be counted in the quorum. A member represented by proxy shall not be counted in the quorum.  
+
+* (d) Any member of the Senate shall lead the body in a short prayer to begin the meeting.  
+
+* (e) The Senate shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the Senate to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
+
+* (f) Attendance at meetings of the full Senate is mandatory for Senate members. Permission for an absence must be obtained from the Chairperson. 
+
+  * (1) The Senate Department Directors and the Student Union Secretary are responsible for taking attendance at their respective meetings and will use their own discretion to mark absences.  
+  
+  * (2) A tardy is marked as more than ten minutes late for a meeting and three tardies are counted as one absence.  
+  
+  * (3) The Senate Department Directors or the Student Union Secretary will notify the Student Union Ethics Commission when a Senator has reached three unexcused absences for the full Senate meeting or three unexcused absences for a department meeting. An absence is deemed unexcused when one has not obtained consent from the Chair. The Chair should be notified at least twenty-four hours in advance.  
+  * (4) The Student Union Ethics Commission will alert the Senator in writing when he or she has reached three unexcused absences.  
+  
+  * (5) After four unexcused absences have been reported by the Student Union Secretary or by Senate Department Directors to the Student Union Ethics Commission, the Student Union Ethics Commission will conduct a hearing to judge if a bill of impeachment is necessary due to the Senator’s negligence.  
+  * (6) Excessive excused absences are unacceptable and will result in a referral to the Student Union Ethics Commission by the Chairperson of the Senate for review.  
+  
+  * (7) If the Student Union Ethics Commission finds that the Senator should be removed from office due to their behavior, a bill of impeachment will be brought before the full Senate at the next meeting.  
+ 
+* (g) After an individual has been impeached by the Senate, a hearing shall be conducted at the next regular meeting of the Senate or one academic school week, whichever is later, after impeachment. A hearing must be conducted before the vote for removal may be taken.  
+* (h) In the event of the absence of the Chairperson, and in the event the Chairperson has not given notice and appointed a voting member of Senate to the Chair, the Senate shall elect an acting chairperson from its voting membership present at that meeting.  
+
+* (i) The Chairperson shall establish the agenda in conjunction with the Executive Cabinet.  
+
+  * (1) Said agenda as well as all resolutions and orders to be voted upon shall be distributed to Senate members no less than 48 hours prior to the Senate meeting.  
+  
+  * (2) Any resolution or order that does not meet this condition may only come to a vote at the current meeting if the members unanimously agree to take a vote.  
+  
+  * (3) In the event of a Senator-called meeting as outlined in subsection 3.4 (b), a tentative agenda and any new business to be voted upon must be provided when the meeting is called.  
+  
+* (j) Any member of the Senate, non-voting or voting, shall possess the right of agenda.  
+
+* (k) Should an agenda item affecting the interests of the faculty come before the Student Senate, the Chairperson may recognize a representative of the Academic Council to address the Student Senate on the issue.  
+
+* (l) All meetings of the Senate shall be open to the public. The Senate may close a meeting with a two-thirds vote.  
+
+* (m) Only voting members of the Senate may make motions.  
+
+* (n) The person who authors or presents a bill to the floor of the Senate shall be allowed to remark an unlimited number of times in debate, unless otherwise instructed by the Chairperson.  
+
+* (o) Except when expressly noted in the Constitution and Senate bylaws, all votes taken in the Senate shall be taken from the voting membership present at a meeting, provided there is a quorum, and not necessarily from the entire voting membership of the Senate.  
+
+* (p) Proxy.  
+
+  * (1) In the event that a voting member of the Senate should be absent from a meeting, that member may leave a proxy with another voting member of the Senate.  
+  
+  * (2) The proxy shall contain the measure that is to be acted upon as well as the vote the member would like to cast on that measure.  
+  * (3) The proxy must be signed in order to be valid.  
+  
+  * (4) If the measure the proxy pertains to is significantly altered, as determined by the Chairperson, then the proxy will become invalid unless stipulations were made on the proxy for the alterations.  
+  
+  * (5) Any proxy shall be submitted to the Chairperson prior to the meeting and added to the meeting’s official records.  
+  
+* (q) Committee on the Budget.  
+
+  * (1) The Committee on the Budget shall meet at least once each term for the purpose of approving the Student Union Budget, as submitted by the Student Union Treasurer.  
+  
+  * (2) The committee shall be chaired by the Student Body President.  
+  
+  * (3) The members of Senate who shall serve as voting members of this committee are:  
+    * (i) Four Class Presidents.  
+    * (ii) Club Coordination Council President.  
+    * (iii) Student Body Vice-President.  
+    * (iv) Student Union Treasurer.  
+    * (v) Judicial Council President.  
+    * (vi) The incoming Student Union Board Executive Director.  
+    * (vii) Off-Campus President.  
+    * (viii) One Hall Presidents Council Co-Chair.  
+    
+  * (4) The Student Union Secretary and Parliamentarian shall attend the meeting to record the minutes of the meeting and advise the Chair on parliamentary procedure, respectively.  
+  
+  * (5) The Student Union Budget shall be approved by May 1 of each year.  
+  
+* (r) If meetings are closed, distribution of the minutes shall be restricted to members of the Senate. Minutes shall present non-biased and comprehensive documentation of all business that occurs at the meetings.  
+
+* (s) If a meeting is closed to a specific member of the Senate, as determined by the Senate, that member is not eligible to receive the minutes of that closed meeting.  
+
+* (t) Any measure requiring Senate approval may be introduced at any standing or *ad hoc* department meeting by a member of that department where it shall be reviewed.  
+
+* (u) Any measure requiring Senate approval may be introduced at any meeting of the Senate by a sponsoring member of Senate. The Chairperson of the Senate may assign the measure to the appropriate executive department or an *ad hoc* committee created by the Chairperson for the purpose of reviewing the measure. The Chairperson of the Senate may waive assignment of any resolution, letter or order and hold immediate consideration of it before the Senate in extraordinary circumstances.  
+
+* (v) Upon departmental or committee approval, a measure shall be introduced at the next meeting of the Senate provided no less than three days pass between approval and Senate consideration.  
+
+* (w) Upon departmental or committee rejection or if the sponsor feels the measure’s intent has been significantly altered by the department or committee, the sponsor may nevertheless introduce the measure at the subsequent meeting of the Senate, provided a two-thirds majority of the Senate agrees to consider the measure.  
+
+* (x) The Senate shall create any Standing Rules by a simple majority vote.  
+
+## Section 3.5. External Requests  
+
+* (a) The Director of Student Activities shall serve as or designate an advisor to the Senate.  
+
+* (b) The Student Union Treasurer shall submit all necessary financial information to members of the Senate by November 30th and as requested by the Senate.  
+
+## Section 3.6. Transition  
+
+* (a) The Senate shall hold an informational meeting for those seeking office in the Student Senate as his or her dorm’s elected representative at least two weeks prior to the Election Day established by the Judicial Council.  
+
+  * (1) The meeting shall seek to inform prospective Senators about:  
+    
+    * (i) The role and importance of the Student Senate.  
+    
+    * (ii) The commitments, time and otherwise, which Senators are expected to make.  
+    
+    * (iii) Election regulations.  
+    
+  * (2) This meeting shall be coordinated by the Department of Internal Affairs.  
+
+* (b) Incoming Senators, following their election, but prior to taking office, shall attend a workshop session to prepare them for their upcoming term in office.  
+  * (1) This workshop shall include, but not be limited to, the following topics:  
+
+	* (i) An overview of the current status of ongoing issues and projects of Student Senate and the Student Union.  
+	
+	* (ii) Parliamentary procedure.  
+	
+	* (iii) The role of the Senate and its duties.  
+	
+	* (iv) Commitments and expectations of incoming Senators.  
+	
+	* (v) The department structure and solicitation of departmental preferences.  
+	
+  * (2) This workshop shall be coordinated by the Department of Internal Affairs and the incoming Chairperson of the Senate.  
+
+    * (i) The outgoing Chairperson of the Senate and outgoing Department Directors shall also attend the workshop.  
+    
+* (c) Newly elected Senators shall attend all sessions of the outgoing Senate held after the incoming Senate’s election date.  
+
+* (d) Each Senator shall meet with the newly elected Senator from his or her respective residence hall to explain at least the following: recent business, the purpose of the Senate, the responsibilities of the position, and the role of the Senate in the Student Union.  
+
+* (e) The Chairperson, Parliamentarian, and Secretary shall each meet with the new Chairperson, Parliamentarian, and Secretary to explain their role in the Student Senate.  
+
+* (f) At the first Senate meeting each term, the Judicial Council President shall ask the Student Body President to raise his or her right hand and repeat the following Oath of Office—  
+
+> I do solemnly swear that I will faithfully execute the office of Student Body President of the University of Notre Dame du Lac, and will to the best of my ability, preserve, protect and defend the Constitution of the Undergraduate Student Body. So help me God.  
+
+* (g) At the first Senate meeting each term, the Judicial Council President shall ask the Student Body Vice-President to raise his or her right hand and repeat the following Oath of Office—  
+
+> I do solemnly swear that I will faithfully execute the office of Student Body Vice-President of the University of Notre Dame du Lac, and will to the best of my ability, preserve, protect and defend the Constitution of the Undergraduate Student Body. So help me God.  
+
+* (h) Before an incoming Senate conducts any business at its first meeting, the Chairperson shall ask all Senators to raise their right hands and repeat the following Oath of Office—  
+
+> I, (name of Senator), do solemnly swear that I will faithfully execute the office of student Senator of the University of Notre Dame du Lac; that I will bear true allegiance to the same; that, exercising my highest ethic, I will to the best of my ability preserve, protect, and defend the Constitution of Undergraduate Student Body; that I take this obligation freely; and, that I will well and faithfully discharge the duties of the office which I am about to enter.  
+
+* (i) All new Senators entering office in April shall attend a Celebrating Diversity Workshop as coordinated by the Student Union Representative to Diversity Council. This event is mandatory for all Senators and shall take place by October 1.  
+
+## Section 3.7. Election Appeals  
+
+* (a) In the event of an appeal of an Election Committee decision, in accordance with Article XVII, the Senate shall convene within 48 hours to hear the appeal.  
+
+* (b) All appeals must be filed within 12 hours of the conclusion of the hearing.  
+
+* (c) Until such time as Senate can hear the appeal, the decision of the Election Committee shall stand.  
+
+* (d) The meeting of the Senate once the appeal has been filed shall proceed as follows:  
+
+  * (1) The Election Committee of the Judicial Council shall be represented by the Judicial Council President or the Vice-President of Elections, who shall speak first to the Senate, stating the allegation made against the candidate(s), the Election Committee’s deliberations, and the sanction given. This shall take no more than five minutes.  
+  
+  * (2) The candidate(s) shall then state his or her reason for appeal. This shall take no more than five minutes.  
+  
+  * (3) After hearing initially from the Judicial Council and the candidate(s), the Senate must decide by a two-thirds vote that there are grounds to hear the appeal.  
+  
+  * (4) If the Senate decides to hear the appeal, time shall be allowed for both sides to respond to the claims of the other and to call witnesses on their behalf.  
+  
+  * (5) The Senate may ask relevant questions of either party, or request the presence of any other relevant third-person(s) for questioning.  
+  
+* (e) The Senate may force the Election Committee to reconvene within 24 hours for the purpose of reconsidering its decision by a three-fourths vote.  
+
+* (f) If quorum cannot be reached to hear the appeal, or a decision is not reached during the convened meeting, the decision of the Election Committee shall stand.  
+
+# ARTICLE IV. EXECUTIVE CABINET  
+
+## Section 4.1. Composition  
+
+* (a) The following members shall attend the weekly Executive Cabinet meeting:  
+
+  * (1) Student Body Vice-President.  
+  
+  * (2) Chief of Staff.  
+  
+  * (3) Standing and *ad hoc* Senate Department Directors.  
+  
+  * (4) Executive Controller.  
+  
+  * (5) Director of Communications.  
+  
+  * (6) Student Union Secretary.  
+  
+  * (7) FUEL Directors.  
+  
+  * (8) Parliamentarian.  
+  
+  * (9) Student Union Representative to Diversity Council.  
+  
+  * (10) Athletics Representative.  
+  
+  * (11) Campus Ministry Representative.  
+  
+* (b) The Student Body President shall chair these meetings.  
+
+* (c) The Student Body President may appoint other such members to the Executive Cabinet as he/she may see fit.  
+
+## Section 4.2. Purpose & Duties  
+
+* (a) The Executive Cabinet and its constituent members shall advance the agenda of the Student Body President and Vice-President through the Senate in an effort to protect the interests of students in all areas of university life, provide services to the undergraduate student body, and advance the policy priorities of the Student Union.  
+
+## Section 4.3. Executive Departments  
+
+* (a) The Department of Academic Affairs shall address undergraduate student needs as they relate to the academic affairs of the university and make appropriate recommendations to the Senate.  
+
+* (b) The Department of Campus Technology shall address undergraduate student needs concerning issues of information technologies and make appropriate recommendations to the Senate. This department will serve as a liaison between students and the Office of Information Technologies.  
+
+* (c) The Department of Community Relations shall address the relations between the student body and the residents of the Michiana area as it works to build a lasting relationship between the two groups. This department will serve as a liaison between students and the South Bend community by fostering relationships and maintaining the open lines of communication with community and neighborhood leaders, workers on campus, and city officials, among others. Additionally, this department will collaborate with representatives from various student governments of the colleges and universities in the Michiana area.  
+
+* (d) The Department of Constituent Services shall serve as the gateway department for the handling of student issues as they may arise. The department shall coordinate such activities as may be productive for improving student life and making the voices of students heard within their government.  
+
+* (e) The Department of Gender Issues shall address undergraduate student needs concerning issues of gender, sexual orientation, sexual violence and the development of gender resources and make appropriate recommendations to the Senate.  
+
+* (f) The Department of Internal Affairs shall monitor the transition, internal review, and overall process of the Student Union as outlined in this Constitution and make appropriate recommendations to the Senate.  
+
+* (g) The Department of Residence Life shall address undergraduate student needs in all areas of residence life and make appropriate recommendations to the Senate.  
+
+* (h) The Department of Social Concerns shall address student concerns in areas such as social justice, human solidarity, and sustainability, both in the Notre Dame community and the global world, and then make appropriate recommendations to the Senate.  
+
+* (i) The Department of University Affairs shall be responsible for addressing all pressing and pertinent issues relevant to the student body in the respective year as well as any other issues not explicitly under the jurisdiction of another department.  
+
+* (j) Department membership and size shall be determined at the discretion of the Student Body President.  
+
+  * (1) Each Senator shall serve in at least two departments unless the Senator is a Senate representative to the Campus Life Council, in which case the Senator is only required to serve in one department.  
+  
+  * (2) Department Directors shall not be required to serve in departments other than the one they chair.  
+  
+  * (3) The Student Body President may appoint members to each department via application to the Student Body President.  
+  
+  * (4) Department membership shall also be open to the entire student body.  
+  
+* (k) *Ad Hoc* Departments.  
+
+  * (1) The Student Body President may create *ad hoc* departments addressing special student interests as long as one Senator agrees to serve within that department.  
+  
+  * (2) The Student Body President shall nominate a director for each *ad hoc* department.  
+  
+  * (3) The Student Body President may disband any *ad hoc* department at any given time.  
+  
+* (l) All standing and *ad hoc* departments shall meet at least once every two weeks during the regular academic year.  
+
+* (m) All standing and *ad hoc* departments shall have the ability to plan and program events related to their issues that include (but are not limited to) such activities as awareness weeks, focus groups, speakers, and information nights.  
+
+# ARTICLE V. EXECUTIVE PROGRAMMING BOARD  
+
+## Section 5.1. Composition  
+
+(a) The following members shall attend the Executive Programming Board meeting.  
+
+  * (1) One Hall Presidents’ Council Co-Chair.  
+  
+  * (2) Four Class Vice-Presidents.  
+  
+  * (3) Club Coordination Council Vice-President.  
+  
+  * (4) Off-Campus Vice-President.  
+  
+  * (5) Student Union Board Director(s) of Programming.  
+  
+  * (6) Director of Communications.  
+  
+* (b) The Chief of Staff shall chair meetings of the Executive Programming Board and shall oversee the online programming calendar.  
+
+* (c) The Director of Student Activities shall appoint an advisor to the Executive Programming Board.  
+
+## Section 5.2. Powers & Duties  
+
+* (a) The Executive Programming Board shall facilitate the coordination, communication, and calendar setting of all Student Union groups whose primary responsibility is to serve the programming needs of the student body.  
+
+* (b) The primary goal of this group will be to prevent overlap in programming and to increase the effectiveness and efficiency of each of the aforementioned groups’ events in an effort to draw more students to each group’s events. This shall be done by setting and updating an online calendar with all planned and proposed events for each group. Each member of this group is hereby required to update the online programming calendar in a timely fashion, as regards their individual events.  
+
+* (c) Meetings of the Executive Programming Board shall occur as follows:
+
+  * (1) Regular meetings shall occur three times annually: once each in October, January, and April. These meetings shall serve as organizational meetings for the new terms of office and semesters. At these meetings, the members of the Executive Programming Board shall establish such policies as are necessary for the maintenance of the online programming calendar, which is to be overseen by the Director of Communications and Chief of Staff.  
+  
+  * (2) Further meetings may be called, as necessary, at the request of four members of the Executive Programming Board or by direction of the Chief of Staff.  
+  
 # ARTICLE VI. FIRST UNDERGRADUATE EXPERIENCE IN LEADERSHIP (FUEL)
 ## Section 6.1 Composition
 (a) FUEL Directors.
@@ -3737,7 +3442,6 @@ undergraduate education at the University and
 shown exceptional service to the students of the
 Notre Dame community. Any faculty member is
 eligible for consideration.
-04/13/2016 University of Notre Dame du Lac 49
 (b) The Student Senate shall choose the recipient
 of the Frank O’Malley Undergraduate Teaching
 Award each term.
