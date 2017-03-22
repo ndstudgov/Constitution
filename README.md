@@ -895,736 +895,389 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (e) All records of point allocation and voting in the event of a tie shall be made available to the public upon request once a winner has been announced.  
 
-# ARTICLE IX. CLUB COORDINATION COUNCIL
-## Section 9.1. Composition
-(a) The Club Coordination Council (CCC) shall
-be composed of (but not limited to) the Club
-Coordination Council President, the Club
-Coordination Council Vice-President, and the
-Club Coordination Council Controller.
-(b) Club Coordination Council President.
-(1) The Club Coordination Council
-President shall be elected by a majority vote
-of the outgoing Club Coordination Council
-prior to the first Senate meeting in March of
-each year.
-(2) The CCC President shall serve a oneyear
-term beginning April 1st of the year
-elected.
-(3) The CCC President shall serve as
-chairperson of the Club Coordination
-Council to ensure its efficient and effective
-operation.
-(4) The CCC President shall attend all
-Senate meetings as a voting member.
-(c) Club Coordination Council Vice-President.
-(1) The Club Coordination Council Vice-
-President shall be elected by a majority vote
-of the outgoing Club Coordination Council
-prior to the first Senate meeting in March of
-each year.
-(2) The CCC Vice-President shall serve a
-one-year term beginning April 1st of the
-year elected.
-(3) The CCC Vice-President shall assist the
-CCC President in ensuring the efficient and
-effective operation of the Club Coordination
-Council.
-(4) The CCC Vice-President shall attend all
-Executive Programming Board meetings as
-a voting member.
-(d) Club Coordination Council Controller.
-(1) The Club Coordination Council
-Controller shall be nominated by the
-incoming CCC President and be approved
-by a majority vote of the outgoing Club
-Coordination Council prior to the first
-Senate meeting in March of each year.
-(2) The CCC Controller shall serve a oneyear
-term beginning April 1st of the year
-elected.
-(3) The CCC Controller shall sit on the
-Financial Management Board.
-## Section 9.2. Purpose & Duties
-(a) The Club Coordination Council shall
-disseminate information concerning
-undergraduate club issues and activities,
-recommend funding allocations for all
-undergraduate clubs, serve as a representative of
-all undergraduate clubs, and coordinate cohesive
-club programming.
-(b) The Club Coordination Council shall present
-bylaws by May 1st to establish the operational
-procedures (including, but not limited to,
-attendance and tardiness policies) necessary for
-the Club Coordination Council to carry out its
-constitutional duties. These bylaws must be
-approved by the organization’s Student
-Activities advisor and presented to the Student
-Union Ethics Commission.
-# ARTICLE X. CLASS COUNCILS
-## Section 10.1. Composition
-(a) Sophomore, Junior, & Senior Class Officers.
-(1) The Sophomore, Junior, and Senior
-undergraduate classes shall be represented
-by four class officers elected by their
-respective class members in a campus-wide
-vote each year.
-(2) Sophomore and Junior Class Officers
-shall serve a one-year term beginning on
-May 1st of the year elected.
-(3) The Senior Class Officers shall come
-into office on May 1st of the year elected
-and shall serve in those positions up until the
-class’s five year reunion.
-(4) The Sophomore, Junior, and Senior
-Class Officers shall ensure the efficient and
-effective operation of the Class Councils.
-(b) Freshman Class Council.
-(1) The Freshman Class Council shall be
-composed of a representative from each
-undergraduate residence hall.
-(2) The Freshman Class Council
-Representatives shall serve until May 1st of
-the academic year of their selection.
-(3) The Freshman Class Council
-Representatives shall elect a President, Vice-
-President, Treasurer, and Secretary by
-October 15 of the year of their selection.
-(4) The President shall ensure the efficient
-and effective operation of the Freshman
-Class Council.
-## Section 10.2. Purpose
-(a) The Class Councils shall promote the wellbeing
-of their respective classes by sponsoring
-functions that promote unity among class
-members.
-## Section 10.3. General Provisions & Duties
-(a) The Director of Student Activities shall
-designate an advisor to each class.
-(b) All Class Presidents shall attend weekly
-Senate meetings and serve as voting members.
-(c) All Class Vice-Presidents shall attend the
-Executive Programming Board meetings.
-(d) The Sophomore, Junior, and Senior Class
-Officers shall select Class Council members at
-their own discretion.
-(e) The incoming Sophomore, Junior, and
-Senior Class Treasurers shall each develop,
-submit, and present a budget proposal for his or
-24 Constitution of the Undergraduate Student Body 01/17/2017
-her respective Class Council to the Financial
-Management Board for the annual allocation
-meeting.
-(f) The Freshman, Sophomore, Junior, and
-Senior Class Treasurers shall represent the Class
-Councils on the Financial Management Board.
-(g) The Sophomore Class Officers shall
-nominate a student Sophomore Class Advisor to
-assist the Freshman Class Council and ensure its
-efficient operation prior to September 15th. The
-Senate shall review and approve this
-nomination.
-(h) The Sophomore, Junior, and Senior Class
-Officers shall present bylaws by May 1st to
-establish the operational procedures (including,
-but not limited to, attendance and tardiness
-policies) necessary for their Class Councils to
-carry out their constitutional duties. These
-bylaws must be approved by the respective
-class’s Student Activities advisor and presented
-to the Student Union Ethics Commission. The
-Freshman Class Council shall create bylaws if
-instructed by their advisor. These bylaws must
-be approved by the organization’s Student
-Activities advisor.
-## Section 10.4. Transition
-(a) The incoming members of Class Council
-shall commence their roles on Student Senate,
-Financial Management Board, Executive
-Programming Board, and the Committee on the
-Budget on April 1st of the year elected.
-# ARTICLE XI. OFF-CAMPUS COUNCIL
-## Section 11.1. Composition
-(a) Off-Campus President.
-(1) The Off-Campus President shall be
-elected by the students who will reside offcampus
-at the beginning of the next
-academic semester and those currently off
-campus.
-(2) The Off-Campus President shall serve a
-one-year term beginning on May 1st of the
-year elected.
-(3) The Off-Campus President shall become
-Off-Campus President Ex-Officio beginning
-at the conclusion of his or her term and
-ending with the completion of the academic
-semester.
-(4) The Off-Campus President shall ensure
-the efficient and effective operation of the
-Off-Campus Council.
-(b) Off-Campus Vice-President.
-(1) The Off-Campus Vice-President shall be
-elected by the students who will reside offcampus
-at the beginning of the next
-academic semester and those currently off
-campus.
-(2) The Off-Campus Vice-President shall
-serve a one-year term beginning on May 1st
-of the year elected.
-(3) The Off-Campus Vice-President shall
-become Off-Campus Vice-President Ex-
-Officio beginning at the conclusion of his or
-her term and ending with the completion of
-the academic semester.
-(c) Off-Campus Senator.
-(1) The Off-Campus Senator shall be elected
-by the students who will reside off-campus
-at the beginning of the next academic
-semester and those currently off campus.
-(2) The Off-Campus Senator shall serve a
-one-year term beginning on May 1st of the
-year elected.
-(d) Off-Campus Ambassadors.
-(1) Off-Campus Ambassadors shall be
-appointed by the Off-Campus President no
-later than September 15th.
-(2) The Off-Campus President shall appoint
-no less than six Off-Campus Ambassadors.
-(3) Off-Campus Ambassadors will be
-appointed to various off-campus
-neighborhoods in a manner that effectively
-maximizes the outreach of the Off-Campus
-Council. Ambassadors represent the
-opinions of this appointed area and
-disseminate information in such a way that it
-is readily accessible to residents of this area.
-## Section 11.2. Purpose
-(a) The Off-Campus Council shall promote the
-well-being of off-campus students by sponsoring
-functions and disseminating information to offcampus
-students.
-## Section 11.3. General Provisions & Duties
-(a) The Director of Student Activities shall
-designate an advisor to the Off-Campus Council.
-(b) The Off-Campus President shall develop,
-submit, and present a budget proposal for the
-Off-Campus Council to the Financial
-Management Board for the annual allocation
-meeting in accordance with the priorities set by
-the Senate.
-(c) The Off-Campus President shall represent
-the Off-Campus Council on the Financial
-Management Board.
-(d) The Off-Campus President shall represent
-the Off-Campus Council on the Senate.
-(e) The Off-Campus President shall select Off-
-Campus Council members at his or her own
-discretion, including a minimum of six Off-
-Campus Ambassadors.
-(f) The Off-Campus President shall present
-bylaws by May 1st to establish the operational
-procedures (including, but not limited to,
-attendance and tardiness policies) necessary for
-the Off-Campus Council to carry out its
-constitutional duties. These bylaws must be
-approved by the organization‘s Student
-Activities Office advisor and presented to the
-Student Union Ethics Commission.
-(g) The Off-Campus Vice-President shall
-represent the Off-Campus Council in the
-Department of Community Relations. The Off-
-Campus Vice-President may alternatively attend
-an appropriately related department at the
-discretion of the Off-Campus President.
-(h) The Off-Campus Senator shall represent the
-Off-Campus Council on the Student Senate.
-(i) The Off-Campus Senator shall represent the
-Off-Campus Council on the Department of
-Community Relations. The Off-Campus Senator
-may alternatively attend an appropriately related
-department at the discretion of the Off-Campus
-President.
-(j) The Off-Campus Ambassadors shall report
-directly to the Off-Campus President on issues
-pertaining to off-campus life.
-(k) The Off-Campus Ambassadors shall be
-responsible for aiding the Council in its mission
-to disseminate information to students living
-Off-Campus. Ambassadors are responsible for
-community outreach within their respective
-neighborhood, including outreach to student and
-non-student members of the community.
-(k) The Off-Campus President Ex-Officio and
-Vice-President Ex-Officio will assist the Off-
-Campus President and Vice-President in
-transitioning during the end of the Spring
-academic semester.
-# ARTICLE XII. FINANCIAL MANAGEMENT BOARD
-## Section 12.1. Composition
-(a) The Financial Management Board shall be
-composed of the Student Union Treasurer, the
-Executive Controller, the Student Union Board
-Director of Finance, the Hall Presidents Council
-Treasurer, the Club Coordination Council
-Controller, all Class Treasurers (the Freshman
-Class Treasurer shall join the Financial
-Management Board once elected), the Off-
-Campus President, and the Judicial Council
-President. The above members shall each have
-one vote. In addition, the Director of Student
-Activities shall designate a non-voting advisor to
-the Financial Management Board.
-(b) Student Union Treasurer.
-(1) The outgoing Student Union Treasurer
-shall nominate to the Student Senate one of
-the Assistants to the Student Union
-Treasurer as a replacement prior to third
-Thursday in February of each year. This
-nomination shall be reviewed and approved
-by the Student Senate.
-(A) Should an Assistant to the Student
-Union Treasurer not be available to
-appoint, the Student Union Treasurer
-may reappoint himself/herself, if eligible
-to serve, or open the position to
-applications to the student body.
-(2) The Student Union Treasurer shall serve
-a one-year term beginning on March 1st of
-the year nominated.
-(3) The Student Union Treasurer shall
-maintain an accurate and timely record of all
-finances of the Student Union.
-(4) The Student Union Treasurer shall serve
-as chairperson of the Financial Management
-Board and ensure its efficient and effective
-operation.
-(5) The Student Union Treasurer shall
-disburse all undergraduate student
-organization funds and ensure that all clubs
-and organizations receiving undergraduate
-student organization funds adhere to the
-fiscal policy established by the Senate.
-(6) The Student Union Treasurer has the
-power to freeze the funds of any account
-which exceeds its budget allocation.
-(7) The Student Union Treasurer shall
-develop, submit, and present a budget
-proposal for the Office of the Student Union
-Treasurer to the Financial Management
-Board for the annual allocation meeting.
-(c) Assistants to the Student Union Treasurer.
-(1) At least two Assistants to the Student
-Union Treasurer shall be presented to the
-Senate by the first meeting in April of each
-year by the incoming Student Union
-Treasurer. The Assistants shall be approved
-by the Senate.
-(2) Assistants to the Student Union
-Treasurer shall serve a one-year term
-beginning on April 1st of the year
-nominated.
-(3) Assistants to the Student Union
-Treasurer shall assist the Student Union
-Treasurer in the performance of duties
-related to the Office of the Student Union
-Treasurer.
-(4) Assistants to the Student Union
-Treasurer shall serve as non-voting members
-on the Financial Management Board.
-(A) One Assistant to the Student Union
-Treasurer shall oversee the Student
-Business Managers.
-(B) One Assistant to the Student Union
-Treasurer shall serve as a liaison to The
-Shirt Project.
-(5) Assistants to the Student Union
-Treasurer shall perform other duties as the
-Student Union Treasurer may determine.
-## Section 12.2. Meetings & Procedures
-(a) The Financial Management Board shall
-meet at least once every two weeks from April
-1st to March 31st during the regular academic
-school year at a reasonable time and campus
-location determined by the Student Union
-Treasurer.
-(b) No business shall be conducted unless a
-quorum is present.
-(c) The Financial Management Board shall
-present bylaws by May 1st to establish the
-operational procedures (including, but not
-limited to, attendance and tardiness policies)
-necessary for the FMB to carry out its
-constitutional duties. These bylaws must be
-approved by the organization’s Student
-Activities advisor and presented to the Student
-Union Ethics Commission.
-(d) Financial Management Board meetings shall
-be open to the public as a general rule; however,
-the Student Union Treasurer reserves the right to
-close the meeting at any time deemed
-appropriate.
-(e) The Assistants to the Student Union
-Treasurer shall take minutes at Financial
-Management Board meetings on an alternating
-basis. These minutes will be publicly available
-to the Student Body with stipulations.
-(f) In the event that a member of the Financial
-Management Board should be absent from a
-meeting, that member may leave a signed proxy
-with any member of the Board. If the measure
-the proxy pertains to is significantly altered
-during the meeting, as determined by the
-Student Union Treasurer, then the proxy will
-become invalid unless stipulations were made on
-the proxy for alterations.
-(g) The Financial Management Board shall
-conduct hearings throughout the academic year
-for additional funding requests from contingency
-and Carry-forward funds.
-(h) The Financial Management Board shall
-conduct one formal review of allocations by
-February 1st of each year.
-(i) Annual Allocation Hearing.
-(1) The Student Union Treasurer shall
-distribute documentation detailing budget
-proposal requirements, allocation hearing
-deadlines, and Senate fiscal policies to each
-member of the Financial Management Board
-and one representative from each
-organization seeking funds prior to the
-allocation hearing. The Student Union
-Treasurer shall establish a reasonable time
-and date for the submission of budget
-proposals.
-(2) The Student Union Treasurer shall
-conduct one formal meeting with a
-representative from each organization
-seeking funds prior to submission of budget
-proposals.
-(3) The incoming Student Union Treasurer
-shall chair the annual allocation hearing.
-(4) Budget proposals shall be presented by
-incoming officers and organization
-representatives.
-(5) The outgoing members of the Financial
-Management Board shall recommend an
-appropriate allocation of funds to the Senate
-Committee on the Budget in April of each
-year. These allocations shall be approved by
-the incoming Senate Committee on the
-Budget.
-(6) The Student Union Treasurer shall
-communicate all allocation awards and
-restrictions on fund usage for the following
-fiscal year in writing to each organization
-prior to the end of the academic year.
-(7) Appeals of annual allocation awards
-must be submitted in writing to the Student
-Union Treasurer no later than September
-30th of each year.
-(j) The records of the Student Union Treasurer
-shall be available for undergraduate student
-inspection upon request.
-## Section 12.3. Powers & Duties
-(a) The Financial Management Board shall
-conduct an annual hearing to ensure the fair
-allocation of undergraduate student funds. This
-hearing shall be completed and allocations
-submitted to the Student Senate Committee on
-the Budget for approval in April of each year.
-(b) The Financial Management Board shall
-review budget requests in an efficient and timely
-manner and make appropriate recommendations
-to the Senate.
-(c) The Financial Management Board shall
-uphold the fiscal policy outlined in this
-Constitution.
-(d) The Financial Management Board shall
-review fund usage and recommend reallocations
-to the Senate at any time during its term.
-(e) The Financial Management Board shall
-monitor the financial activity of organizations
-for misuse of undergraduate student organization
-funds and violations of written allocations. Any
-violations may constitute grounds for
-impeachment by the Senate and/or a freeze of
-funds.
-(f) The Financial Management Board may hear
-appeals of Club Coordination Council decisions
-and reverse such decisions by a two-thirds vote.
-(g) All decisions made by the Financial
-Management Board and the Student Union
-Treasurer may be appealed to the Senate.
-## Section 12.4. Student Businesses
-(a) The Student Businesses shall provide
-students with practical experience in a business
-environment and offer convenient services to the
-Notre Dame community. The minimum goals of
-the Student Businesses shall be to break-even
-after all debts are paid.
-(b) The Student Businesses shall be composed
-of the following undergraduate student-operated
-businesses: Irish Gardens and Adworks. Any
-new student-run business is subject to approval
-by a three-quarters vote of Financial
-Management Board.
-(c) Student Business Oversight.
-(1) The Director of Student Activities shall
-designate an advisor to the Student
-Businesses. The advisor and an Assistant to
-the Student Union Treasurer shall oversee
-the daily operations of the Student
-Businesses.
-(2) The Assistant to the Student Union
-Treasurer and advisor shall review all
-Student Business policies and maintain a
-current listing of these policies.
-(d) Student Business Managers.
-(1) The Student Business Managers shall be
-nominated prior to March 1st of every year.
-(A) The current Student Business
-Managers and the Assistant to the
-Student Union Treasurer shall each
-nominate a new Student Business
-Manager.
-(B) The current Student Business
-Managers and the Assistant to the
-Student Union Treasurer shall be able to
-nominate the current Student Business
-Manager for another term.
-(C) These nominations shall be
-reviewed and approved by the Financial
-Management Board and the Senate.
-(2) The Student Business Managers shall
-serve a one-year term beginning on April 1st
-of the year nominated.
-(3) The Student Business Managers shall
-manage the daily operations and establish
-the policies of their respective businesses.
-(4) The Student Business Managers shall
-make daily decisions concerning staffing,
-inventory, and promotion within their
-respective businesses.
-(5) The Student Business Managers shall
-operate the businesses according to the
-policies and guidelines established by the
-Senate.
-(6) The Student Business Managers shall
-submit a business plan to the Financial
-Management Board no later than the first
-Financial Management Board following
-spring allocations.
-(7) The Student Business Managers shall
-provide accurate and timely reports to the
-Financial Management Board detailing the
-finances and operational condition of the
-Student Businesses at least once each month
-while classes are in session.
-(8) The Student Business Managers shall
-perform other duties as the Financial
-Management Board may determine.
-(9) Additions to the constitutional duties of
-the Student Business Managers may be
-appealed to the Senate and overturned by a
-two-thirds vote of all Senate members.
-## Section 12.5. The Shirt Project
-(a) The Shirt Project shall endeavor to promote
-unity among the undergraduate student body and
-serve as a fundraiser for charitable causes as
-well as undergraduate student organizations.
-(b) The Shirt Project Committee.
-(1) The President of The Shirt Project shall
-be nominated by the Financial Management
-Board before November 1st of each year and
-approved by the Senate.
-(2) The President of The Shirt Project shall
-appoint the members of The Shirt Project
-Committee before December 1st of each
-year.
-(3) The Shirt Project Committee shall
-oversee all aspects of The Shirt Project.
-(4) A member of The Shirt Project
-Committee shall report to the Financial
-Management Board on the operational
-conditions of The Shirt Project as requested.
-(5) The Shirt Project Committee shall make
-timely financial reports and information
-available to the Senate or Financial
-Management Board as requested.
-(c) The Director of Student Activities shall
-designate an advisor to The Shirt Project. The
-advisor shall assist The Shirt Project Committee
-in the execution of its duties.
-(d) The design and color of The Shirt shall be
-approved by the Financial Management Board
-prior to production in an efficient and timely
-manner.
-(e) The Student Union Treasurer shall approve
-all expenditures relating to The Shirt Project.
-Any expenditure over $5,000 for The Shirt
-Project shall be approved by the Financial
-Management Board in an efficient and timely
-manner.
-## Section 12.6. Special-Interest Student Organizations
-(a) Definitions and Organizations.
-(1) The following groups are defined as
-special-interest student organizations:
-(A) Bookstore Basketball.
-(i) Bookstore Basketball is a
-charitable organization that
-organizes an annual five-on-five
-outdoor basketball tournament to
-support the Jumpball Programme.
-(B) Debate Team.
-(i) The Debate Team competes in
-national policy and parliamentary
-debate competitions.
-(C) Gay Straight Alliance.
-(i) The Gay Straight Alliance shall
-serve as an organization promoting
-communication among members of
-the LGBTQ community and their
-straight Allies.
-(D) Junior Parents Weekend.
-(i) Junior Parents Weekend is a
-weekend in February to allow the
-parents of junior students to meet
-and socialize.
-(E) Knights of Columbus.
-(i) The University supports a
-council of the Knights of
-Columbus, the Catholic fraternal
-organization, on campus.
-(F) Student Campus Orientation
-Committee.
-(i) The Student Campus
-Orientation Committee (SCOC) is
-responsible for training student
-staffs for, and coordinating student
-programming during, the First Year
-Orientation Weekend.
-Additionally, the committee
-represents student interest in
-University-level conversations
-concerning First Year Orientation
-and its programming events.
-(2) Where appropriate, these organizations
-shall present bylaws to their advisor no later
-than October 1st of each year for approval.
-(b) Powers.
-(1) The Student Body President or his
-designee shall notify the special-interest
-student organizations in the event that
-business is placed on the Senate agenda
-relating to this Article or the special-interest
-student organizations.
-(2) In the event that any item of business
-pertaining to this subsection or the specialinterest
-student organizations should come
-before the Senate, the special-interest
-student organizations may each send a
-representative to Senate to speak on their
-behalf.
-(c) Funding.
-(1) Special-interest student organizations
-shall be provided funding with funds made
-available for FMB allocation to
-organizations of the Student Union.
-(2) Special-interest student organizations
-shall each submit a budget request to the
-Student Union Treasurer, which shall
-include estimates of available outside
-funding, such as funding by a University
-office or expected endowment return.
-(3) Special-interest student organizations
-shall be eligible for winter reallocation and
-use of the FMB Collaboration Fund.
-(4) The Financial Management Board shall
-allocate the funds available to the specialinterest
-organizations as it sees fit, taking
-into account availability and expectation of
-outside funding.
-## Section 12.7. Collaboration Fund
-(a) The Financial Management Board
-Collaboration Fund is intended as a means for
-clubs, residence halls, and organizations, such as
-those which have limited programming budgets,
-to be able to sponsor an event with a student
-organization that has a mutual interest in the
-event.
-(b) The Fund shall be used whenever there is
-clear, mutual interest in an event.
-(c) The Financial Management Board shall not
-consider requests for funds from previous years
-when deciding on presented appeals.
-(d) The Financial Management Board does not
-support a policy of retroactive funding; all
-appeals shall be made before the event is to
-occur.
-## Section 12.8. Collaboration Fund Appeal
-(a) The process of this appeal to the Financial
-Management Board shall be initiated and
-organized by the club.
-(b) The cosponsors shall agree on the terms of
-the co-sponsorship.
-(c) This agreement shall be documented on the
-form for the appeal to the Collaboration Fund.
-(d) The form shall be submitted to the Club
-Coordination Council at least one week (five
-business days) before it shall be presented to the
-Financial Management Board at its meeting.
-(e) Once the form is completed, the club shall
-make an appointment with the appropriate Club
-Coordination Council Division Chair in order to
-have the appeal reviewed.
-(f) This meeting shall include, but shall not be
-limited to, a Club Coordination Council
-Representative from the same division as the
-club, an officer of the club, and one
-representative of each of the cosponsors
-participating in the agreement.
-(g) The Club Coordination Council
-Representative shall review the appeal form with
-the officers present, asking questions to help
-clarify ambiguities and reach an understanding
-of planned income, expenses, and intent of the
-event.
-(h) The Representative from the meeting shall
-then present the appeal to the Club Coordination
-Council.
-(i) The Club Coordination Council shall then
-decide whether or not to recommend the appeal
-to the Financial Management Board and the
-dollar amount to be recommended (this may be
-greater or lesser than the dollar amount of the
-initial appeal request).
-(j) Whether or not the Club Coordination
-Council recommends the appeal, it shall present
-the appeal to the Financial Management Board.
-(1) The Club Coordination Council
-Controller shall give the cosponsors
-adequate notice before he or she
-presents their appeal to the Financial
-Management Board.
-(2) A representative from a cosponsoring
-group must attend the
-presentation of the appeal to the
-Financial Management Board.
-(3) The Financial Management Board
-shall not hear an appeal in the absence
-of a representative from a co-sponsoring
-group.
-(4) The Financial Management Board
-may consider both the dollar amount
-recommended by the Club Coordination
-Council and the dollar amount requested
-by the club.
-(5) The Financial Management Board shall then
-vote in favor of or in opposition to the allocation
-of either the dollar amount recommended by the
-Club Coordination Council or the dollar amount
-requested by the club.
+# ARTICLE IX. CLUB COORDINATION COUNCIL  
+
+## Section 9.1. Composition  
+
+* (a) The Club Coordination Council (CCC) shall be composed of (but not limited to) the Club Coordination Council President, the Club Coordination Council Vice-President, and the Club Coordination Council Controller.  
+
+* (b) Club Coordination Council President.  
+
+  * (1) The Club Coordination Council President shall be elected by a majority vote of the outgoing Club Coordination Council prior to the first Senate meeting in March of each year.  
+  
+  * (2) The CCC President shall serve a one year term beginning April 1st of the year elected.  
+  
+  * (3) The CCC President shall serve as chairperson of the Club Coordination Council to ensure its efficient and effective operation. 
+  
+  * (4) The CCC President shall attend all Senate meetings as a voting member.  
+  
+* (c) Club Coordination Council Vice-President.  
+
+  * (1) The Club Coordination Council Vice-President shall be elected by a majority vote of the outgoing Club Coordination Council prior to the first Senate meeting in March of each year.  
+  
+  * (2) The CCC Vice-President shall serve a one-year term beginning April 1st of the year elected.  
+  
+  * (3) The CCC Vice-President shall assist the CCC President in ensuring the efficient and effective operation of the Club Coordination Council.  
+  
+  * (4) The CCC Vice-President shall attend all Executive Programming Board meetings as a voting member  
+  
+* (d) Club Coordination Council Controller.  
+
+  * (1) The Club Coordination Council Controller shall be nominated by the incoming CCC President and be approved by a majority vote of the outgoing Club Coordination Council prior to the first Senate meeting in March of each year.  
+  
+  * (2) The CCC Controller shall serve a one year term beginning April 1st of the year elected.  
+  
+  * (3) The CCC Controller shall sit on the Financial Management Board.  
+  
+## Section 9.2. Purpose & Duties  
+
+* (a) The Club Coordination Council shall disseminate information concerning undergraduate club issues and activities, recommend funding allocations for all undergraduate clubs, serve as a representative of all undergraduate clubs, and coordinate cohesive club programming.  
+
+* (b) The Club Coordination Council shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the Club Coordination Council to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
+
+# ARTICLE X. CLASS COUNCILS  
+
+## Section 10.1. Composition  
+
+* (a) Sophomore, Junior, & Senior Class Officers.  
+
+  * (1) The Sophomore, Junior, and Senior undergraduate classes shall be represented by four class officers elected by their respective class members in a campus-wide vote each year.  
+  
+  * (2) Sophomore and Junior Class Officers shall serve a one-year term beginning on May 1st of the year elected.  
+  
+  * (3) The Senior Class Officers shall come into office on May 1st of the year elected and shall serve in those positions up until the class’s five year reunion.  
+  
+  * (4) The Sophomore, Junior, and Senior Class Officers shall ensure the efficient and effective operation of the Class Councils.  
+  
+* (b) Freshman Class Council.  
+
+  * (1) The Freshman Class Council shall be composed of a representative from each undergraduate residence hall.  
+  
+  * (2) The Freshman Class Council Representatives shall serve until May 1st of the academic year of their selection.  
+  
+  * (3) The Freshman Class Council Representatives shall elect a President, Vice- President, Treasurer, and Secretary by October 15 of the year of their selection.  
+  
+  * (4) The President shall ensure the efficient and effective operation of the Freshman Class Council.  
+  
+## Section 10.2. Purpose  
+
+* (a) The Class Councils shall promote the well-being of their respective classes by sponsoring functions that promote unity among class members.  
+
+## Section 10.3. General Provisions & Duties  
+
+* (a) The Director of Student Activities shall designate an advisor to each class.  
+
+* (b) All Class Presidents shall attend weekly Senate meetings and serve as voting members.  
+
+* (c) All Class Vice-Presidents shall attend the Executive Programming Board meetings.  
+
+* (d) The Sophomore, Junior, and Senior Class Officers shall select Class Council members at their own discretion.  
+
+* (e) The incoming Sophomore, Junior, and Senior Class Treasurers shall each develop, submit, and present a budget proposal for his or her respective Class Council to the Financial Management Board for the annual allocation meeting.  
+
+* (f) The Freshman, Sophomore, Junior, and Senior Class Treasurers shall represent the Class Councils on the Financial Management Board.  
+
+* (g) The Sophomore Class Officers shall nominate a student Sophomore Class Advisor to assist the Freshman Class Council and ensure its efficient operation prior to September 15th. The Senate shall review and approve this nomination.  
+
+* (h) The Sophomore, Junior, and Senior Class Officers shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for their Class Councils to carry out their constitutional duties. These bylaws must be approved by the respective class’s Student Activities advisor and presented to the Student Union Ethics Commission. The Freshman Class Council shall create bylaws if instructed by their advisor. These bylaws must be approved by the organization’s Student Activities advisor.  
+
+## Section 10.4. Transition  
+
+* (a) The incoming members of Class Council shall commence their roles on Student Senate, Financial Management Board, Executive Programming Board, and the Committee on the Budget on April 1st of the year elected.  
+
+# ARTICLE XI. OFF-CAMPUS COUNCIL  
+
+## Section 11.1. Composition  
+
+* (a) Off-Campus President.  
+
+  * (1) The Off-Campus President shall be elected by the students who will reside off campus at the beginning of the next academic semester and those currently off campus.  
+
+  * (2) The Off-Campus President shall serve a one-year term beginning on May 1st of the year elected.  
+
+  * (3) The Off-Campus President shall become Off-Campus President Ex-Officio beginning at the conclusion of his or her term and ending with the completion of the academic semester.  
+
+  * (4) The Off-Campus President shall ensure the efficient and effective operation of the Off-Campus Council.  
+
+* (b) Off-Campus Vice-President.  
+
+  * (1) The Off-Campus Vice-President shall be elected by the students who will reside off campus at the beginning of the next academic semester and those currently off campus.  
+  
+  * (2) The Off-Campus Vice-President shall serve a one-year term beginning on May 1st of the year elected.  
+  
+  * (3) The Off-Campus Vice-President shall become Off-Campus Vice-President Ex-Officio beginning at the conclusion of his or her term and ending with the completion of the academic semester.  
+  
+* (c) Off-Campus Senator.  
+
+  * (1) The Off-Campus Senator shall be elected by the students who will reside off-campus at the beginning of the next academic semester and those currently off campus.  
+  
+  * (2) The Off-Campus Senator shall serve a one-year term beginning on May 1st of the year elected.  
+  
+* (d) Off-Campus Ambassadors.  
+
+  * (1) Off-Campus Ambassadors shall be appointed by the Off-Campus President no later than September 15th.  
+  
+  * (2) The Off-Campus President shall appoint no less than six Off-Campus Ambassadors.  
+  
+  * (3) Off-Campus Ambassadors will be appointed to various off-campus neighborhoods in a manner that effectively maximizes the outreach of the Off-Campus Council. Ambassadors represent the opinions of this appointed area and disseminate information in such a way that it is readily accessible to residents of this area.  
+  
+## Section 11.2. Purpose  
+
+* (a) The Off-Campus Council shall promote the well-being of off-campus students by sponsoring functions and disseminating information to off campus students.  
+
+## Section 11.3. General Provisions & Duties  
+
+* (a) The Director of Student Activities shall designate an advisor to the Off-Campus Council.  
+
+* (b) The Off-Campus President shall develop, submit, and present a budget proposal for the Off-Campus Council to the Financial Management Board for the annual allocation meeting in accordance with the priorities set by the Senate.  
+
+* (c) The Off-Campus President shall represent the Off-Campus Council on the Financial Management Board.  
+
+* (d) The Off-Campus President shall represent the Off-Campus Council on the Senate.  
+
+* (e) The Off-Campus President shall select Off- Campus Council members at his or her own discretion, including a minimum of six Off-Campus Ambassadors.  
+
+* (f) The Off-Campus President shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the Off-Campus Council to carry out its constitutional duties. These bylaws must be approved by the organization‘s Student Activities Office advisor and presented to the Student Union Ethics Commission.  
+
+* (g) The Off-Campus Vice-President shall represent the Off-Campus Council in the Department of Community Relations. The Off-Campus Vice-President may alternatively attend an appropriately related department at the discretion of the Off-Campus President.  
+
+* (h) The Off-Campus Senator shall represent the Off-Campus Council on the Student Senate.  
+
+* (i) The Off-Campus Senator shall represent the Off-Campus Council on the Department of Community Relations. The Off-Campus Senator may alternatively attend an appropriately related department at the discretion of the Off-Campus President.  
+
+* (j) The Off-Campus Ambassadors shall report directly to the Off-Campus President on issues pertaining to off-campus life.  
+
+* (k) The Off-Campus Ambassadors shall be responsible for aiding the Council in its mission to disseminate information to students living Off-Campus. Ambassadors are responsible for community outreach within their respective neighborhood, including outreach to student and non-student members of the community.  
+
+* (k) The Off-Campus President Ex-Officio and Vice-President Ex-Officio will assist the Off-Campus President and Vice-President in transitioning during the end of the Spring academic semester.  
+
+# ARTICLE XII. FINANCIAL MANAGEMENT BOARD  
+
+## Section 12.1. Composition  
+
+* (a) The Financial Management Board shall be composed of the Student Union Treasurer, the Executive Controller, the Student Union Board Director of Finance, the Hall Presidents Council Treasurer, the Club Coordination Council Controller, all Class Treasurers (the Freshman Class Treasurer shall join the Financial Management Board once elected), the Off-Campus President, and the Judicial Council President. The above members shall each have one vote. In addition, the Director of Student Activities shall designate a non-voting advisor to the Financial Management Board.  
+
+* (b) Student Union Treasurer.  
+
+  * (1) The outgoing Student Union Treasurer shall nominate to the Student Senate one of the Assistants to the Student Union Treasurer as a replacement prior to third Thursday in February of each year. This nomination shall be reviewed and approved by the Student Senate. Should an Assistant to the Student Union Treasurer not be available to appoint, the Student Union Treasurer may reappoint himself/herself, if eligible to serve, or open the position to applications to the student body.  
+  
+  * (2) The Student Union Treasurer shall serve a one-year term beginning on March 1st of the year nominated.  
+  
+  * (3) The Student Union Treasurer shall maintain an accurate and timely record of all finances of the Student Union.  
+  
+  * (4) The Student Union Treasurer shall serve as chairperson of the Financial Management Board and ensure its efficient and effective operation.  
+  
+  * (5) The Student Union Treasurer shall disburse all undergraduate student organization funds and ensure that all clubs and organizations receiving undergraduate student organization funds adhere to the fiscal policy established by the Senate.  
+  
+  * (6) The Student Union Treasurer has the power to freeze the funds of any account which exceeds its budget allocation.  
+  
+  * (7) The Student Union Treasurer shall develop, submit, and present a budget proposal for the Office of the Student Union Treasurer to the Financial Management Board for the annual allocation meeting.  
+  
+* (c) Assistants to the Student Union Treasurer.  
+
+  * (1) At least two Assistants to the Student Union Treasurer shall be presented to the Senate by the first meeting in April of each year by the incoming Student Union Treasurer. The Assistants shall be approved by the Senate.  
+  
+  * (2) Assistants to the Student Union Treasurer shall serve a one-year term beginning on April 1st of the year nominated.  
+  
+  * (3) Assistants to the Student Union Treasurer shall assist the Student Union Treasurer in the performance of duties related to the Office of the Student Union Treasurer.  
+  
+  * (4) Assistants to the Student Union Treasurer shall serve as non-voting members on the Financial Management Board.  
+  
+    * (i) One Assistant to the Student Union Treasurer shall oversee the Student Business Managers.  
+    
+    * (ii) One Assistant to the Student Union Treasurer shall serve as a liaison to The Shirt Project.  
+    
+  * (5) Assistants to the Student Union Treasurer shall perform other duties as the Student Union Treasurer may determine.  
+  
+## Section 12.2. Meetings & Procedures  
+
+* (a) The Financial Management Board shall meet at least once every two weeks from April 1st to March 31st during the regular academic school year at a reasonable time and campus location determined by the Student Union Treasurer.  
+
+* (b) No business shall be conducted unless a quorum is present.  
+
+* (c) The Financial Management Board shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the FMB to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
+
+* (d) Financial Management Board meetings shall be open to the public as a general rule; however, the Student Union Treasurer reserves the right to close the meeting at any time deemed appropriate.  
+
+* (e) The Assistants to the Student Union Treasurer shall take minutes at Financial Management Board meetings on an alternating basis. These minutes will be publicly available to the Student Body with stipulations.  
+
+* (f) In the event that a member of the Financial Management Board should be absent from a meeting, that member may leave a signed proxy with any member of the Board. If the measure the proxy pertains to is significantly altered during the meeting, as determined by the Student Union Treasurer, then the proxy will become invalid unless stipulations were made on the proxy for alterations.  
+
+* (g) The Financial Management Board shall conduct hearings throughout the academic year for additional funding requests from contingency and Carry-forward funds.  
+
+* (h) The Financial Management Board shall conduct one formal review of allocations by February 1st of each year.  
+
+* (i) Annual Allocation Hearing.  
+
+  * (1) The Student Union Treasurer shall distribute documentation detailing budget proposal requirements, allocation hearing deadlines, and Senate fiscal policies to each member of the Financial Management Board and one representative from each organization seeking funds prior to the allocation hearing. The Student Union Treasurer shall establish a reasonable time and date for the submission of budget proposals.  
+  
+  * (2) The Student Union Treasurer shall conduct one formal meeting with a representative from each organization seeking funds prior to submission of budget proposals.  
+  
+  * (3) The incoming Student Union Treasurer shall chair the annual allocation hearing.  
+  
+  * (4) Budget proposals shall be presented by incoming officers and organization representatives.  
+  
+  * (5) The outgoing members of the Financial Management Board shall recommend an appropriate allocation of funds to the Senate Committee on the Budget in April of each year. These allocations shall be approved by the incoming Senate Committee on the Budget.  
+  
+  * (6) The Student Union Treasurer shall communicate all allocation awards and restrictions on fund usage for the following fiscal year in writing to each organization prior to the end of the academic year.  
+  
+  * (7) Appeals of annual allocation awards must be submitted in writing to the Student Union Treasurer no later than September 30th of each year.
+  
+* (j) The records of the Student Union Treasurer shall be available for undergraduate student inspection upon request.  
+
+## Section 12.3. Powers & Duties  
+
+* (a) The Financial Management Board shall conduct an annual hearing to ensure the fair allocation of undergraduate student funds. This hearing shall be completed and allocations submitted to the Student Senate Committee on the Budget for approval in April of each year.  
+
+* (b) The Financial Management Board shall review budget requests in an efficient and timely manner and make appropriate recommendations to the Senate.  
+
+* (c) The Financial Management Board shall uphold the fiscal policy outlined in this Constitution.  
+
+* (d) The Financial Management Board shall review fund usage and recommend reallocations to the Senate at any time during its term.  
+
+* (e) The Financial Management Board shall monitor the financial activity of organization for misuse of undergraduate student organization funds and violations of written allocations. Any violations may constitute grounds for impeachment by the Senate and/or a freeze of funds.  
+
+* (f) The Financial Management Board may hear appeals of Club Coordination Council decisions and reverse such decisions by a two-thirds vote.  
+
+* (g) All decisions made by the Financial Management Board and the Student Union Treasurer may be appealed to the Senate.  
+
+## Section 12.4. Student Businesses  
+
+* (a) The Student Businesses shall provide students with practical experience in a business environment and offer convenient services to the Notre Dame community. The minimum goals of the Student Businesses shall be to break-even after all debts are paid.  
+
+* (b) The Student Businesses shall be composed of the following undergraduate student-operated businesses: Irish Gardens and Adworks. Any new student-run business is subject to approval by a three-quarters vote of Financial Management Board.  
+
+* (c) Student Business Oversight.  
+
+  * (1) The Director of Student Activities shall designate an advisor to the Student Businesses. The advisor and an Assistant to the Student Union Treasurer shall oversee the daily operations of the Student Businesses.  
+  
+  * (2) The Assistant to the Student Union Treasurer and advisor shall review all Student Business policies and maintain a current listing of these policies.  
+  
+* (d) Student Business Managers.  
+
+  * (1) The Student Business Managers shall be nominated prior to March 1st of every year.  
+  
+    * (i) The current Student Business Managers and the Assistant to the Student Union Treasurer shall each nominate a new Student Business Manager.  
+    
+    * (ii) The current Student Business Managers and the Assistant to the Student Union Treasurer shall be able to nominate the current Student Business Manager for another term.  
+    
+    * (iii) These nominations shall be reviewed and approved by the Financial Management Board and the Senate.  
+    
+  * (2) The Student Business Managers shall serve a one-year term beginning on April 1st of the year nominated.  
+  
+  * (3) The Student Business Managers shall manage the daily operations and establish the policies of their respective businesses.  
+  
+  * (4) The Student Business Managers shall make daily decisions concerning staffing, inventory, and promotion within their respective businesses.  
+  
+  * (5) The Student Business Managers shall operate the businesses according to the policies and guidelines established by the Senate.  
+  * (6) The Student Business Managers shall submit a business plan to the Financial Management Board no later than the first Financial Management Board following spring allocations.  
+  
+  * (7) The Student Business Managers shall provide accurate and timely reports to the Financial Management Board detailing the finances and operational condition of the Student Businesses at least once each month while classes are in session.  
+  
+  * (8) The Student Business Managers shall perform other duties as the Financial Management Board may determine.  
+  
+  * (9) Additions to the constitutional duties of the Student Business Managers may be appealed to the Senate and overturned by a two-thirds vote of all Senate members.  
+  
+## Section 12.5. The Shirt Project  
+
+* (a) The Shirt Project shall endeavor to promote unity among the undergraduate student body and serve as a fundraiser for charitable causes as well as undergraduate student organizations.  
+
+* (b) The Shirt Project Committee.  
+
+  * (1) The President of The Shirt Project shall be nominated by the Financial Management Board before November 1st of each year and approved by the Senate.  
+  
+  * (2) The President of The Shirt Project shall appoint the members of The Shirt Project Committee before December 1st of each year.  
+  
+  * (3) The Shirt Project Committee shall oversee all aspects of The Shirt Project.  
+  
+  * (4) A member of The Shirt Project Committee shall report to the Financial Management Board on the operational conditions of The Shirt Project as requested.  
+  
+  * (5) The Shirt Project Committee shall make timely financial reports and information available to the Senate or Financial Management Board as requested.  
+  
+* (c) The Director of Student Activities shall designate an advisor to The Shirt Project. The advisor shall assist The Shirt Project Committee in the execution of its duties.  
+
+* (d) The design and color of The Shirt shall be approved by the Financial Management Board prior to production in an efficient and timely manner.  
+
+* (e) The Student Union Treasurer shall approve all expenditures relating to The Shirt Project. Any expenditure over $5,000 for The Shirt Project shall be approved by the Financial Management Board in an efficient and timely manner.  
+
+## Section 12.6. Special-Interest Student Organizations  
+
+* (a) Definitions and Organizations.  
+
+  * (1) The following groups are defined as special-interest student organizations:  
+  
+    * (i) Bookstore Basketball. Bookstore Basketball is a charitable organization that organizes an annual five-on-five outdoor basketball tournament to support the Jumpball Programme.  
+    
+    * (ii) Debate Team. The Debate Team competes in national policy and parliamentary debate competitions.  
+    
+    * (iii) Gay Straight Alliance. The Gay Straight Alliance shall serve as an organization promoting communication among members of the LGBTQ community and their straight Allies.  
+    
+    * (iv) Junior Parents Weekend. Junior Parents Weekend is a weekend in February to allow the parents of junior students to meet and socialize.  
+    
+    * (v) Knights of Columbus. The University supports a council of the Knights of Columbus, the Catholic fraternal organization, on campus.  
+    
+    * (vi) Student Campus Orientation Committee. The Student Campus Orientation Committee (SCOC) is responsible for training student staffs for, and coordinating student programming during, the First Year Orientation Weekend. Additionally, the committee represents student interest in University-level conversations concerning First Year Orientation and its programming events.  
+    
+  * (2) Where appropriate, these organizations shall present bylaws to their advisor no later than October 1st of each year for approval.  
+  
+* (b) Powers.  
+
+  * (1) The Student Body President or his designee shall notify the special-interest student organizations in the event that business is placed on the Senate agenda relating to this Article or the special-interest student organizations.  
+  
+  * (2) In the event that any item of business pertaining to this subsection or the special interest student organizations should come before the Senate, the special-interest student organizations may each send a representative to Senate to speak on their behalf.  
+  
+* (c) Funding.  
+
+  * (1) Special-interest student organizations shall be provided funding with funds made available for FMB allocation to organizations of the Student Union.  
+  
+  * (2) Special-interest student organizations shall each submit a budget request to the Student Union Treasurer, which shall include estimates of available outside funding, such as funding by a University office or expected endowment return.  
+  
+  * (3) Special-interest student organizations shall be eligible for winter reallocation and use of the FMB Collaboration Fund.  
+  
+  * (4) The Financial Management Board shall allocate the funds available to the special interest organizations as it sees fit, taking into account availability and expectation of outside funding.  
+  
+## Section 12.7. Collaboration Fund  
+
+* (a) The Financial Management Board Collaboration Fund is intended as a means for clubs, residence halls, and organizations, such as those which have limited programming budgets, to be able to sponsor an event with a student organization that has a mutual interest in the event.  
+
+* (b) The Fund shall be used whenever there is clear, mutual interest in an event.  
+
+* (c) The Financial Management Board shall not consider requests for funds from previous years when deciding on presented appeals.  
+
+* (d) The Financial Management Board does not support a policy of retroactive funding; all appeals shall be made before the event is to occur.  
+
+## Section 12.8. Collaboration Fund Appeal  
+
+* (a) The process of this appeal to the Financial Management Board shall be initiated and organized by the club.  
+
+* (b) The cosponsors shall agree on the terms of the co-sponsorship.  
+
+* (c) This agreement shall be documented on the form for the appeal to the Collaboration Fund.  
+
+* (d) The form shall be submitted to the Club Coordination Council at least one week (five business days) before it shall be presented to the Financial Management Board at its meeting.  
+
+* (e) Once the form is completed, the club shall make an appointment with the appropriate Club Coordination Council Division Chair in order to have the appeal reviewed.  
+
+* (f) This meeting shall include, but shall not be limited to, a Club Coordination Council Representative from the same division as the club, an officer of the club, and one representative of each of the cosponsors participating in the agreement.  
+
+* (g) The Club Coordination Council Representative shall review the appeal form with the officers present, asking questions to help clarify ambiguities and reach an understanding of planned income, expenses, and intent of the event.  
+
+* (h) The Representative from the meeting shall then present the appeal to the Club Coordination Council.  
+
+* (i) The Club Coordination Council shall then decide whether or not to recommend the appeal to the Financial Management Board and the dollar amount to be recommended (this may be greater or lesser than the dollar amount of the initial appeal request).  
+
+* (j) Whether or not the Club Coordination Council recommends the appeal, it shall present the appeal to the Financial Management Board.  
+
+  * (1) The Club Coordination Council Controller shall give the cosponsors adequate notice before he or she presents their appeal to the Financial Management Board.  
+  
+  * (2) A representative from a cosponsoring group must attend the presentation of the appeal to the Financial Management Board.  
+  
+  * (3) The Financial Management Board shall not hear an appeal in the absence of a representative from a co-sponsoring group.  
+  
+  * (4) The Financial Management Board may consider both the dollar amount recommended by the Club Coordination Council and the dollar amount requested by the club.  
+
+  * (5) The Financial Management Board shall then vote in favor of or in opposition to the allocation of either the dollar amount recommended by the Club Coordination Council or the dollar amount requested by the club.  
+
 # ARTICLE XIII. JUDICIAL COUNCIL
 ## Section 13.1. Composition
 (a) The Judicial Council shall be composed of
