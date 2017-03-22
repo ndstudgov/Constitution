@@ -633,477 +633,268 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
 # ARTICLE VI. FIRST UNDERGRADUATE EXPERIENCE IN LEADERSHIP (FUEL)
 ## Section 6.1 Composition
-(a) FUEL Directors.
-(1) At least two FUEL directors shall be
-appointed as described in Section 6.3.
-(2) The directors shall serve a one year term
-beginning April 1.
-(3) The FUEL directors shall be responsible
-for organizing and facilitating meetings and
-programs to accomplish the goals of FUEL.
-(A) FUEL shall meet at least once every
-two weeks from the date of membership
-selection through the end of the term
-while classes are in session.
-(4) The directors shall write bylaws before
-May 1to outline the effective operation of
-FUEL.
-(5) All FUEL Directors shall attend all
-Executive Cabinet meetings.
-(b) Membership.
-(1) The membership of FUEL shall be
-restricted to First Year students.
-(2) The FUEL directors shall select the
-membership.
-(A) The method of selection shall be
-outlined in the FUEL Bylaws.
-(B) The members shall be selected
-within two weeks of the completion of
-Freshman Class Council elections in
-accordance with the FUEL Bylaws.
-(3) The membership shall be approved by
-the Student Body President.
-(4) The membership shall serve from date
-of selection until March 31.
-## Section 6.2 Purpose
-(a) The FUEL Directors and FUEL
-Membership shall aid in the effective
-achievement of the goals of the Student Union
-as determined by the Student Body President in
-conjunction with the Executive Cabinet.
-(b) The Directors of FUEL shall ensure
-effective aid to the Student Union by using their
-experiences as student leaders to accomplish the
-goals of FUEL, which are stated as follows:
-(1) Integration of First Year leaders into the
-Student Union.
-(2) Explanation of Student Union policies
-and procedures to First Year leaders.
-(3) Facilitation of community development
-among the First Year leaders.
-(4) Education of the First Year leaders in
-the practices of ethical peer leadership.
-## Section 6.3 Transition
-(a) The Student Body President shall appoint at
-least two FUEL directors.
-(1) The FUEL directors from the previous
-administration shall recommend to the
-Student Body President at least one
-candidate for consideration for directorship.
-(2) The Student Body President’s
-nominations for directorship shall be
-approved by the Senate.
-(b) The incoming directors shall meet with the
-directors from the previous administration to
-discuss changes to the structure of the program
-and the revision of the FUEL bylaws.
-(c) Before revising the bylaws, the incoming
-directors shall meet with the incoming members
-of the Executive Cabinet to determine the best
-way in which FUEL can aid in accomplishing
-their specific goals for the specific term.
-Section 6.4 General Provisions.
-(a) The Director of Student Activities shall
-designate an advisor to FUEL.
-(b) The FUEL Directors shall present bylaws by
-May 1st to establish the operational procedures
-(including, but not limited, to selection policies,
-attendance, and timeline) necessary for FUEL to
-carry out its constitutional duties. These bylaws
-must be approved by the directors’ Student
-Activities advisor and presented to the Student
-Union Ethics Commission.
-# ARTICLE VII. STUDENT UNION BOARD
-## Section 7.1. Composition
-(a) Student Union Board Directors.
-(1) The Student Union Executive Board of
-Directors shall be composed of the SUB
-Executive Director, the SUB Director(s) of
-Programming, the SUB Director of
-Operations, the SUB Director of Publicity,
-the SUB Director of Art and the SUB
-Director of Finance.
-(2) The Student Union Board Directors
-Meetings shall be chaired by the SUB
-Executive Director.
-(3) The SUB Directors shall be approved by
-the Senate.
-(4) The SUB Directors shall provide overall
-direction and guidance to ensure
-consistency, coordination, and quality in all
-SUB events and activities.
-(5) The SUB Directors shall determine all
-SUB policies and maintain current records
-of these policies.
-(6) The incoming SUB Directors shall
-select the programming division heads prior
-to April 1st of each year.
-(b) The Director of Student Activities shall
-designate an advisor to SUB. The advisor shall
-serve as a non-voting member of the SUB
-Directors.
-(c) Student Union Board Executive Director.
-(1) The Student Union Board Executive
-Director shall serve as the undergraduate
-student body coordinator and supervisor of
-all phases of the operation of SUB.
-(2) The Student Union Board Executive
-Director shall serve as a voting member on
-the Campus Life Council.
-(3) The Student Union Board Executive
-Director shall develop, submit, and present a
-budget proposal for SUB to the Financial
-Management Board for the annual allocation
-meeting with the assistance of the SUB
-Director of Finance.
-(4) The Student Union Board Executive
-Director may reject any program if it comes
-into conflict with the mission and/or bylaws
-of SUB or this Constitution.
-(d) SUB Director(s) of Programming.
-(1) The Director(s) of Programming shall
-oversee, direct, and facilitate the planning
-and coordination of all commissions and
-programs.
-(2) The Director(s) of Programming shall
-assess undergraduate student needs and
-ensure that all SUB programs are consistent
-with these needs.
-(3) The Director(s) of Programming shall sit
-on the Executive Programming Board.
-(4) The Selection Committee, in
-accordance with Section 7.4, may determine
-how many directors are necessary to fulfill
-the position requirements.
-(e) SUB Director of Operations.
-(1) The Director of Operations shall oversee
-internal communications.
-(2) The Director of Operations shall oversee
-and revise the office policies.
-(3) The Director of Operations shall oversee
-the maintenance of the office and the
-morale, retention, and recruitment of SUB
-membership.
-(4) The Director of Operations shall
-maintain a written record of all business of
-SUB. These records shall include, but not be
-limited to, agendas and minutes of meetings,
-office hour schedules, mailing lists, and
-phone numbers. All records shall be
-available to undergraduate students upon
-request.
-(f) SUB Director of Publicity.
-(1) The Director of Publicity shall ensure
-that the undergraduate student body is
-effectively informed of all SUB programs.
-(2) The Director of Publicity shall
-manage all external communication efforts
-for SUB.
-(g) SUB Director of Art.
-(1) The Director of Art shall oversee and
-assist in all artwork associated with events,
-including but not limited to graphic design
-and photography.
-(2) The Director of Art shall work with the
-SUB Director of Publicity in regards to all
-advertising outlets.
-(h) SUB Director of Finance.
-(1) The Director of Finance shall maintain
-an accurate and timely record of all income
-and expenses of SUB.
-(2) The Director of Finance shall approve
-all transactions of SUB and submit requests
-to the Office of the Student Union Treasurer.
-(3) The incoming Director of Finance shall
-assist the Student Union Board Executive
-Director in the development, submission,
-and presentation of the budget proposal for
-SUB to the Financial Management Board for
-the annual allocation meeting.
-(4) The Director of Finance shall sit on the
-Financial Management Board.
-(i) Dorm Representatives.
-(1) Each dorm shall elect one person to
-represent his or her dorm’s interests to the
-Student Union Board.
-(2) These elected officials shall serve on at
-least one committee and there shall be at
-least one elected dorm representative on
-each SUB division as determined by the
-SUB Director of Operations.
-(3) Dorm representatives will be in charge
-of the distribution of approved SUB
-publicity within his or her own dorm.
-(4) Dorm representatives must attend hall
-council.
-(j) Appointed Programming Division Heads.
-(1) The SUB Directors shall select, via
-application and interview, all programming
-division heads.
-(2) Appointed programming division heads
-shall also assist in the recruitment of
-volunteer members for their division.
-(3) Appointed programming division heads
-shall also assist with the distribution of
-approved SUB publicity within his or her
-own dorm.
-## Section 7.2. Purpose & Duties
-(a) SUB shall enhance undergraduate student
-life by providing undergraduate student services
-and social, intellectual, and cultural
-opportunities that respond to the needs and
-wants of the undergraduate student body in the
-most efficient manner available.
-(b) SUB shall present bylaws by May 1st to
-establish the operational procedures (including,
-but not limited to, attendance and tardiness
-policies) necessary for SUB to carry out its
-constitutional duties. These bylaws must be
-approved by the organization’s Student
-Activities advisor and presented to the Student
-Union Ethics Commission.
-(c) All members of SUB shall serve a one-year
-term beginning on May 1st, with a transitory
-training period in effect from the date of
-20 Constitution of the Undergraduate Student Body 01/17/2017
-appointment or approval of new members until
-May 1st. During the period, the outgoing
-members of SUB shall meet and work with their
-successors to explain the role and practical
-functioning of SUB.
-## Section 7.3. Divisions
-(a) The Student Union Board Executive
-Director and the Director(s) of Programming
-shall create divisions to fulfill the diverse
-programming needs of SUB as outlined in
-Section 7.2.
-(b) The membership of each division shall
-consist of at least one programming division
-head and at least one member of the elected
-dorm representatives. The divisions shall be
-open to student volunteers as determined by the
-SUB Directors.
-## Section 7.4. SUB Directors Selection
-Committees.
-(a) Selection Committee for Student Union
-Board Executive Director.
-(1) The Student Union Board Executive
-Director Selection Committee shall be
-composed of the incoming Student Body
-President, the incoming Student Body Vice-
-President, the outgoing SUB Executive
-Director, the outgoing Director(s) of
-Programming, and the Director of Student
-Activities. The Director of Student
-Activities shall cast a vote in the event of a
-tie.
-(2) In the event the outgoing Student Union
-Board Executive Director or Director(s) of
-Programming are applying for Student
-Union Board Executive Director, the
-Student Union Board Executive Director or
-the concerned Director(s) of Programming
-shall not sit on the Selection Committee for
-his or her position. A non-returning SUB
-Executive Board of Directors member shall
-instead serve and vote during the Student
-Union Board Executive Director’s selection.
-(3) The Selection Committee shall nominate
-and present the new Student Union Board
-Executive Director by the first meeting of
-the Senate in March. The Senate shall
-review and approve this nomination.
-(b) Selection Committee for SUB Director(s) of
-Programming, SUB Director of Operations,
-SUB Director of Publicity, SUB Director of Art
-and the SUB Director of Finance.
-(1) This Selection Committee shall be
-composed of the outgoing Student Union
-Board Executive Director, the incoming
-Student Union Board Executive Director,
-two outgoing Directors, the incoming
-Student Body President, and the Director of
-Student Activities. The Director of Student
-Activities shall cast the deciding vote in the
-event of a tie.
-(2) The Selection Committee may determine
-how many Directors of Programming are
-necessary to fulfill the position
-requirements.
-(3) In the event that a person up for
-nomination is also on the Selection
-Committee, that person shall not sit on the
-Selection Committee. Instead, a comparable
-non-returning SUB Executive Board of
-Directors member shall sit in his or her
-place.
-(4) The Selection Committee shall nominate
-and present the new SUB Directors to
-Senate by March 15th. The Senate shall
-review and approve all nominations.
-# ARTICLE VIII. HALL PRESIDENTS COUNCIL
-## Section 8.1. Composition
-(a) The Hall Presidents Council shall be
-composed of (but not limited to) the Hall
-President from each undergraduate residence
-hall, the two Hall Presidents Council Co-Chairs,
-and the Hall Presidents Council Treasurer. Each
-undergraduate residence hall shall have one
-vote.
-(b) Hall Presidents Council Co-Chairs.
-(1) The outgoing Hall Presidents Council
-shall elect two members to serve as Co-
-Chairs for the following year prior to the
-third Friday in March of each year.
-(2) The Hall Presidents Council Co-Chairs
-shall serve a one-year term beginning on
-April 1st of the year elected.
-(3) The Hall Presidents Council Co-Chairs
-shall serve as chairpersons of the Hall
-Presidents Council and ensure its efficient
-and effective operation.
-(4) One Hall Presidents Council Co-Chair
-will serve as a voting member on the
-Campus Life Council.
-(5) Both Hall Presidents Council Co-Chairs
-shall attend all Executive Programming
-Board meetings.
-(6) The incoming Hall Presidents Council
-Co-Chairs shall develop, submit, and present
-a budget proposal to the Financial
-Management Board for the annual allocation
-meeting in accordance with the priorities set
-by the Hall Presidents Council Executive
-Cabinet.
-(7) The Hall Presidents’ Co-Chairs shall
-nominate administrative assistants at their
-discretion with the approval of the Hall
-Presidents Council.
-(8) The Hall Presidents Council Co-Chairs
-shall perform other duties as the Hall
-Presidents Council may determine.
-Additions to constitutional duties may be
-appealed to the Senate and approved by a
-two-thirds vote of all Senate members.
-(c) Hall Presidents Council Treasurer.
-(1) The Hall Presidents Council Treasurer
-shall be nominated by the Co-Chairs by the
-beginning of each term.
-(2) The Hall Presidents Council Treasurer
-shall maintain an accurate and timely record
-of all income and expenses of the Hall
-Presidents Council.
-(3) The Hall Presidents Council Treasurer
-shall approve all transactions of the Hall
-Presidents Council and submit requests to
-the Office of the Student Union Treasurer.
-(4) The Hall Presidents Council Treasurer
-shall sit on the Financial Management
-Board.
-(d) Hall Presidents Council Athletic Chair.
-(1) The Hall Presidents Council Athletic
-Chair shall be nominated by the Co-Chairs
-by the beginning of each term and approved
-by the Hall Presidents Council.
-(2) The Hall Presidents Council Athletic
-Chair shall fulfill the responsibilities of
-coordinating undergraduate residence hall
-concession stands.
-(3) The Hall Presidents Council Athletic
-Chair shall fulfill the responsibilities of
-coordinating pep rally hosts.
-## Section 8.2. Purpose
-(a) The Hall Presidents Council shall serve as
-an information disseminating body, provide a
-forum for members to discuss common matters
-of residentiality, and coordinate programming
-among the undergraduate residence halls. The
-Hall Presidents Council shall promote the wellbeing
-of the undergraduate student body by
-working for the betterment of undergraduate
-residential life.
-## Section 8.3. General Provisions
-(a) The Director of Student Activities shall
-designate an advisor to the Hall Presidents
-Council.
-(b) Attendance at all meetings of the Hall
-Presidents Council by at least one member of
-hall government is mandatory. Cases of
-excessive absenteeism shall be referred to the
-Student Union Ethics Commission at the
-discretion of the Hall Presidents Council Co-
-Chairs.
-(c) The HPC shall present bylaws by May 1st to
-establish the operational procedures (including,
-but not limited, to attendance and tardiness
-policies) necessary for the HPC to carry out its
-constitutional duties. These bylaws must be
-approved by the organization’s Student
-Activities advisor and presented to the Student
-Union Ethics Commission.
-## Section 8.4. Hall of the Year
-(a) The decision to award the title of Hall of the
-Year to a residence hall shall be decided by a
-review board comprised of the following
-members:
-(1) Both Hall Presidents Council Co-Chairs.
-(2) The Hall Presidents Council Treasurer.
-(3) Both Hall Presidents Council Social
-Chairs.
-(4) The Hall Presidents Council Athletics
-Chair.
-(5) Two (2) Senators, who shall not sit on
-their own halls’ review boards.
-(6) One (1) member of the senior Judicial
-Council leadership.
-(7) The Director of the Department of
-Residence Life.
-(b) The review board shall receive presentations
-from a maximum of three (3) members of hall
-government. Up to an additional four (4)
-members of the hall may also contribute to the
-presentation. The presence of the Hall President
-is required, and the review board shall not hear
-any presentation in the absence of the Hall
-President.
-(c) If, for any presentation, a member of the
-Hall of the Year review board is unable to
-ensure impartiality, either by his or her own
-estimation or the decision of the review board by
-majority vote, said member must recuse himself
-or herself from scoring the hall(s) in question. In
-the event that a member of the review board is
-recused, their score for that residence hall will
-be voided and replaced by the mean score given
-by the other scoring members.
-(d) The total score for the Hall of the Year shall
-be comprised of 55% presentation and 45%
-Rockne awards. Each residence hall’s monthly
-Rockne submission shall be evaluated on a noncompetitive
-rubric determined by the Hall
-Presidents Council Executive Board by the start
-of each academic year. This rubric, and the
-rubric for the presentations, shall be distributed
-to the Hall Presidents in a timely manner. The
-Rockne scores shall be totaled and weighted to
-equal 45% of the final score. After the
-presentations, the average score shall be
-weighted to equal 55% of the final score and
-then combined with the Rockne score. After the
-total points for each hall are tabulated, the Hall
-Presidents Council Co-Chairs shall announce the
-winning residence hall as Hall of the Year at the
-student leadership awards dinner. The next
-highest-scoring male residence hall shall be
-named Men’s Hall of the Year, and the next
-highest-scoring female residence hall shall be
-named Women’s Hall of the Year. In the event
-of a tie, the review board shall vote to determine
-the winner.
-(e) All records of point allocation and voting in
-the event of a tie shall be made available to the
-public upon request once a winner has been
-announced.
+* (a) FUEL Directors.  
+
+  * (1) At least two FUEL directors shall be appointed as described in Section 6.3.  
+  
+  * (2) The directors shall serve a one year term beginning April 1.  
+  
+  * (3) The FUEL directors shall be responsible for organizing and facilitating meetings and programs to accomplish the goals of FUEL.  
+    * (i) FUEL shall meet at least once every two weeks from the date of membership selection through the end of the term while classes are in session.  
+    
+  * (4) The directors shall write bylaws before May 1 to outline the effective operation of FUEL.  
+  
+  * (5) All FUEL Directors shall attend all Executive Cabinet meetings.  
+  
+* (b) Membership.  
+
+  * (1) The membership of FUEL shall be restricted to First Year students.  
+  
+  * (2) The FUEL directors shall select the membership.  
+  
+    * (i) The method of selection shall be outlined in the FUEL Bylaws.  
+    
+    * (ii) The members shall be selected within two weeks of the completion of Freshman Class Council elections in accordance with the FUEL Bylaws.  
+    
+  * (3) The membership shall be approved by the Student Body President.  
+  
+  * (4) The membership shall serve from date of selection until March 31.  
+  
+## Section 6.2 Purpose  
+
+* (a) The FUEL Directors and FUEL Membership shall aid in the effective achievement of the goals of the Student Union as determined by the Student Body President in conjunction with the Executive Cabinet.  
+
+* (b) The Directors of FUEL shall ensure effective aid to the Student Union by using their experiences as student leaders to accomplish the goals of FUEL, which are stated as follows:  
+
+  * (1) Integration of First Year leaders into the Student Union.  
+  
+  * (2) Explanation of Student Union policies and procedures to First Year leaders.  
+  
+  * (3) Facilitation of community development among the First Year leaders.  
+  
+  * (4) Education of the First Year leaders in the practices of ethical peer leadership.  
+  
+## Section 6.3 Transition  
+
+* (a) The Student Body President shall appoint at least two FUEL directors.  
+
+  * (1) The FUEL directors from the previous administration shall recommend to the Student Body President at least one candidate for consideration for directorship.  
+  
+  * (2) The Student Body President’s nominations for directorship shall be approved by the Senate.  
+  
+* (b) The incoming directors shall meet with the directors from the previous administration to discuss changes to the structure of the program and the revision of the FUEL bylaws.  
+
+* (c) Before revising the bylaws, the incoming directors shall meet with the incoming members of the Executive Cabinet to determine the best way in which FUEL can aid in accomplishing their specific goals for the specific term.  
+
+## Section 6.4 General Provisions.  
+
+* (a) The Director of Student Activities shall designate an advisor to FUEL.  
+
+* (b) The FUEL Directors shall present bylaws by May 1st to establish the operational procedures (including, but not limited, to selection policies, attendance, and timeline) necessary for FUEL to carry out its constitutional duties. These bylaws must be approved by the directors’ Student Activities advisor and presented to the Student Union Ethics Commission.  
+
+# ARTICLE VII. STUDENT UNION BOARD  
+
+## Section 7.1. Composition  
+
+* (a) Student Union Board Directors.  
+
+  * (1) The Student Union Executive Board of Directors shall be composed of the SUB Executive Director, the SUB Director(s) of Programming, the SUB Director of Operations, the SUB Director of Publicity, the SUB Director of Art and the SUB Director of Finance.  
+  
+  * (2) The Student Union Board Directors Meetings shall be chaired by the SUB Executive Director.  
+  
+  * (3) The SUB Directors shall be approved by the Senate.  
+  
+  * (4) The SUB Directors shall provide overall direction and guidance to ensure consistency, coordination, and quality in all SUB events and activities.  
+  
+  * (5) The SUB Directors shall determine all SUB policies and maintain current records of these policies.  
+  
+  * (6) The incoming SUB Directors shall select the programming division heads prior to April 1st of each year.  
+  
+* (b) The Director of Student Activities shall designate an advisor to SUB. The advisor shall serve as a non-voting member of the SUB Directors.  
+
+* (c) Student Union Board Executive Director.  
+
+  * (1) The Student Union Board Executive Director shall serve as the undergraduate student body coordinator and supervisor of all phases of the operation of SUB.  
+  
+  * (2) The Student Union Board Executive Director shall serve as a voting member on the Campus Life Council.  
+  
+  * (3) The Student Union Board Executive Director shall develop, submit, and present a budget proposal for SUB to the Financial Management Board for the annual allocation meeting with the assistance of the SUB Director of Finance.  
+  
+  * (4) The Student Union Board Executive Director may reject any program if it comes into conflict with the mission and/or bylaws of SUB or this Constitution.  
+  
+* (d) SUB Director(s) of Programming.  
+
+  * (1) The Director(s) of Programming shall oversee, direct, and facilitate the planning and coordination of all commissions and programs.  
+  
+  * (2) The Director(s) of Programming shall assess undergraduate student needs and ensure that all SUB programs are consistent with these needs.  
+  
+  * (3) The Director(s) of Programming shall sit on the Executive Programming Board.  
+
+  * (4) The Selection Committee, in accordance with Section 7.4, may determine how many directors are necessary to fulfill the position requirements.  
+  
+* (e) SUB Director of Operations.  
+
+  * (1) The Director of Operations shall overse internal communications.  
+  
+  * (2) The Director of Operations shall oversee and revise the office policies.  
+  
+  * (3) The Director of Operations shall oversee the maintenance of the office and the morale, retention, and recruitment of SUB membership.  
+  
+  * (4) The Director of Operations shall maintain a written record of all business of SUB. These records shall include, but not be limited to, agendas and minutes of meetings, office hour schedules, mailing lists, and phone numbers. All records shall be available to undergraduate students upon request.  
+  
+* (f) SUB Director of Publicity.  
+
+  * (1) The Director of Publicity shall ensure that the undergraduate student body is effectively informed of all SUB programs.  
+  
+  * (2) The Director of Publicity shall manage all external communication efforts for SUB.  
+  
+* (g) SUB Director of Art.  
+
+  * (1) The Director of Art shall oversee and assist in all artwork associated with events, including but not limited to graphic design and photography.  
+  
+  * (2) The Director of Art shall work with the SUB Director of Publicity in regards to all advertising outlets.  
+  
+* (h) SUB Director of Finance.  
+
+  * (1) The Director of Finance shall maintain an accurate and timely record of all income and expenses of SUB.  
+  
+  * (2) The Director of Finance shall approve all transactions of SUB and submit requests to the Office of the Student Union Treasurer.  
+  * (3) The incoming Director of Finance shall assist the Student Union Board Executive Director in the development, submission, and presentation of the budget proposal for SUB to the Financial Management Board for the annual allocation meeting.  
+  
+  * (4) The Director of Finance shall sit on the Financial Management Board.  
+  
+* (i) Dorm Representatives.  
+
+  * (1) Each dorm shall elect one person to represent his or her dorm’s interests to the Student Union Board.  
+  
+  * (2) These elected officials shall serve on at least one committee and there shall be at least one elected dorm representative on each SUB division as determined by the SUB Director of Operations.  
+  
+  * (3) Dorm representatives will be in charge of the distribution of approved SUB publicity within his or her own dorm.  
+  
+  * (4) Dorm representatives must attend hall council.  
+  
+* (j) Appointed Programming Division Heads.  
+
+  * (1) The SUB Directors shall select, via application and interview, all programming division heads.  
+  
+  * (2) Appointed programming division heads shall also assist in the recruitment of volunteer members for their division.  
+  
+  * (3) Appointed programming division heads shall also assist with the distribution of approved SUB publicity within his or her own dorm.  
+  
+## Section 7.2. Purpose & Duties  
+
+* (a) SUB shall enhance undergraduate student life by providing undergraduate student service and social, intellectual, and cultural opportunities that respond to the needs and wants of the undergraduate student body in the most efficient manner available.  
+
+* (b) SUB shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for SUB to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
+
+* (c) All members of SUB shall serve a one-year term beginning on May 1st, with a transitory training period in effect from the date of appointment or approval of new members until May 1st. During the period, the outgoing members of SUB shall meet and work with their successors to explain the role and practical functioning of SUB.  
+
+## Section 7.3. Divisions  
+
+* (a) The Student Union Board Executive Director and the Director(s) of Programming shall create divisions to fulfill the diverse programming needs of SUB as outlined in Section 7.2.  
+
+* (b) The membership of each division shall consist of at least one programming division head and at least one member of the elected dorm representatives. The divisions shall be open to student volunteers as determined by the SUB Directors.  
+
+## Section 7.4. SUB Directors Selection Committees.  
+
+* (a) Selection Committee for Student Union Board Executive Director.  
+
+  * (1) The Student Union Board Executive Director Selection Committee shall be composed of the incoming Student Body President, the incoming Student Body Vice-President, the outgoing SUB Executive Director, the outgoing Director(s) of Programming, and the Director of Student Activities. The Director of Student Activities shall cast a vote in the event of a tie.  
+  
+  * (2) In the event the outgoing Student Union Board Executive Director or Director(s) of Programming are applying for Student Union Board Executive Director, the Student Union Board Executive Director or the concerned Director(s) of Programming shall not sit on the Selection Committee for his or her position. A non-returning SUB Executive Board of Directors member shall instead serve and vote during the Student Union Board Executive Director’s selection.  
+  
+  * (3) The Selection Committee shall nominate and present the new Student Union Board Executive Director by the first meeting of the Senate in March. The Senate shall review and approve this nomination.  
+  
+* (b) Selection Committee for SUB Director(s) of Programming, SUB Director of Operations, SUB Director of Publicity, SUB Director of Art and the SUB Director of Finance.
+
+  * (1) This Selection Committee shall be composed of the outgoing Student Union Board Executive Director, the incoming Student Union Board Executive Director, two outgoing Directors, the incoming Student Body President, and the Director of Student Activities. The Director of Student Activities shall cast the deciding vote in the event of a tie.  
+  
+  * (2) The Selection Committee may determine how many Directors of Programming are necessary to fulfill the position requirements.  
+  
+  * (3) In the event that a person up for nomination is also on the Selection Committee, that person shall not sit on the Selection Committee. Instead, a comparable non-returning SUB Executive Board of Directors member shall sit in his or her place.  
+  
+  * (4) The Selection Committee shall nominate and present the new SUB Directors to Senate by March 15th. The Senate shall review and approve all nominations.  
+  
+# ARTICLE VIII. HALL PRESIDENTS COUNCIL  
+
+## Section 8.1. Composition  
+
+* (a) The Hall Presidents Council shall be composed of (but not limited to) the Hall President from each undergraduate residence hall, the two Hall Presidents Council Co-Chairs, and the Hall Presidents Council Treasurer. Each undergraduate residence hall shall have one vote.
+
+* (b) Hall Presidents Council Co-Chairs.  
+
+  * (1) The outgoing Hall Presidents Council shall elect two members to serve as Co-Chairs for the following year prior to the third Friday in March of each year.  
+  
+  * (2) The Hall Presidents Council Co-Chairs shall serve a one-year term beginning on April 1st of the year elected.  
+  
+  * (3) The Hall Presidents Council Co-Chairs shall serve as chairpersons of the Hall Presidents Council and ensure its efficient and effective operation.  
+  
+  * (4) One Hall Presidents Council Co-Chair will serve as a voting member on the Campus Life Council.  
+  
+  * (5) Both Hall Presidents Council Co-Chairs shall attend all Executive Programming Board meetings.
+  
+  * (6) The incoming Hall Presidents Council Co-Chairs shall develop, submit, and present a budget proposal to the Financial Management Board for the annual allocation meeting in accordance with the priorities set by the Hall Presidents Council Executive Cabinet.  
+  
+  * (7) The Hall Presidents’ Co-Chairs shall nominate administrative assistants at their discretion with the approval of the Hall Presidents Council.  
+  
+  * (8) The Hall Presidents Council Co-Chairs shall perform other duties as the Hall Presidents Council may determine. Additions to constitutional duties may be appealed to the Senate and approved by a two-thirds vote of all Senate members.  
+  
+* (c) Hall Presidents Council Treasurer.  
+
+  * (1) The Hall Presidents Council Treasurer shall be nominated by the Co-Chairs by the beginning of each term.  
+  
+  * (2) The Hall Presidents Council Treasurer shall maintain an accurate and timely record of all income and expenses of the Hall Presidents Council.  
+  
+  * (3) The Hall Presidents Council Treasurer shall approve all transactions of the Hall Presidents Council and submit requests to the Office of the Student Union Treasurer.  
+  
+  * (4) The Hall Presidents Council Treasurer shall sit on the Financial Management Board.  
+
+* (d) Hall Presidents Council Athletic Chair.  
+
+  * (1) The Hall Presidents Council Athletic Chair shall be nominated by the Co-Chairs by the beginning of each term and approved by the Hall Presidents Council.  
+  
+  * (2) The Hall Presidents Council Athletic Chair shall fulfill the responsibilities of coordinating undergraduate residence hall concession stands.  
+  
+  * (3) The Hall Presidents Council Athletic Chair shall fulfill the responsibilities of coordinating pep rally hosts.  
+  
+## Section 8.2. Purpose  
+
+* (a) The Hall Presidents Council shall serve as an information disseminating body, provide a forum for members to discuss common matters of residentiality, and coordinate programming among the undergraduate residence halls. The Hall Presidents Council shall promote the wellbeing of the undergraduate student body by working for the betterment of undergraduate residential life.  
+
+## Section 8.3. General Provisions  
+
+* (a) The Director of Student Activities shall designate an advisor to the Hall Presidents Council.  
+
+* (b) Attendance at all meetings of the Hall Presidents Council by at least one member of hall government is mandatory. Cases of excessive absenteeism shall be referred to the Student Union Ethics Commission at the discretion of the Hall Presidents Council Co- Chairs.  
+
+* (c) The HPC shall present bylaws by May 1st to establish the operational procedures (including, but not limited, to attendance and tardiness policies) necessary for the HPC to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
+
+## Section 8.4. Hall of the Year  
+
+* (a) The decision to award the title of Hall of the Year to a residence hall shall be decided by a review board comprised of the following members:  
+
+  * (1) Both Hall Presidents Council Co-Chairs.  
+
+  * (2) The Hall Presidents Council Treasurer.  
+
+  * (3) Both Hall Presidents Council Social Chairs.  
+
+  * (4) The Hall Presidents Council Athletics Chair.  
+
+  * (5) Two (2) Senators, who shall not sit on their own halls’ review boards.  
+
+  * (6) One (1) member of the senior Judicial Council leadership.  
+
+  * (7) The Director of the Department of Residence Life.  
+  
+* (b) The review board shall receive presentations from a maximum of three (3) members of hall government. Up to an additional four (4) members of the hall may also contribute to the presentation. The presence of the Hall President is required, and the review board shall not hear any presentation in the absence of the Hall President.  
+
+* (c) If, for any presentation, a member of the Hall of the Year review board is unable to ensure impartiality, either by his or her own estimation or the decision of the review board by majority vote, said member must recuse himself or herself from scoring the hall(s) in question. In the event that a member of the review board is recused, their score for that residence hall will be voided and replaced by the mean score given by the other scoring members.  
+
+* (d) The total score for the Hall of the Year shall be comprised of 55% presentation and 45% Rockne awards. Each residence hall’s monthly Rockne submission shall be evaluated on a noncompetitive rubric determined by the Hall Presidents Council Executive Board by the start of each academic year. This rubric, and the rubric for the presentations, shall be distributed to the Hall Presidents in a timely manner. The Rockne scores shall be totaled and weighted to equal 45% of the final score. After the presentations, the average score shall be weighted to equal 55% of the final score and then combined with the Rockne score. After the total points for each hall are tabulated, the Hall Presidents Council Co-Chairs shall announce the winning residence hall as Hall of the Year at the student leadership awards dinner. The next highest-scoring male residence hall shall be named Men’s Hall of the Year, and the next highest-scoring female residence hall shall be named Women’s Hall of the Year. In the event of a tie, the review board shall vote to determine the winner.  
+
+* (e) All records of point allocation and voting in the event of a tie shall be made available to the public upon request once a winner has been announced.  
+
 # ARTICLE IX. CLUB COORDINATION COUNCIL
 ## Section 9.1. Composition
 (a) The Club Coordination Council (CCC) shall
