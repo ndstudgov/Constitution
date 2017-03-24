@@ -1278,169 +1278,98 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
   * (5) The Financial Management Board shall then vote in favor of or in opposition to the allocation of either the dollar amount recommended by the Club Coordination Council or the dollar amount requested by the club.  
 
-# ARTICLE XIII. JUDICIAL COUNCIL
-## Section 13.1. Composition
-(a) The Judicial Council shall be composed of
-(but not limited to) the Judicial Council
-President, the Judicial Council Vice-President of
-Elections, the Judicial Council Vice-President of
-Peer Advocacy, the Hall Election Coordinators,
-04/13/2016 University of Notre Dame du Lac 31
-the Election Committee, the Peer Advocates,
-and the Student Union Ethics Commission.
-(b) Judicial Council President.
-(1) The Judicial Council President shall be
-nominated before March 15th of each year
-by the outgoing Judicial Council President
-and approved by the outgoing Senate.
-(2) The Judicial Council President shall
-serve a one-year term beginning on April 1st
-of the year nominated.
-(3) The Judicial Council President shall
-serve as the chairperson of the Judicial
-Council and ensure its efficient and effective
-operation. The chairperson shall vote when
-casting a vote affects the result.
-(4) The Judicial Council President shall
-serve as a voting member of the Campus
-Life Council.
-(5) The Judicial Council President shall
-serve as a non-voting member of the Senate.
-(6) The Judicial Council President shall
-nominate the Vice-President of Elections
-and the Vice- President of Peer Advocacy
-prior to the end of each regular academic
-year. The Senate shall review and approve
-these nominations.
-(7) The Judicial Council President shall
-serve as the Chairperson of the Student
-Union Ethics Commission. The Chairperson
-shall vote when casting a vote affects the
-result.
-(8) The incoming Judicial Council President
-shall nominate a Parliamentarian to the
-Senate at the first Senate meeting of its term.
-The Senate shall review and approve this
-nomination.
-(9) The Judicial Council President shall be
-responsible for verifying the validity of all
-votes cast in any election in accordance with
-the elections regulations stipulated in Article
-XVII of this Constitution.
-(c) Judicial Council Vice-Presidents.
-(1) The Judicial Council Vice-Presidents
-shall serve a one-year term following Senate
-approval.
-(2) The Judicial Council Vice-President
-positions shall be open to the student body
-and shall be advertised as such.
-(3) The Judicial Council Vice-President of
-Elections.
-(A) The Judicial Council Vice-President
-of Elections shall coordinate the duties
-of the Hall Election Coordinators,
-Election Committee, and the elections in
-accordance with the election stipulations
-in Article XVII of this Constitution.
-(B) The Judicial Council Vice-President
-of Elections shall sit on the Election
-Committee of the Judicial Council and
-serve as its chairperson.
-(4) The Judicial Council Vice-President of
-Peer Advocacy.
-(A) The Judicial Council Vice-President
-of Peer Advocacy shall coordinate the
-duties and training of any selected
-undergraduate student advocates.
-(5) The Judicial Council Vice-Presidents
-shall perform other duties as the Judicial
-Council President may determine.
-## Section 13.2. Powers & Duties
-(a) The Director of Student Activities shall
-appoint an advisor to the Judicial Council.
-(b) The Judicial Council shall work to ensure
-that the Student Union operates ethically and
-within this Constitution.
-(c) Election Committee.
-(1) The Election Committee shall review all
-allegations of potential elections misconduct
-and all potential violations of elections
-regulations in accordance with Section 13.5.
-(2) The Election Committee shall aid the
-Vice-President of Elections in his or her
-duties in conducting elections as outlined in
-Article XVII of this Constitution.
-(3) The Election Committee shall be
-composed of seven voting members, to be
-selected before petitions are distributed for
-elections of Freshman Class Council
-representatives.
-(A) The Judicial Council President and
-Vice-President of Elections shall
-interview and select undergraduate
-students for this purpose.
-(B) The Senate shall review and
-approve each of the members.
-(C) It is the responsibility of the Judicial
-Council to make the student body aware
-of interviews for these positions.
-(4) The Director of the Department of
-Internal Affairs shall serve as a non-voting
-member of the Election Committee to
-impartially advise the committee on all
-constitutional matters.
-(5) The Judicial Council President shall
-serve as a non-voting member of the
-Election Committee ex officio.
-(6) The Vice-President of Elections will
-serve as the chair of the Election Committee.
-(7) Voting members of the Election
-Committee hold an enumerated position and
-may not hold any other enumerated position
-concurrent with their time of service on the
-Election Committee, in accordance with
-Section 1.3 of this Constitution.
-(8) Election Committee members may not
-campaign for any ticket while holding this
-position.
-(9) If at any time a member of the Election
-Committee is unable to give an unbiased
-judgment regarding an allegation of election
-misconduct, either by his or her own
-estimation or the decision of the Committee
-by majority vote, that member must recuse
-him or herself from the proceedings of the
-Committee which regard that particular
-allegation.
-(d) Peer Advocacy.
-(1) The Judicial Council President and
-Vice-Presidents, in conjunction with the
-undergraduate student advocates, shall
-provide assistance to undergraduate students
-accused of violating University rules and
-regulations.
-(2) The Judicial Council shall interview and
-select undergraduate student advocates at its
-discretion.
-(e) Hall Elections Coordinators.
-(1) A Hall Election Coordinator shall be
-appointed by the president of each residence
-hall by September 15th.
-(2) Hall Elections Coordinators shall be
-responsible for ensuring each hall election
-proceeds according to the guidelines
-stipulated in this Constitution.
-(3) Hall Elections Coordinators shall be
-overseen by the Vice-President of Elections.
-(f) The Judicial Council shall present bylaws by
-May 1st to establish the operational procedures
-(including, but not limited to, attendance and
-tardiness policies) necessary for the Judicial
-Council to carry out its constitutional duties.
-These bylaws must be approved by the
-organization’s Student Activities advisor and
-presented to the Student Union Ethics
-Commission.
+# ARTICLE XIII. JUDICIAL COUNCIL  
+
+## Section 13.1. Composition  
+
+* (a) The Judicial Council shall be composed of (but not limited to) the Judicial Council President, the Judicial Council Vice-President of Elections, the Judicial Council Vice-President of Peer Advocacy, the Hall Election Coordinators, the Election Committee, the Peer Advocates, and the Student Union Ethics Commission.  
+
+* (b) Judicial Council President.  
+
+  * (1) The Judicial Council President shall be nominated before March 15th of each year by the outgoing Judicial Council President and approved by the outgoing Senate.  
+  
+  * (2) The Judicial Council President shall serve a one-year term beginning on April 1st of the year nominated.  
+  
+  * (3) The Judicial Council President shall serve as the chairperson of the Judicial Council and ensure its efficient and effective operation. The chairperson shall vote when casting a vote affects the result.  
+  
+  * (4) The Judicial Council President shall serve as a voting member of the Campus Life Council.  
+  
+  * (5) The Judicial Council President shall serve as a non-voting member of the Senate.  
+  
+  * (6) The Judicial Council President shall nominate the Vice-President of Elections and the Vice-President of Peer Advocacy prior to the end of each regular academic year. The Senate shall review and approve these nominations.  
+  
+  * (7) The Judicial Council President shall serve as the Chairperson of the Student Union Ethics Commission. The Chairperson shall vote when casting a vote affects the result.  
+  
+  * (8) The incoming Judicial Council President shall nominate a Parliamentarian to the Senate at the first Senate meeting of its term. The Senate shall review and approve this nomination.  
+  
+  * (9) The Judicial Council President shall be responsible for verifying the validity of all votes cast in any election in accordance with the elections regulations stipulated in Article XVII of this Constitution.  
+  
+* (c) Judicial Council Vice-Presidents.  
+
+  * (1) The Judicial Council Vice-Presidents shall serve a one-year term following Senate approval.  
+  
+  * (2) The Judicial Council Vice-President positions shall be open to the student body and shall be advertised as such.  
+  
+  * (3) The Judicial Council Vice-President of Elections.  
+
+    * (i) The Judicial Council Vice-President of Elections shall coordinate the duties of the Hall Election Coordinators, Election Committee, and the elections in accordance with the election stipulations in Article XVII of this Constitution.  
+    
+    * (ii) The Judicial Council Vice-President of Elections shall sit on the Election Committee of the Judicial Council and serve as its chairperson.  
+    
+  * (4) The Judicial Council Vice-President of Peer Advocacy.  
+  
+    * (A) The Judicial Council Vice-President of Peer Advocacy shall coordinate the duties and training of any selected undergraduate student advocates.  
+    
+  * (5) The Judicial Council Vice-Presidents shall perform other duties as the Judicial Council President may determine.  
+  
+## Section 13.2. Powers & Duties  
+
+* (a) The Director of Student Activities shall appoint an advisor to the Judicial Council.  
+
+* (b) The Judicial Council shall work to ensure that the Student Union operates ethically and within this Constitution.  
+
+* (c) Election Committee.  
+
+  * (1) The Election Committee shall review all allegations of potential elections misconduct and all potential violations of elections regulations in accordance with Section 13.5.  
+  
+  * (2) The Election Committee shall aid the Vice-President of Elections in his or her duties in conducting elections as outlined in Article XVII of this Constitution.  
+  
+  * (3) The Election Committee shall be composed of seven voting members, to be selected before petitions are distributed for elections of Freshman Class Council representatives.  
+  
+    * (i) The Judicial Council President and Vice-President of Elections shall interview and select undergraduate students for this purpose.  
+    
+    * (ii) The Senate shall review and approve each of the members.  
+    
+    * (iii) It is the responsibility of the Judicial Council to make the student body aware of interviews for these positions.  
+    
+  * (4) The Director of the Department of Internal Affairs shall serve as a non-voting member of the Election Committee to impartially advise the committee on all constitutional matters.  
+  
+  * (5) The Judicial Council President shall serve as a non-voting member of the Election Committee ex officio.  
+  
+  * (6) The Vice-President of Elections will serve as the chair of the Election Committee.  
+  
+  * (7) Voting members of the Election Committee hold an enumerated position and may not hold any other enumerated position concurrent with their time of service on the Election Committee, in accordance with Section 1.3 of this Constitution.  
+  
+  * (8) Election Committee members may not campaign for any ticket while holding this position.  
+  
+  * (9) If at any time a member of the Election Committee is unable to give an unbiased judgment regarding an allegation of election misconduct, either by his or her own estimation or the decision of the Committee by majority vote, that member must recuse him or herself from the proceedings of the Committee which regard that particular allegation.  
+  
+* (d) Peer Advocacy.  
+
+  * (1) The Judicial Council President and Vice-Presidents, in conjunction with the undergraduate student advocates, shall provide assistance to undergraduate students accused of violating University rules and regulations.  
+  
+  * (2) The Judicial Council shall interview and select undergraduate student advocates at its discretion.  
+  
+* (e) Hall Elections Coordinators.  
+
+  * (1) A Hall Election Coordinator shall be appointed by the president of each residence hall by September 15th.  
+  
+  * (2) Hall Elections Coordinators shall be responsible for ensuring each hall election proceeds according to the guidelines stipulated in this Constitution.  
+  
+  * (3) Hall Elections Coordinators shall be overseen by the Vice-President of Elections.  
+  
+  * (f) The Judicial Council shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the Judicial Council to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
+  
 ## Section 13.3. Meetings & Procedures
 (a) The Judicial Council President and Vice-
 Presidents shall meet at least once each month,
