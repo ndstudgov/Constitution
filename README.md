@@ -1370,436 +1370,190 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (f) The Judicial Council shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the Judicial Council to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
   
-## Section 13.3. Meetings & Procedures
-(a) The Judicial Council President and Vice-
-Presidents shall meet at least once each month,
-during regular academic school year, at a
-reasonable time and campus location determined
-by the Judicial Council President.
-(b) The Judicial Council President shall call full
-meetings of the Judicial Council when
-necessary.
-(c) The Vice-President of Elections shall call
-meetings of the Hall Election Coordinators and
-of the Election Committee when necessary.
-(d) The Vice-President of Peer Advocacy shall
-call meetings of the undergraduate student
-advocates when necessary.
-## Section 13.4. Specific Duties
-(a) The incoming Judicial Council President
-shall develop, submit, and present a budget
-proposal for the Judicial Council to the Financial
-Management Board for the annual allocation
-meeting.
-(b) The responsibilities of the Election
-Committee and the Judicial Council Vice-
-President of Elections include, but are not
-limited to, the administration of the functional
-aspects of elections, including ballot
-distribution, debates, propaganda and overseas
-(abroad) voting.
-(c) The Hall Elections Coordinators are
-responsible for distributing election information
-and guidelines to the Hall Councils, monitoring
-voting sites, and administering awareness for the
-rules of elections within their Hall.
-## Section 13.5. Hearings
-(a) All allegations of election misconduct are to
-be submitted to the Vice-President of Elections.
-All potential violations must be reported within
-48 hours of the time committed or by 11:59PM
-on the day of the election, whichever is sooner.
-(b) If the Vice-President of Elections
-determines that the allegation has merit and may
-result in a potential sanction of a candidate or
-ticket, he/she must then call together the
-members of the Election Committee to review
-the allegation.
-(1) The Vice-President will present the
-allegation.
-(2) The accused party and the accusing
-party will both be permitted to speak and to
-call witnesses on their behalf.
-(3) Where not outlined in the Constitution
-or its bylaws, the hearing shall follow the
-procedures outlined in The Standard Code of
-Parliamentary Procedure.
-(c) The Election Committee will then meet in a
-private forum for discussion and debate.
-(1) The Election Committee must obtain a
-2/3 quorum.
-(2) The Election Committee will decide
-whether the campaign/candidate/ticket in
-question is in violation of election or
-campaign rules.
-(3) If a violation has occurred, the Election
-Committee shall determine appropriate
-sanctions and/or penalties.
-(4) Both decisions require a majority vote
-of the Election Committee. In the event of a
-tie, the chair will vote.
-(d) All verdicts, motions, votes, and decisions
-are to be recorded by the Election Committee for
-the purposes of notification and appeals.
-(e) Any time the Election Committee finds a
-candidate/ticket in violation of the elections
-regulations or guilty of misconduct, the Vice-
-President shall issue a written decision on behalf
-of the Judicial Council to be released to the
-campus media, which shall include the violation,
-the sanction given, and a brief explanation for
-the decision. The Vice-President of Elections
-shall provide the candidate a full statement, in
-writing, of the Election Committee’s decision;
-the statement shall explain the process leading to
-the decision as best as possible and is for the
-candidate’s use only. All other information
-pertaining to hearings and appeals shall be
-considered confidential.
-(f) The Election Committee must convene
-within 24 hours of the submission of the
-allegation to the Vice-President of Elections.
-(g) No new allegations may be submitted after
-11:59PM on the day of the election.
-(h) In the event that the full Election Committee
-has not yet been assembled at the time of an
-allegation, the Judicial Council President and
-Vice-President of Elections shall issue a
-decision and appropriate sanctions based on
-their judgment of the facts of the allegation.
-(i) Any decision of the Election Committee
-may be appealed directly to the Senate. Appeals
-of the decision of the Election Committee must
-be filed within 12 hours of the hearing.
-(j) If the Senate overturns the decision of the
-Election Committee, the Committee must
-reconvene within 24 hours to reconsider the
-allegation in light of the Senate’s decision. This
-decision of the Election Committee, which must
-be informed by the written report of the Senate
-and may not be identical to the original decision,
-is final.
-## Section 13.6. Debates
-(a) The Election Committee and Judicial
-Council shall facilitate campus debates for the
-candidates running for Student Body President
-and Student Body Vice-President. The debates
-shall provide interested students and candidates
-with opportunities to discuss important issues
-and answer questions and concerns provided by
-their constituency.
-34 Constitution of the Undergraduate Student Body 01/17/2017
-(b) In the event of a run-off election, the
-Judicial Council shall host an additional debate
-between the run-off candidates on the Sunday
-following the primary election.
-(c) In the event of a run-off re-election, the
-Judicial Council shall host an additional debate
-between the run-off re-election candidates on
-Sunday night preceding the run-off re-election.
-## Section 13.7. Student Union Ethics Commission
-(a) The Student Union Ethics Commission shall
-conduct hearings according to this Constitution,
-its bylaws, and guidelines adopted by the Senate
-and the other Student Union organizations—
-including (but not limited to) Financial
-Management Board, SUB, Hall Presidents
-Council, Class Councils, and Judicial Council—
-and shall make recommendations to the Senate
-or the appropriate University offices in the event
-of misuse of undergraduate student organization
-funds or misconduct of undergraduate student
-organizations and their members, or behavior
-deemed unethical by the Student Union Ethics
-Commission.
-(b) One member of each of the following groups
-shall be chosen at random to serve on the
-Student Union Ethics Commission —
-(1) Each Class Council’s Officers.
-(2) Student Union Board Executive
-Board of Directors.
-(3) Residence Hall Senators.
-(4) Club Coordination Council
-Executive Board.
-(5) Hall Presidents Council Executive
-Board.
-(6) Off-Campus Council Officers.
-(7) The Judicial Council President shall
-chair the Commission and shall vote
-when voting affects the outcome.
-(c) Commissioners shall be chosen by May 1st of
-the term they serve in their respective
-organizations, with the exception of the
-commissioner from the Freshman Class
-Officers, who shall be chosen in conjunction
-with their election. All commissioners shall
-serve until May 1st of the following calendar
-year. Commissioners shall be chosen at random
-within each of the aforementioned groups. The
-person chosen may accept or decline the
-position; this process shall continue until a
-representative accepts the position.
-(d) In the event that an allegation is brought
-against the Judicial Council President, he or she
-must recuse himself or herself. The remaining
-commissioners shall elect a chairperson from
-their ranks to serve until such allegation is
-resolved.
-(e) In the event that an allegation is brought
-against a commissioner other than the Judicial
-Council President, said commissioner must
-recuse himself or herself. The group represented
-by said commissioner shall select from its ranks
-a representative to fill the vacant position until
-such allegation is resolved, using the same
-procedure outlined in Subsection (c) of Section
-13.7 of this Constitution.
-(f) If at any time a commissioner is unable to
-give an unbiased judgment, either by his or her
-own estimation or the decision of the
-Commission by majority vote, said
-commissioner must recuse himself or herself.
-The group represented by said commissioner
-shall select from its ranks a representative to fill
-the vacant position until such allegation is
-resolved, using the same procedure outlined in
-Subsection (c) of Section 13.7 of this
-Constitution.
-(g) The Student Union Ethics Commission shall
-aid the Senate in the selection process of the
-Michael J. Palumbo Award as defined in Article
-XIX of this Constitution.
-# ARTICLE XIV. REMOVALS, RECALLS, & VACANCIES
-## Section 14.1. Impeachment & Removal
-(a) The Senate may bring bills of impeachment
-against the Student Body President, the Student
-04/13/2016 University of Notre Dame du Lac 35
-Body Vice-President, the Hall Presidents
-Council Co-Chairs, the Club Coordination
-Council President, the Class Officers, the
-Freshman Class Council Officers, any Senator,
-and the Off-Campus President for misconduct in
-office. Signatures of a majority of the members
-of the Senate on a Bill of Impeachment shall
-constitute impeachment.
-(b) A Bill of Impeachment shall cite specific
-allegation(s) of misconduct. Misconduct shall
-include disturbance of the peace, incompetent or
-negligent performance, disregard of the
-authority of the Student Union, violation of this
-Constitution or its bylaws, infringement upon
-the rights of another, willful injury to the good
-name of the Student Union, hindrance of the
-Student Union or any of its agents in legitimate
-endeavors, intentional mismanagement of
-undergraduate student funds, conspiracy to
-commit any of the above, or actions that are
-deemed unbecoming by the Senate.
-(c) A two-thirds vote of the entire voting
-membership of the Senate, supporting the
-allegations of misconduct as stipulated in a bill
-of impeachment, shall result in removal from
-office.
-(d) Any official appointed and approved by the
-Senate not listed in Subsection (a) above is
-subject to removal by the Senate with a twothirds
-vote for misconduct in office.
-## Section 14.2. Recall of Elected Officials
-(a) A petition bearing the valid signatures of
-15% of the undergraduate student body currently
-residing locally shall cause the Senate to hold a
-campus-wide recall vote for the Student Body
-President and/or the Student Body Vice-
-President within two academic weeks of the
-presentation of the petition.
-(b) A petition bearing the valid signatures of
-20% of a Senator’s residence shall cause the
-Senate to hold a recall election for that Senator
-within two academic weeks of presentation of
-the petition.
-(c) A petition bearing the valid signatures of
-20% of a Class constituency currently residing
-locally shall cause the Senate to hold a recall
-election for any or all of the Class Officers
-within two academic weeks of presentation of
-the petition.
-(d) A petition bearing the valid signatures of
-20% of the Off-Campus President’s constituency
-currently residing locally shall cause the Senate
-to hold a recall election for the Off-Campus
-President within two academic weeks of
-presentation of the petition.
-(e) All petitions must clearly state the reason(s)
-for the recall.
-(f) A signer of a recall petition must be an
-undergraduate student who is currently enrolled
-in at least one academic credit hour at the
-University of Notre Dame. A valid signature for
-the purpose of recall must include the full name
-and local address of the signing student.
-(g) A two-thirds majority of the votes cast shall
-be necessary for removal from office, provided
-that 20% of the elected official’s specified
-constituency casts votes.
-## Section 14.3. Vacancies
-(a) In the event of a vacancy in an elected office
-due to resignation or recall, a new election shall
-be held within two academic weeks.
-(b) Should a provision be provided for
-replacement of an officer in an organization’s
-bylaws that do not conflict with the following
-exceptions, it shall take precedence over the
-general provision for the mandatory new
-election within two academic weeks:
-(1) In the event that any elected position
-becomes vacant with less than eight
-academic weeks remaining in the term, the
-Senate shall appoint an eligible
-undergraduate student to serve as the acting
-official for the remainder of the term.
-(2) In the event of a vacancy in an
-appointed office due to resignation or
-removal, the same appointment procedure
-shall be followed as outlined in this
-Constitution for that position to find a
-replacement. The replacement shall be
-nominated within two academic weeks.
-(3) In the event of a vacancy in the office of
-the Student Body President, the Student
-Body Vice-President shall become Student
-Body President.
-(4) In the event of a vacancy in the office of
-the Student Body Vice-President, the
-Student Body President shall appoint an
-Acting Student Body Vice-President. The
-Acting Student Body Vice-President shall
-become the official Student Body Vice-
-President upon approval of a majority vote
-of the entire Senate.
-(5) In the event that the offices of both the
-Student Body President and Student Body
-Vice-President shall simultaneously become
-vacant, the Senate shall appoint and approve
-an eligible (as described in Article I)
-undergraduate student to serve as Acting
-Student Body President in the interim period
-before a new Student Body President and
-new Student Body Vice-President are
-elected.
-(6) In the event that the Student Union
-Treasurer vacates the position of Treasurer
-during the year, one of the current Assistants
-to the Treasurer shall be appointed by the
-Senate to serve as Acting Student Union
-Treasurer until such time as the Senate
-approves the appointment of a new Student
-Union Treasurer by a majority vote of the
-entire Senate.
-(7) In the event that a SUB Directors
-position is vacated during the year, the
-remaining members of the Board of
-Directors shall nominate a replacement
-within two academic weeks for approval by
-the Senate.
-(8) In the event that one or both of the Hall
-Presidents Council Co-Chairs should vacate
-the position during the year, the Hall
-Presidents Council shall elect one
-member(s) to serve as Acting Co-Chair(s)
-for the remainder of the term.
-(9) In the event that a Class President
-vacates the position, the Class Vice-
-President shall become Class President. In
-the event that another Class Officer vacates
-the position, the Class President shall
-nominate a replacement within two
-academic weeks, subject to the approval of
-the Senate. In the event that the offices of
-both the Class President and Class Vice-
-President shall simultaneously become
-vacant, the remaining officers shall
-nominate an Acting Class President and an
-Acting Vice-President within two academic
-weeks, subject to the approval of the Senate.
-(10) In the event that the Freshman Class
-President vacates the position, the Freshman
-Class Council Vice-President shall become
-President. In the event that another officer
-vacates the position, the President shall
-nominate a replacement within two
-academic weeks, subject to the approval of
-the Senate. In the event that the offices of
-both the President and Vice-President shall
-simultaneously become vacant, the
-remaining officers shall nominate an Acting
-President and an Acting Vice-President
-within two academic weeks, subject to the
-approval of the Senate.
-# ARTICLE XV. PETITION, INITIATIVE, & REFERENDUM
-## Section 15.1. Petition
-(a) A petition bearing the valid signatures of
-200 members of the undergraduate student body
-shall cause the Senate to consider a specific
-resolution within one academic week of the
-presentation of the petition to the Senate.
-(b) A valid signature for the purpose of petition
-must include the full name and local address of
-the signing undergraduate student.
-## Section 15.2. Initiative
-(a) A petition containing the signatures of 15%
-of the undergraduate student body may create an
-initiative.
-(b) A two-thirds vote of the undergraduate
-students who exercise their right to vote,
-provided 20% of the undergraduate student body
-currently residing locally casts votes, is
-necessary for the initiative to become binding
-upon the Senate. A binding initiative shall cause
-the Senate to take swift and necessary action on
-the issue of the initiative.
-(c) A valid signature for the purpose of
-initiative must include the full name and local
-address of the signing undergraduate student.
-## Section 15.3. Referendum
-(a) A referendum is an instrument by which the
-Senate can gauge undergraduate student opinion
-on a certain issue by placing the issue in ballot
-form before the undergraduate student body. A
-referendum may suggest but shall not necessitate
-action by the Senate.
-(b) The Senate may place a referendum item in
-front of the undergraduate student body by a
-simple majority vote.
-# ARTICLE XVI. TRANSITION & EVALUATION
-## Section 16.1. Transition & Continuity
-(a) Each Student Union organization shall
-develop written procedures, methods, and
-policies to maintain continuity and ensure a
-smooth transition process between
-administrations and submit a report to the Senate
-detailing their respective future transition
-processes prior to February 1st of each year.
-(b) The Senate shall review and approve all
-plans of transition. In the event that a plan is not
-initially approved by the Senate, the
-organization shall modify and resubmit a report
-to the Senate within two academic weeks.
-(c) Each organization shall implement transition
-plans. The Student Union Ethics Commission
-shall monitor the transition and internal review
-of the Student Union and make
-recommendations to the Senate.
-## Section 16.2. Internal Review & Reform
-(a) Student Union organizations shall review
-sections of this Constitution enumerating their
-respective purpose, duties, powers, and
-procedures each year.
-(b) Each organization, chairperson, or
-coordinator shall submit suggestions pertinent to
-the internal review of the organization to the
-Senate prior to April 30th of each year.
-Suggestions shall be presented as amendments
-when appropriate.
+## Section 13.3. Meetings & Procedures  
+
+* (a) The Judicial Council President and Vice-Presidents shall meet at least once each month, during regular academic school year, at a reasonable time and campus location determined by the Judicial Council President.  
+
+* (b) The Judicial Council President shall call full meetings of the Judicial Council when necessary.  
+
+* (c) The Vice-President of Elections shall call meetings of the Hall Election Coordinators of the Election Committee when necessary.  
+
+* (d) The Vice-President of Peer Advocacy shall call meetings of the undergraduate student advocates when necessary.  
+
+## Section 13.4. Specific Duties  
+
+* (a) The incoming Judicial Council President shall develop, submit, and present a budget proposal for the Judicial Council to the Financial Management Board for the annual allocation meeting.  
+
+* (b) The responsibilities of the Election Committee and the Judicial Council Vice-President of Elections include, but are not limited to, the administration of the functional aspects of elections, including ballot distribution, debates, propaganda and overseas (abroad) voting.  
+
+* (c) The Hall Elections Coordinators are responsible for distributing election information and guidelines to the Hall Councils, monitoring voting sites, and administering awareness for the rules of elections within their Hall.  
+
+## Section 13.5. Hearings  
+
+* (a) All allegations of election misconduct are to be submitted to the Vice-President of Elections. All potential violations must be reported within 48 hours of the time committed or by 11:59PM on the day of the election, whichever is sooner.  
+
+* (b) If the Vice-President of Elections determines that the allegation has merit and may result in a potential sanction of a candidate or ticket, he/she must then call together the members of the Election Committee to review the allegation.  
+
+  * (1) The Vice-President will present the allegation.  
+  
+  * (2) The accused party and the accusing party will both be permitted to speak and to call witnesses on their behalf.  
+  
+  * (3) Where not outlined in the Constitution or its bylaws, the hearing shall follow the procedures outlined in The Standard Code of Parliamentary Procedure.  
+  
+* (c) The Election Committee will then meet in a private forum for discussion and debate.  
+  
+  * (1) The Election Committee must obtain a 2/3 quorum.  
+  
+  * (2) The Election Committee will decide whether the campaign/candidate/ticket in question is in violation of election or campaign rules.  
+  
+  * (3) If a violation has occurred, the Election Committee shall determine appropriate sanctions and/or penalties.  
+  
+  * (4) Both decisions require a majority vote of the Election Committee. In the event of a tie, the chair will vote.  
+  
+* (d) All verdicts, motions, votes, and decisions are to be recorded by the Election Committee for the purposes of notification and appeals.  
+
+* (e) Any time the Election Committee finds a candidate/ticket in violation of the elections regulations or guilty of misconduct, the Vice-President shall issue a written decision on behalf of the Judicial Council to be released to the campus media, which shall include the violation, the sanction given, and a brief explanation for the decision. The Vice-President of Elections shall provide the candidate a full statement, in writing, of the Election Committee’s decision; the statement shall explain the process leading to the decision as best as possible and is for the candidate’s use only. All other information pertaining to hearings and appeals shall be considered confidential.  
+
+* (f) The Election Committee must convene within 24 hours of the submission of the allegation to the Vice-President of Elections.  
+
+* (g) No new allegations may be submitted after 11:59PM on the day of the election.  
+
+* (h) In the event that the full Election Committee has not yet been assembled at the time of an allegation, the Judicial Council President and Vice-President of Elections shall issue a decision and appropriate sanctions based on their judgment of the facts of the allegation.  
+
+* (i) Any decision of the Election Committee may be appealed directly to the Senate. Appeals of the decision of the Election Committee must be filed within 12 hours of the hearing.  
+
+* (j) If the Senate overturns the decision of the Election Committee, the Committee must reconvene within 24 hours to reconsider the allegation in light of the Senate’s decision. This decision of the Election Committee, which must be informed by the written report of the Senate and may not be identical to the original decision, is final.  
+
+## Section 13.6. Debates  
+
+* (a) The Election Committee and Judicial Council shall facilitate campus debates for the candidates running for Student Body President and Student Body Vice-President. The debates shall provide interested students and candidates with opportunities to discuss important issues and answer questions and concerns provided by their constituency.  
+
+* (b) In the event of a run-off election, the Judicial Council shall host an additional debate between the run-off candidates on the Sunday following the primary election.  
+
+* (c) In the event of a run-off re-election, the Judicial Council shall host an additional debate between the run-off re-election candidates on Sunday night preceding the run-off re-election.  
+
+## Section 13.7. Student Union Ethics Commission  
+
+* (a) The Student Union Ethics Commission shall conduct hearings according to this Constitution, its bylaws, and guidelines adopted by the Senate and the other Student Union organizations— including (but not limited to) Financial Management Board, SUB, Hall Presidents Council, Class Councils, and Judicial Council— and shall make recommendations to the Senate or the appropriate University offices in the event of misuse of undergraduate student organization funds or misconduct of undergraduate student organizations and their members, or behavior deemed unethical by the Student Union Ethics Commission.  
+
+* (b) One member of each of the following groups shall be chosen at random to serve on the Student Union Ethics Commission —  
+
+  * (1) Each Class Council’s Officers.  
+  
+  * (2) Student Union Board Executive Board of Directors.  
+  
+  * (3) Residence Hall Senators.  
+  
+  * (4) Club Coordination Council Executive Board.  
+  
+  * (5) Hall Presidents Council Executive Board.  
+  
+  * (6) Off-Campus Council Officers.  
+  
+  * (7) The Judicial Council President shall chair the Commission and shall vote when voting affects the outcome.  
+  
+* (c) Commissioners shall be chosen by May 1st of the term they serve in their respective organizations, with the exception of the commissioner from the Freshman Class Officers, who shall be chosen in conjunction with their election. All commissioners shall serve until May 1st of the following calendar year. Commissioners shall be chosen at random within each of the aforementioned groups. The person chosen may accept or decline the position; this process shall continue until a representative accepts the position.  
+
+* (d) In the event that an allegation is brought against the Judicial Council President, he or she must recuse himself or herself. The remaining commissioners shall elect a chairperson from their ranks to serve until such allegation is resolved.  
+
+* (e) In the event that an allegation is brought against a commissioner other than the Judicial Council President, said commissioner must recuse himself or herself. The group represented by said commissioner shall select from its ranks a representative to fill the vacant position until such allegation is resolved, using the same procedure outlined in Subsection (c) of Section 13.7 of this Constitution.  
+
+* (f) If at any time a commissioner is unable to give an unbiased judgment, either by his or her own estimation or the decision of the Commission by majority vote, said commissioner must recuse himself or herself. The group represented by said commissioner shall select from its ranks a representative to fill the vacant position until such allegation is resolved, using the same procedure outlined in Subsection (c) of Section 13.7 of this Constitution.  
+
+* (g) The Student Union Ethics Commission shall aid the Senate in the selection process of the Michael J. Palumbo Award as defined in Article XIX of this Constitution.  
+
+# ARTICLE XIV. REMOVALS, RECALLS, & VACANCIES  
+
+## Section 14.1. Impeachment & Removal  
+
+* (a) The Senate may bring bills of impeachment against the Student Body President, the Student Body Vice-President, the Hall Presidents Council Co-Chairs, the Club Coordination Council President, the Class Officers, the Freshman Class Council Officers, any Senator, and the Off-Campus President for misconduct in office. Signatures of a majority of the members of the Senate on a Bill of Impeachment shall constitute impeachment.  
+
+* (b) A Bill of Impeachment shall cite specific allegation(s) of misconduct. Misconduct shall include disturbance of the peace, incompetent or negligent performance, disregard of the authority of the Student Union, violation of this Constitution or its bylaws, infringement upon the rights of another, willful injury to the good name of the Student Union, hindrance of the Student Union or any of its agents in legitimate endeavors, intentional mismanagement of undergraduate student funds, conspiracy to commit any of the above, or actions that are deemed unbecoming by the Senate.  
+
+* (c) A two-thirds vote of the entire voting membership of the Senate, supporting the allegations of misconduct as stipulated in a bill of impeachment, shall result in removal from office.  
+
+* (d) Any official appointed and approved by the Senate not listed in Subsection (a) above is subject to removal by the Senate with a two-thirds vote for misconduct in office.  
+
+## Section 14.2. Recall of Elected Officials  
+
+* (a) A petition bearing the valid signatures of 15% of the undergraduate student body currently residing locally shall cause the Senate to hold a campus-wide recall vote for the Student Body President and/or the Student Body Vice-President within two academic weeks of the presentation of the petition.  
+
+* (b) A petition bearing the valid signatures of 20% of a Senator’s residence shall cause the Senate to hold a recall election for that Senator within two academic weeks of presentation of the petition.  
+
+* (c) A petition bearing the valid signatures of 20% of a Class constituency currently residing locally shall cause the Senate to hold a recall election for any or all of the Class Officers within two academic weeks of presentation of the petition.  
+
+* (d) A petition bearing the valid signatures of 20% of the Off-Campus President’s constituency currently residing locally shall cause the Senate to hold a recall election for the Off-Campus President within two academic weeks of presentation of the petition.  
+
+* (e) All petitions must clearly state the reason(s) for the recall.  
+
+* (f) A signer of a recall petition must be an undergraduate student who is currently enrolled in at least one academic credit hour at the University of Notre Dame. A valid signature for the purpose of recall must include the full name and local address of the signing student.  
+
+* (g) A two-thirds majority of the votes cast shall be necessary for removal from office, provided that 20% of the elected official’s specified constituency casts votes.  
+
+## Section 14.3. Vacancies  
+
+* (a) In the event of a vacancy in an elected office due to resignation or recall, a new election shall be held within two academic weeks.  
+
+* (b) Should a provision be provided for replacement of an officer in an organization’s bylaws that do not conflict with the following exceptions, it shall take precedence over the general provision for the mandatory new election within two academic weeks:  
+
+  * (1) In the event that any elected position becomes vacant with less than eight academic weeks remaining in the term, the Senate shall appoint an eligible undergraduate student to serve as the acting official for the remainder of the term.  
+  
+  * (2) In the event of a vacancy in an appointed office due to resignation or removal, the same appointment procedure shall be followed as outlined in this Constitution for that position to find a replacement. The replacement shall be nominated within two academic weeks.  
+  
+  * (3) In the event of a vacancy in the office of the Student Body President, the Student Body Vice-President shall become Student Body President.  
+  
+  * (4) In the event of a vacancy in the office of the Student Body Vice-President, the Student Body President shall appoint an Acting Student Body Vice-President. The Acting Student Body Vice-President shall become the official Student Body Vice-President upon approval of a majority vote of the entire Senate.  
+  
+  * (5) In the event that the offices of both the Student Body President and Student Body Vice-President shall simultaneously become vacant, the Senate shall appoint and approve an eligible (as described in Article I) undergraduate student to serve as Acting Student Body President in the interim period before a new Student Body President and new Student Body Vice-President are elected.  
+  
+  * (6) In the event that the Student Union Treasurer vacates the position of Treasurer during the year, one of the current Assistants to the Treasurer shall be appointed by the Senate to serve as Acting Student Union Treasurer until such time as the Senate approves the appointment of a new Student Union Treasurer by a majority vote of the entire Senate.  
+  
+  * (7) In the event that a SUB Director position is vacated during the year, the remaining members of the Board of Directors shall nominate a replacement within two academic weeks for approval by the Senate.  
+  
+  * (8) In the event that one or both of the Hall Presidents Council Co-Chairs should vacate the position during the year, the Hall Presidents Council shall elect one member(s) to serve as Acting Co-Chair(s) for the remainder of the term.  
+  
+  * (9) In the event that a Class President vacates the position, the Class Vice- President shall become Class President. In the event that another Class Officer vacates the position, the Class President shall nominate a replacement within two academic weeks, subject to the approval of the Senate. In the event that the offices of both the Class President and Class Vice- President shall simultaneously become vacant, the remaining officers shall nominate an Acting Class President and an Acting Vice-President within two academic weeks, subject to the approval of the Senate.  
+  
+  * (10) In the event that the Freshman Class President vacates the position, the Freshman Class Council Vice-President shall become President. In the event that another officer vacates the position, the President shall nominate a replacement within two academic weeks, subject to the approval of the Senate. In the event that the offices of both the President and Vice-President shall simultaneously become vacant, the remaining officers shall nominate an Acting President and an Acting Vice-President within two academic weeks, subject to the approval of the Senate.  
+  
+# ARTICLE XV. PETITION, INITIATIVE, & REFERENDUM  
+
+## Section 15.1. Petition  
+
+* (a) A petition bearing the valid signatures of 200 members of the undergraduate student body shall cause the Senate to consider a specific resolution within one academic week of the presentation of the petition to the Senate.  
+
+* (b) A valid signature for the purpose of petition must include the full name and local address of the signing undergraduate student.  
+
+## Section 15.2. Initiative  
+
+* (a) A petition containing the signatures of 15% of the undergraduate student body may create an initiative.  
+
+* (b) A two-thirds vote of the undergraduate students who exercise their right to vote, provided 20% of the undergraduate student body currently residing locally casts votes, is necessary for the initiative to become binding upon the Senate. A binding initiative shall cause the Senate to take swift and necessary action on the issue of the initiative.  
+
+* (c) A valid signature for the purpose of initiative must include the full name and local address of the signing undergraduate student.  
+
+## Section 15.3. Referendum  
+
+* (a) A referendum is an instrument by which the Senate can gauge undergraduate student opinion on a certain issue by placing the issue in ballot form before the undergraduate student body. A referendum may suggest but shall not necessitate action by the Senate.  
+
+* (b) The Senate may place a referendum item in front of the undergraduate student body by a simple majority vote.  
+
+# ARTICLE XVI. TRANSITION & EVALUATION  
+
+## Section 16.1. Transition & Continuity  
+
+* (a) Each Student Union organization shall develop written procedures, methods, and policies to maintain continuity and ensure a smooth transition process between administrations and submit a report to the Senate detailing their respective future transition processes prior to February 1st of each year.  
+
+* (b) The Senate shall review and approve all plans of transition. In the event that a plan is not initially approved by the Senate, the organization shall modify and resubmit a report to the Senate within two academic weeks.  
+
+* (c) Each organization shall implement transition plans. The Student Union Ethics Commission shall monitor the transition and internal review of the Student Union and make recommendations to the Senate.  
+
+## Section 16.2. Internal Review & Reform  
+
+* (a) Student Union organizations shall review sections of this Constitution enumerating their respective purpose, duties, powers, and procedures each year.  
+
+* (b) Each organization, chairperson, or coordinator shall submit suggestions pertinent to the internal review of the organization to the Senate prior to April 30th of each year. Suggestions shall be presented as amendments when appropriate.  
+
 # ARTICLE XVII. ELECTIONS
 ## Section 17.1. General Provisions
 (a) Any Notre Dame undergraduate student in
