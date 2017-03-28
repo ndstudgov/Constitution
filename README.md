@@ -160,14 +160,12 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (f) The Student Union Secretary must compile a document containing all agendas, dockets, and minutes for the given aforementioned Student Union groups’ terms.  
   
-## Section 2.5. Parliamentarian  
-
+## Section 2.5. Parliamentarian
 * (a) The incoming Judicial Council President shall nominate a Parliamentarian to the Senate at the first Senate meeting of the term. The Senate shall review and approve this nomination.  
 
 * (b) The Parliamentarian shall advise the Chairperson of the Senate and Campus Life Council regarding parliamentary procedure and The Standard Code of Parliamentary Procedure.  
 
 ## Section 2.6. Director of Communications
-
 * (a) The Director of Communications shall update and maintain a web site consistent with the Student Union Board and Senate and shall oversee all external communications of student government.  
 
 * (b) The web site shall—  
@@ -182,16 +180,14 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (d) The Director of Communications shall be appointed by the Student Body President and approved by the Senate.  
 
-## Section 2.7. Athletics Representative  
-
+## Section 2.7. Athletics Representative
 * (a) The Student Body President shall appoint a representative to the University Department of Athletics.  
 
 * (b) The Athletics Representative shall aid and advise the Student Body President and Student Body Vice-President in all matters pertaining to athletics.  
 
 * (c) The Athletics Representative shall serve as a member of Executive Cabinet and be approved by the Student Senate.  
 
-## Section 2.8. Executive Controller  
-
+## Section 2.8. Executive Controller
 * (a) The Executive Controller shall maintain an accurate and timely record of all income and expenses of the Senate.  
 
 * (b) The Executive Controller shall approve all transactions of the Senate and submit requests to the Office of the Student Union Treasurer.  
@@ -202,16 +198,14 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (e) The Executive Controller shall attend all Executive Cabinet meetings and all Financial Management Board meetings.  
 
-## Section 2.9. Campus Ministry Representative  
-
+## Section 2.9. Campus Ministry Representative
 * (a) The Student Body President shall appoint a representative to the Office of Campus Ministry.  
 
 * (b) The Campus Ministry Representative shall be responsible for providing input on the spiritual needs of the student body and the  student government policies relating to the same.  
 
 * (c) The Campus Ministry Representative shall sit as a member of the Executive Cabinet and be approved by the Student Senate.  
 
-## Section 2.10. Student Union Representative to Diversity Council  
-
+## Section 2.10. Student Union Representative to Diversity Council
 * (a) The Student Body President shall appoint a representative to the Diversity Council.  
 
 * (b) Student Union Representative to Diversity Council shall be responsible for maintaining contact and communication between Student Government and Diversity Council.  
@@ -220,10 +214,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (d) The Student Union Representative to Diversity Council shall sit as a member of the Executive Cabinet and be approved by the Student Senate.  
 
-# ARTICLE III. SENATE  
-
-## Section 3.1. Voting Composition  
-
+# ARTICLE III. SENATE
+## Section 3.1. Voting Composition
 * (a) The Senate shall be composed of the following members:  
 
   * (1) One elected Senator per undergraduate residence hall.  
@@ -248,8 +240,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
   * (1) The Student Body Vice-President shall serve as the Chairperson of the Senate and ensure its efficient and effective operation. The Chairperson shall only cast a vote when casting a vote affects the result.  
   
-## Section 3.2. Non-Voting Composition  
-
+## Section 3.2. Non-Voting Composition
 * (a) The Student Body President shall serve as a non-voting member of the Senate.  
 
   * (1) The Student Body President shall verbally communicate points of inquiry raised by the Senate within one academic week to the Office of Student Affairs.  
@@ -345,7 +336,6 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 * (p) A majority vote shall be required for the passage of any action unless otherwise specified in this Constitution, Senate bylaws, or The Standard Code of Parliamentary Procedure.  
 
 ## Section 3.4. Meetings & Procedures
-
 * a) The Senate shall meet at least every week from April 1st to March 31st during the regular academic school year at a reasonable time and campus location determined by the Chairperson.  
 
 * (b) Any five members of the Senate possess the power to call a meeting with 48 hours written notice.  
@@ -438,14 +428,12 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (x) The Senate shall create any Standing Rules by a simple majority vote.  
 
-## Section 3.5. External Requests  
-
+## Section 3.5. External Requests
 * (a) The Director of Student Activities shall serve as or designate an advisor to the Senate.  
 
 * (b) The Student Union Treasurer shall submit all necessary financial information to members of the Senate by November 30th and as requested by the Senate.  
 
-## Section 3.6. Transition  
-
+## Section 3.6. Transition
 * (a) The Senate shall hold an informational meeting for those seeking office in the Student Senate as his or her dorm’s elected representative at least two weeks prior to the Election Day established by the Judicial Council.  
 
   * (1) The meeting shall seek to inform prospective Senators about:  
@@ -495,8 +483,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (i) All new Senators entering office in April shall attend a Celebrating Diversity Workshop as coordinated by the Student Union Representative to Diversity Council. This event is mandatory for all Senators and shall take place by October 1.  
 
-## Section 3.7. Election Appeals  
-
+## Section 3.7. Election Appeals
 * (a) In the event of an appeal of an Election Committee decision, in accordance with Article XVII, the Senate shall convene within 48 hours to hear the appeal.  
 
 * (b) All appeals must be filed within 12 hours of the conclusion of the hearing.  
@@ -519,10 +506,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (f) If quorum cannot be reached to hear the appeal, or a decision is not reached during the convened meeting, the decision of the Election Committee shall stand.  
 
-# ARTICLE IV. EXECUTIVE CABINET  
-
-## Section 4.1. Composition  
-
+# ARTICLE IV. EXECUTIVE CABINET
+## Section 4.1. Composition
 * (a) The following members shall attend the weekly Executive Cabinet meeting:  
 
   * (1) Student Body Vice-President.  
@@ -551,12 +536,10 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (c) The Student Body President may appoint other such members to the Executive Cabinet as he/she may see fit.  
 
-## Section 4.2. Purpose & Duties  
-
+## Section 4.2. Purpose & Duties
 * (a) The Executive Cabinet and its constituent members shall advance the agenda of the Student Body President and Vice-President through the Senate in an effort to protect the interests of students in all areas of university life, provide services to the undergraduate student body, and advance the policy priorities of the Student Union.  
 
-## Section 4.3. Executive Departments  
-
+## Section 4.3. Executive Departments
 * (a) The Department of Academic Affairs shall address undergraduate student needs as they relate to the academic affairs of the university and make appropriate recommendations to the Senate.  
 
 * (b) The Department of Campus Technology shall address undergraduate student needs concerning issues of information technologies and make appropriate recommendations to the Senate. This department will serve as a liaison between students and the Office of Information Technologies.  
@@ -597,10 +580,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (m) All standing and *ad hoc* departments shall have the ability to plan and program events related to their issues that include (but are not limited to) such activities as awareness weeks, focus groups, speakers, and information nights.  
 
-# ARTICLE V. EXECUTIVE PROGRAMMING BOARD  
-
-## Section 5.1. Composition  
-
+# ARTICLE V. EXECUTIVE PROGRAMMING BOARD
+## Section 5.1. Composition
 (a) The following members shall attend the Executive Programming Board meeting.  
 
   * (1) One Hall Presidents’ Council Co-Chair.  
@@ -619,8 +600,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (c) The Director of Student Activities shall appoint an advisor to the Executive Programming Board.  
 
-## Section 5.2. Powers & Duties  
-
+## Section 5.2. Powers & Duties
 * (a) The Executive Programming Board shall facilitate the coordination, communication, and calendar setting of all Student Union groups whose primary responsibility is to serve the programming needs of the student body.  
 
 * (b) The primary goal of this group will be to prevent overlap in programming and to increase the effectiveness and efficiency of each of the aforementioned groups’ events in an effort to draw more students to each group’s events. This shall be done by setting and updating an online calendar with all planned and proposed events for each group. Each member of this group is hereby required to update the online programming calendar in a timely fashion, as regards their individual events.  
@@ -660,8 +640,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (4) The membership shall serve from date of selection until March 31.  
   
-## Section 6.2 Purpose  
-
+## Section 6.2 Purpose
 * (a) The FUEL Directors and FUEL Membership shall aid in the effective achievement of the goals of the Student Union as determined by the Student Body President in conjunction with the Executive Cabinet.  
 
 * (b) The Directors of FUEL shall ensure effective aid to the Student Union by using their experiences as student leaders to accomplish the goals of FUEL, which are stated as follows:  
@@ -674,8 +653,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (4) Education of the First Year leaders in the practices of ethical peer leadership.  
   
-## Section 6.3 Transition  
-
+## Section 6.3 Transition
 * (a) The Student Body President shall appoint at least two FUEL directors.  
 
   * (1) The FUEL directors from the previous administration shall recommend to the Student Body President at least one candidate for consideration for directorship.  
@@ -686,16 +664,13 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (c) Before revising the bylaws, the incoming directors shall meet with the incoming members of the Executive Cabinet to determine the best way in which FUEL can aid in accomplishing their specific goals for the specific term.  
 
-## Section 6.4 General Provisions.  
-
+## Section 6.4 General Provisions.
 * (a) The Director of Student Activities shall designate an advisor to FUEL.  
 
 * (b) The FUEL Directors shall present bylaws by May 1st to establish the operational procedures (including, but not limited, to selection policies, attendance, and timeline) necessary for FUEL to carry out its constitutional duties. These bylaws must be approved by the directors’ Student Activities advisor and presented to the Student Union Ethics Commission.  
 
-# ARTICLE VII. STUDENT UNION BOARD  
-
-## Section 7.1. Composition  
-
+# ARTICLE VII. STUDENT UNION BOARD
+## Section 7.1. Composition
 * (a) Student Union Board Directors.  
 
   * (1) The Student Union Executive Board of Directors shall be composed of the SUB Executive Director, the SUB Director(s) of Programming, the SUB Director of Operations, the SUB Director of Publicity, the SUB Director of Art and the SUB Director of Finance.  
@@ -781,22 +756,19 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (3) Appointed programming division heads shall also assist with the distribution of approved SUB publicity within his or her own dorm.  
   
-## Section 7.2. Purpose & Duties  
-
+## Section 7.2. Purpose & Duties
 * (a) SUB shall enhance undergraduate student life by providing undergraduate student service and social, intellectual, and cultural opportunities that respond to the needs and wants of the undergraduate student body in the most efficient manner available.  
 
 * (b) SUB shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for SUB to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
 
 * (c) All members of SUB shall serve a one-year term beginning on May 1st, with a transitory training period in effect from the date of appointment or approval of new members until May 1st. During the period, the outgoing members of SUB shall meet and work with their successors to explain the role and practical functioning of SUB.  
 
-## Section 7.3. Divisions  
-
+## Section 7.3. Divisions
 * (a) The Student Union Board Executive Director and the Director(s) of Programming shall create divisions to fulfill the diverse programming needs of SUB as outlined in Section 7.2.  
 
 * (b) The membership of each division shall consist of at least one programming division head and at least one member of the elected dorm representatives. The divisions shall be open to student volunteers as determined by the SUB Directors.  
 
-## Section 7.4. SUB Directors Selection Committees.  
-
+## Section 7.4. SUB Directors Selection Committees
 * (a) Selection Committee for Student Union Board Executive Director.  
 
   * (1) The Student Union Board Executive Director Selection Committee shall be composed of the incoming Student Body President, the incoming Student Body Vice-President, the outgoing SUB Executive Director, the outgoing Director(s) of Programming, and the Director of Student Activities. The Director of Student Activities shall cast a vote in the event of a tie.  
@@ -815,10 +787,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (4) The Selection Committee shall nominate and present the new SUB Directors to Senate by March 15th. The Senate shall review and approve all nominations.  
   
-# ARTICLE VIII. HALL PRESIDENTS COUNCIL  
-
-## Section 8.1. Composition  
-
+# ARTICLE VIII. HALL PRESIDENTS COUNCIL
+## Section 8.1. Composition
 * (a) The Hall Presidents Council shall be composed of (but not limited to) the Hall President from each undergraduate residence hall, the two Hall Presidents Council Co-Chairs, and the Hall Presidents Council Treasurer. Each undergraduate residence hall shall have one vote.
 
 * (b) Hall Presidents Council Co-Chairs.  
@@ -857,20 +827,17 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (3) The Hall Presidents Council Athletic Chair shall fulfill the responsibilities of coordinating pep rally hosts.  
   
-## Section 8.2. Purpose  
-
+## Section 8.2. Purpose
 * (a) The Hall Presidents Council shall serve as an information disseminating body, provide a forum for members to discuss common matters of residentiality, and coordinate programming among the undergraduate residence halls. The Hall Presidents Council shall promote the wellbeing of the undergraduate student body by working for the betterment of undergraduate residential life.  
 
-## Section 8.3. General Provisions  
-
+## Section 8.3. General Provisions
 * (a) The Director of Student Activities shall designate an advisor to the Hall Presidents Council.  
 
 * (b) Attendance at all meetings of the Hall Presidents Council by at least one member of hall government is mandatory. Cases of excessive absenteeism shall be referred to the Student Union Ethics Commission at the discretion of the Hall Presidents Council Co- Chairs.  
 
 * (c) The HPC shall present bylaws by May 1st to establish the operational procedures (including, but not limited, to attendance and tardiness policies) necessary for the HPC to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
 
-## Section 8.4. Hall of the Year  
-
+## Section 8.4. Hall of the Year
 * (a) The decision to award the title of Hall of the Year to a residence hall shall be decided by a review board comprised of the following members:  
 
   * (1) Both Hall Presidents Council Co-Chairs.  
@@ -895,10 +862,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (e) All records of point allocation and voting in the event of a tie shall be made available to the public upon request once a winner has been announced.  
 
-# ARTICLE IX. CLUB COORDINATION COUNCIL  
-
-## Section 9.1. Composition  
-
+# ARTICLE IX. CLUB COORDINATION COUNCIL
+## Section 9.1. Composition
 * (a) The Club Coordination Council (CCC) shall be composed of (but not limited to) the Club Coordination Council President, the Club Coordination Council Vice-President, and the Club Coordination Council Controller.  
 
 * (b) Club Coordination Council President.  
@@ -929,16 +894,13 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (3) The CCC Controller shall sit on the Financial Management Board.  
   
-## Section 9.2. Purpose & Duties  
-
+## Section 9.2. Purpose & Duties
 * (a) The Club Coordination Council shall disseminate information concerning undergraduate club issues and activities, recommend funding allocations for all undergraduate clubs, serve as a representative of all undergraduate clubs, and coordinate cohesive club programming.  
 
 * (b) The Club Coordination Council shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the Club Coordination Council to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
 
-# ARTICLE X. CLASS COUNCILS  
-
-## Section 10.1. Composition  
-
+# ARTICLE X. CLASS COUNCILS
+## Section 10.1. Composition
 * (a) Sophomore, Junior, & Senior Class Officers.  
 
   * (1) The Sophomore, Junior, and Senior undergraduate classes shall be represented by four class officers elected by their respective class members in a campus-wide vote each year.  
@@ -959,12 +921,10 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (4) The President shall ensure the efficient and effective operation of the Freshman Class Council.  
   
-## Section 10.2. Purpose  
-
+## Section 10.2. Purpose
 * (a) The Class Councils shall promote the well-being of their respective classes by sponsoring functions that promote unity among class members.  
 
-## Section 10.3. General Provisions & Duties  
-
+## Section 10.3. General Provisions & Duties
 * (a) The Director of Student Activities shall designate an advisor to each class.  
 
 * (b) All Class Presidents shall attend weekly Senate meetings and serve as voting members.  
@@ -981,14 +941,11 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (h) The Sophomore, Junior, and Senior Class Officers shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for their Class Councils to carry out their constitutional duties. These bylaws must be approved by the respective class’s Student Activities advisor and presented to the Student Union Ethics Commission. The Freshman Class Council shall create bylaws if instructed by their advisor. These bylaws must be approved by the organization’s Student Activities advisor.  
 
-## Section 10.4. Transition  
-
+## Section 10.4. Transition
 * (a) The incoming members of Class Council shall commence their roles on Student Senate, Financial Management Board, Executive Programming Board, and the Committee on the Budget on April 1st of the year elected.  
 
-# ARTICLE XI. OFF-CAMPUS COUNCIL  
-
-## Section 11.1. Composition  
-
+# ARTICLE XI. OFF-CAMPUS COUNCIL
+## Section 11.1. Composition
 * (a) Off-Campus President.  
 
   * (1) The Off-Campus President shall be elected by the students who will reside off campus at the beginning of the next academic semester and those currently off campus.  
@@ -1021,12 +978,10 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (3) Off-Campus Ambassadors will be appointed to various off-campus neighborhoods in a manner that effectively maximizes the outreach of the Off-Campus Council. Ambassadors represent the opinions of this appointed area and disseminate information in such a way that it is readily accessible to residents of this area.  
   
-## Section 11.2. Purpose  
-
+## Section 11.2. Purpose
 * (a) The Off-Campus Council shall promote the well-being of off-campus students by sponsoring functions and disseminating information to off campus students.  
 
-## Section 11.3. General Provisions & Duties  
-
+## Section 11.3. General Provisions & Duties
 * (a) The Director of Student Activities shall designate an advisor to the Off-Campus Council.  
 
 * (b) The Off-Campus President shall develop, submit, and present a budget proposal for the Off-Campus Council to the Financial Management Board for the annual allocation meeting in accordance with the priorities set by the Senate.  
@@ -1051,10 +1006,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (k) The Off-Campus President Ex-Officio and Vice-President Ex-Officio will assist the Off-Campus President and Vice-President in transitioning during the end of the Spring academic semester.  
 
-# ARTICLE XII. FINANCIAL MANAGEMENT BOARD  
-
-## Section 12.1. Composition  
-
+# ARTICLE XII. FINANCIAL MANAGEMENT BOARD
+## Section 12.1. Composition
 * (a) The Financial Management Board shall be composed of the Student Union Treasurer, the Executive Controller, the Student Union Board Director of Finance, the Hall Presidents Council Treasurer, the Club Coordination Council Controller, all Class Treasurers (the Freshman Class Treasurer shall join the Financial Management Board once elected), the Off-Campus President, and the Judicial Council President. The above members shall each have one vote. In addition, the Director of Student Activities shall designate a non-voting advisor to the Financial Management Board.  
 
 * (b) Student Union Treasurer.  
@@ -1089,8 +1042,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
     
   * (5) Assistants to the Student Union Treasurer shall perform other duties as the Student Union Treasurer may determine.  
   
-## Section 12.2. Meetings & Procedures  
-
+## Section 12.2. Meetings & Procedures
 * (a) The Financial Management Board shall meet at least once every two weeks from April 1st to March 31st during the regular academic school year at a reasonable time and campus location determined by the Student Union Treasurer.  
 
 * (b) No business shall be conducted unless a quorum is present.  
@@ -1125,8 +1077,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
 * (j) The records of the Student Union Treasurer shall be available for undergraduate student inspection upon request.  
 
-## Section 12.3. Powers & Duties  
-
+## Section 12.3. Powers & Duties
 * (a) The Financial Management Board shall conduct an annual hearing to ensure the fair allocation of undergraduate student funds. This hearing shall be completed and allocations submitted to the Student Senate Committee on the Budget for approval in April of each year.  
 
 * (b) The Financial Management Board shall review budget requests in an efficient and timely manner and make appropriate recommendations to the Senate.  
@@ -1141,8 +1092,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (g) All decisions made by the Financial Management Board and the Student Union Treasurer may be appealed to the Senate.  
 
-## Section 12.4. Student Businesses  
-
+## Section 12.4. Student Businesses
 * (a) The Student Businesses shall provide students with practical experience in a business environment and offer convenient services to the Notre Dame community. The minimum goals of the Student Businesses shall be to break-even after all debts are paid.  
 
 * (b) The Student Businesses shall be composed of the following undergraduate student-operated businesses: Irish Gardens and Adworks. Any new student-run business is subject to approval by a three-quarters vote of Financial Management Board.  
@@ -1178,8 +1128,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (9) Additions to the constitutional duties of the Student Business Managers may be appealed to the Senate and overturned by a two-thirds vote of all Senate members.  
   
-## Section 12.5. The Shirt Project  
-
+## Section 12.5. The Shirt Project
 * (a) The Shirt Project shall endeavor to promote unity among the undergraduate student body and serve as a fundraiser for charitable causes as well as undergraduate student organizations.  
 
 * (b) The Shirt Project Committee.  
@@ -1200,8 +1149,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (e) The Student Union Treasurer shall approve all expenditures relating to The Shirt Project. Any expenditure over $5,000 for The Shirt Project shall be approved by the Financial Management Board in an efficient and timely manner.  
 
-## Section 12.6. Special-Interest Student Organizations  
-
+## Section 12.6. Special-Interest Student Organizations
 * (a) Definitions and Organizations.  
 
   * (1) The following groups are defined as special-interest student organizations:  
@@ -1236,8 +1184,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (4) The Financial Management Board shall allocate the funds available to the special interest organizations as it sees fit, taking into account availability and expectation of outside funding.  
   
-## Section 12.7. Collaboration Fund  
-
+## Section 12.7. Collaboration Fund
 * (a) The Financial Management Board Collaboration Fund is intended as a means for clubs, residence halls, and organizations, such as those which have limited programming budgets, to be able to sponsor an event with a student organization that has a mutual interest in the event.  
 
 * (b) The Fund shall be used whenever there is clear, mutual interest in an event.  
@@ -1246,8 +1193,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (d) The Financial Management Board does not support a policy of retroactive funding; all appeals shall be made before the event is to occur.  
 
-## Section 12.8. Collaboration Fund Appeal  
-
+## Section 12.8. Collaboration Fund Appeal
 * (a) The process of this appeal to the Financial Management Board shall be initiated and organized by the club.  
 
 * (b) The cosponsors shall agree on the terms of the co-sponsorship.  
@@ -1278,10 +1224,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
   * (5) The Financial Management Board shall then vote in favor of or in opposition to the allocation of either the dollar amount recommended by the Club Coordination Council or the dollar amount requested by the club.  
 
-# ARTICLE XIII. JUDICIAL COUNCIL  
-
-## Section 13.1. Composition  
-
+# ARTICLE XIII. JUDICIAL COUNCIL
+## Section 13.1. Composition
 * (a) The Judicial Council shall be composed of (but not limited to) the Judicial Council President, the Judicial Council Vice-President of Elections, the Judicial Council Vice-President of Peer Advocacy, the Hall Election Coordinators, the Election Committee, the Peer Advocates, and the Student Union Ethics Commission.  
 
 * (b) Judicial Council President.  
@@ -1322,8 +1266,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
     
   * (5) The Judicial Council Vice-Presidents shall perform other duties as the Judicial Council President may determine.  
   
-## Section 13.2. Powers & Duties  
-
+## Section 13.2. Powers & Duties
 * (a) The Director of Student Activities shall appoint an advisor to the Judicial Council.  
 
 * (b) The Judicial Council shall work to ensure that the Student Union operates ethically and within this Constitution.  
@@ -1370,8 +1313,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (f) The Judicial Council shall present bylaws by May 1st to establish the operational procedures (including, but not limited to, attendance and tardiness policies) necessary for the Judicial Council to carry out its constitutional duties. These bylaws must be approved by the organization’s Student Activities advisor and presented to the Student Union Ethics Commission.  
   
-## Section 13.3. Meetings & Procedures  
-
+## Section 13.3. Meetings & Procedures
 * (a) The Judicial Council President and Vice-Presidents shall meet at least once each month, during regular academic school year, at a reasonable time and campus location determined by the Judicial Council President.  
 
 * (b) The Judicial Council President shall call full meetings of the Judicial Council when necessary.  
@@ -1380,16 +1322,14 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (d) The Vice-President of Peer Advocacy shall call meetings of the undergraduate student advocates when necessary.  
 
-## Section 13.4. Specific Duties  
-
+## Section 13.4. Specific Duties
 * (a) The incoming Judicial Council President shall develop, submit, and present a budget proposal for the Judicial Council to the Financial Management Board for the annual allocation meeting.  
 
 * (b) The responsibilities of the Election Committee and the Judicial Council Vice-President of Elections include, but are not limited to, the administration of the functional aspects of elections, including ballot distribution, debates, propaganda and overseas (abroad) voting.  
 
 * (c) The Hall Elections Coordinators are responsible for distributing election information and guidelines to the Hall Councils, monitoring voting sites, and administering awareness for the rules of elections within their Hall.  
 
-## Section 13.5. Hearings  
-
+## Section 13.5. Hearings
 * (a) All allegations of election misconduct are to be submitted to the Vice-President of Elections. All potential violations must be reported within 48 hours of the time committed or by 11:59PM on the day of the election, whichever is sooner.  
 
 * (b) If the Vice-President of Elections determines that the allegation has merit and may result in a potential sanction of a candidate or ticket, he/she must then call together the members of the Election Committee to review the allegation.  
@@ -1424,16 +1364,14 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (j) If the Senate overturns the decision of the Election Committee, the Committee must reconvene within 24 hours to reconsider the allegation in light of the Senate’s decision. This decision of the Election Committee, which must be informed by the written report of the Senate and may not be identical to the original decision, is final.  
 
-## Section 13.6. Debates  
-
+## Section 13.6. Debates
 * (a) The Election Committee and Judicial Council shall facilitate campus debates for the candidates running for Student Body President and Student Body Vice-President. The debates shall provide interested students and candidates with opportunities to discuss important issues and answer questions and concerns provided by their constituency.  
 
 * (b) In the event of a run-off election, the Judicial Council shall host an additional debate between the run-off candidates on the Sunday following the primary election.  
 
 * (c) In the event of a run-off re-election, the Judicial Council shall host an additional debate between the run-off re-election candidates on Sunday night preceding the run-off re-election.  
 
-## Section 13.7. Student Union Ethics Commission  
-
+## Section 13.7. Student Union Ethics Commission
 * (a) The Student Union Ethics Commission shall conduct hearings according to this Constitution, its bylaws, and guidelines adopted by the Senate and the other Student Union organizations— including (but not limited to) Financial Management Board, SUB, Hall Presidents Council, Class Councils, and Judicial Council— and shall make recommendations to the Senate or the appropriate University offices in the event of misuse of undergraduate student organization funds or misconduct of undergraduate student organizations and their members, or behavior deemed unethical by the Student Union Ethics Commission.  
 
 * (b) One member of each of the following groups shall be chosen at random to serve on the Student Union Ethics Commission —  
@@ -1462,10 +1400,8 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (g) The Student Union Ethics Commission shall aid the Senate in the selection process of the Michael J. Palumbo Award as defined in Article XIX of this Constitution.  
 
-# ARTICLE XIV. REMOVALS, RECALLS, & VACANCIES  
-
-## Section 14.1. Impeachment & Removal  
-
+# ARTICLE XIV. REMOVALS, RECALLS, & VACANCIES
+## Section 14.1. Impeachment & Removal
 * (a) The Senate may bring bills of impeachment against the Student Body President, the Student Body Vice-President, the Hall Presidents Council Co-Chairs, the Club Coordination Council President, the Class Officers, the Freshman Class Council Officers, any Senator, and the Off-Campus President for misconduct in office. Signatures of a majority of the members of the Senate on a Bill of Impeachment shall constitute impeachment.  
 
 * (b) A Bill of Impeachment shall cite specific allegation(s) of misconduct. Misconduct shall include disturbance of the peace, incompetent or negligent performance, disregard of the authority of the Student Union, violation of this Constitution or its bylaws, infringement upon the rights of another, willful injury to the good name of the Student Union, hindrance of the Student Union or any of its agents in legitimate endeavors, intentional mismanagement of undergraduate student funds, conspiracy to commit any of the above, or actions that are deemed unbecoming by the Senate.  
@@ -1474,8 +1410,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (d) Any official appointed and approved by the Senate not listed in Subsection (a) above is subject to removal by the Senate with a two-thirds vote for misconduct in office.  
 
-## Section 14.2. Recall of Elected Officials  
-
+## Section 14.2. Recall of Elected Officials
 * (a) A petition bearing the valid signatures of 15% of the undergraduate student body currently residing locally shall cause the Senate to hold a campus-wide recall vote for the Student Body President and/or the Student Body Vice-President within two academic weeks of the presentation of the petition.  
 
 * (b) A petition bearing the valid signatures of 20% of a Senator’s residence shall cause the Senate to hold a recall election for that Senator within two academic weeks of presentation of the petition.  
@@ -1490,8 +1425,7 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
 
 * (g) A two-thirds majority of the votes cast shall be necessary for removal from office, provided that 20% of the elected official’s specified constituency casts votes.  
 
-## Section 14.3. Vacancies  
-
+## Section 14.3. Vacancies
 * (a) In the event of a vacancy in an elected office due to resignation or recall, a new election shall be held within two academic weeks.  
 
 * (b) Should a provision be provided for replacement of an officer in an organization’s bylaws that do not conflict with the following exceptions, it shall take precedence over the general provision for the mandatory new election within two academic weeks:  
@@ -1516,1059 +1450,523 @@ Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *Univer
   
   * (10) In the event that the Freshman Class President vacates the position, the Freshman Class Council Vice-President shall become President. In the event that another officer vacates the position, the President shall nominate a replacement within two academic weeks, subject to the approval of the Senate. In the event that the offices of both the President and Vice-President shall simultaneously become vacant, the remaining officers shall nominate an Acting President and an Acting Vice-President within two academic weeks, subject to the approval of the Senate.  
   
-# ARTICLE XV. PETITION, INITIATIVE, & REFERENDUM  
-
-## Section 15.1. Petition  
-
+# ARTICLE XV. PETITION, INITIATIVE, & REFERENDUM
+## Section 15.1. Petition
 * (a) A petition bearing the valid signatures of 200 members of the undergraduate student body shall cause the Senate to consider a specific resolution within one academic week of the presentation of the petition to the Senate.  
 
 * (b) A valid signature for the purpose of petition must include the full name and local address of the signing undergraduate student.  
 
-## Section 15.2. Initiative  
-
+## Section 15.2. Initiative
 * (a) A petition containing the signatures of 15% of the undergraduate student body may create an initiative.  
 
 * (b) A two-thirds vote of the undergraduate students who exercise their right to vote, provided 20% of the undergraduate student body currently residing locally casts votes, is necessary for the initiative to become binding upon the Senate. A binding initiative shall cause the Senate to take swift and necessary action on the issue of the initiative.  
 
 * (c) A valid signature for the purpose of initiative must include the full name and local address of the signing undergraduate student.  
 
-## Section 15.3. Referendum  
-
+## Section 15.3. Referendum
 * (a) A referendum is an instrument by which the Senate can gauge undergraduate student opinion on a certain issue by placing the issue in ballot form before the undergraduate student body. A referendum may suggest but shall not necessitate action by the Senate.  
 
 * (b) The Senate may place a referendum item in front of the undergraduate student body by a simple majority vote.  
 
-# ARTICLE XVI. TRANSITION & EVALUATION  
-
-## Section 16.1. Transition & Continuity  
-
+# ARTICLE XVI. TRANSITION & EVALUATION
+## Section 16.1. Transition & Continuity
 * (a) Each Student Union organization shall develop written procedures, methods, and policies to maintain continuity and ensure a smooth transition process between administrations and submit a report to the Senate detailing their respective future transition processes prior to February 1st of each year.  
 
 * (b) The Senate shall review and approve all plans of transition. In the event that a plan is not initially approved by the Senate, the organization shall modify and resubmit a report to the Senate within two academic weeks.  
 
 * (c) Each organization shall implement transition plans. The Student Union Ethics Commission shall monitor the transition and internal review of the Student Union and make recommendations to the Senate.  
 
-## Section 16.2. Internal Review & Reform  
-
+## Section 16.2. Internal Review & Reform
 * (a) Student Union organizations shall review sections of this Constitution enumerating their respective purpose, duties, powers, and procedures each year.  
 
 * (b) Each organization, chairperson, or coordinator shall submit suggestions pertinent to the internal review of the organization to the Senate prior to April 30th of each year. Suggestions shall be presented as amendments when appropriate.  
 
 # ARTICLE XVII. ELECTIONS
 ## Section 17.1. General Provisions
-(a) Any Notre Dame undergraduate student in
-good academic standing (as determined by the
-Office of the Registrar or the First Year of
-Studies) and good disciplinary standing (as
-determined by the Office of Community
-Standards) is eligible for candidacy.
-(b) A candidate or ticket shall be defined as any
-undergraduate student(s) with the intent of
-seeking office who are therefore subject to
-elections regulations.
-(c) All election rules and campaigning are
-subject to University regulations as outlined in
-duLac. Please note that the placing of posters in
-non-bulletin board space is not permitted by
-University regulations, and candidates do so at
-their own risk.
-(d) Campaigning may be held only over a
-period specified by the Election Committee.
-Campaigning consists of any public contact for
-the solicitation of votes. Personal appearances,
-placement of posters, or distribution of any
-election materials shall be considered
-campaigning. Any campaigning before or after
-the specified period is a violation of campaign
-rules, the penalty for which may include a
-maximum penalty of forfeiture of candidacy.
-Campaigning within LaFortune is allowed only
-in the basement and the 1st floor, with the
-exception of the radio station WVFI. No
-campaigning may take place in or near any
-Student Union office or venues occupied by the
-Student Union, including (but not limited to) all
-meetings, events, or agendas of official business,
-as well as space that is funded by the Student
-Activities Office. In addition, no candidates may
-campaign in any venue while occupied by a
-class period or exam.
-(e) E-mail as a source of campaigning may be
-used; however, the use of Listservs is prohibited.
-A listserv email is any email that ends in
-“@listserv.nd.edu” or any variations in terms of
-capitalization thereon. Google Groups created
-for use by a Residence Hall, Student Union
-Organization, or University department, office,
-or official may not be used in campaigning.
-(f) Endorsements.
-(1) Endorsements shall include public,
-formal, or organized communication or
-appearances indicating support for a
-candidate or ticket.
-(2) Candidates/tickets may solicit and
-campaign on endorsements from student
-groups and from individual students.
-(3) No Student Union organization
-enumerated in this Constitution may endorse
-a candidate for a student office.
-(4) Individuals holding the following
-offices enumerated in this Constitution may
-not endorse any candidate or ticket—
-(a) Student Body President.
-(b) Student Body Vice-President.
-(c) Student Body President-elect.
-(d) Student Body Vice-President-elect.
-(e) Chief of Staff.
-(f) Members of the Election
-Committee.
-(g) Student Union Board Executive
-Director.
-(h) Student Union Treasurer.
-(i) Class Council Officers.
-(j) Off-Campus Council Officers.
-(k) Hall Presidents Council Co-Chairs.
-(l) Club Coordination Council
-President.
-(m) Hall Senators.
-(n) Off-Campus Senator.
-(5) No individual currently holding an
-office enumerated in this Constitution may
-endorse a candidate for that same office.
-(6) Candidates may not communicate an
-endorsement such that it can be construed to
-represent that of a Residence Hall, Student
-Union Organization, University department,
-office, or official.
-(7) No student group may use funds of any
-type (allocated or unallocated) to support a
-candidate for a student office.
-(g) Candidates may not be involved in or
-instruct others to engage in any unethical
-behavior as detailed in 17.1(i).
-(h) Candidates are expected to behave ethically
-at all times. Unethical behavior will be penalized
-by the Election Committee of Judicial Council.
-Examples of unethical behavior include
-monopolization of limited bulletin board space,
-covering or defaming of any other candidates’
-posters, insulting or defaming other candidates,
-and harassment or misconduct toward any
-election officials.
-(i) Beginning at midnight the day of the election,
-all forms of campaigning are prohibited in the
-immediate polling place. The immediate polling
-place must be cleared of all campaign literature
-by the Hall Election Coordinator in the case of
-in-hall voting, and by an Election Committee
-member in the case of voting that takes place
-elsewhere. In the case that the election is held
-online, a personal computer is not a physical
-ballot station. “Immediate polling place” is
-defined as the area within 20 feet of a physical
-ballot station provided by Judicial Council or
-Hall Election Coordinator. If the election is held
-online, no candidates/tickets may provide a link
-to the polling web site. Only Judicial Council
-may provide a link to the polling web site.
-(j) Blank votes, unapproved write-ins, or split
-ticket votes shall not count as valid votes and
-shall not be considered in the final tally.
-(k) In cases of elections where there is one
-candidate/ticket running unopposed the Judicial
-Council may recommend that the Student Senate
-04/13/2016 University of Notre Dame du Lac 39
-suspend the election and the candidate/ticket
-shall be declared the winner.
-(l) No new bylaws pertaining to elections may
-be put into practice after petitions become
-available without a three-fourths vote of the
-Senate.
-(m) All allegations of election misconduct are to
-be submitted to the Vice-President of Elections.
-All potential violations must be reported within
-48 hours of the time committed or 11:59PM on
-the day of the election, whichever is sooner.
-(1) The Judicial Council shall then conduct
-a review of the allegation as outlined in
-Article XIII and follow appropriate
-procedures.
-(2) The Election Committee reserves the
-right to change any sanction based on the
-magnitude of the offense. The committee
-will adhere to a policy of keeping all rules
-uniform to all candidates.
-(3) In any dispute over the Election
-Committee’s interpretation of these rules,
-any interpretation may be appealed to the
-Student Senate.
-(4) The penalty imposed by the Election
-Committee shall stand until such time as the
-Senate hears the appeal.
-(5) No election result may be released to the
-public while any allegation or appeal is
-pending.
-(n) Failure to settle any penalties before election
-days shall result in immediate forfeiture of
-candidacy.
-(o) For the purpose of petitions, the original
-signature of an undergraduate student shall be
-required to signify approval of a candidate or
-ticket’s placement on the ballot.
-(p) In the event that an election proceeds to a
-runoff, all tickets in the runoff may have a
-nominal increase in their funding equivalent to
-20% of the funding initially allocated for the
-primary election.
-(q) The Judicial Council President shall be
-responsible for verifying the validity of all votes
-cast in any election.
-(r) Where not otherwise specified, sanctions for
-violations of election regulations shall be up to
-the discretion of the Election Committee. The
-Election Committee shall be able to select an
-appropriate sanction, up to and including
-forfeiture of candidacy.
+* (a) Any Notre Dame undergraduate student in good academic standing (as determined by the Office of the Registrar or the First Year of Studies) and good disciplinary standing (as determined by the Office of Community Standards) is eligible for candidacy.
+
+* (b) A candidate or ticket shall be defined as any undergraduate student(s) with the intent of seeking office who are therefore subject to elections regulations.  
+
+* (c) All election rules and campaigning are subject to University regulations as outlined in duLac. Please note that the placing of posters in non-bulletin board space is not permitted by University regulations, and candidates do so at their own risk.  
+
+* (d) Campaigning may be held only over a period specified by the Election Committee. Campaigning consists of any public contact for the solicitation of votes. Personal appearances, placement of posters, or distribution of any election materials shall be considered campaigning. Any campaigning before or after the specified period is a violation of campaign rules, the penalty for which may include a maximum penalty of forfeiture of candidacy. Campaigning within LaFortune is allowed only in the basement and the 1st floor, with the exception of the radio station WVFI. No campaigning may take place in or near any Student Union office or venues occupied by the Student Union, including (but not limited to) all meetings, events, or agendas of official business, as well as space that is funded by the Student Activities Office. In addition, no candidates may campaign in any venue while occupied by a class period or exam.  
+
+* (e) E-mail as a source of campaigning may be used; however, the use of Listservs is prohibited. A listserv email is any email that ends in “@listserv.nd.edu” or any variations in terms of capitalization thereon. Google Groups created for use by a Residence Hall, Student Union Organization, or University department, office, or official may not be used in campaigning.  
+
+* (f) Endorsements.  
+
+  * (1) Endorsements shall include public, formal, or organized communication or appearances indicating support for a candidate or ticket.  
+  
+  * (2) Candidates/tickets may solicit and campaign on endorsements from student groups and from individual students.  
+  
+  * (3) No Student Union organization enumerated in this Constitution may endorse a candidate for a student office.  
+  
+  * (4) Individuals holding the following offices enumerated in this Constitution may not endorse any candidate or ticket—  
+  
+    * (i) Student Body President.  
+    
+    * (ii) Student Body Vice-President.  
+    
+    * (iii) Student Body President-elect.  
+    
+    * (iv) Student Body Vice-President-elect.  
+    
+    * (v) Chief of Staff.  
+    
+    * (vi) Members of the Election Committee.  
+    
+    * (vii) Student Union Board Executive Director.  
+    
+    * (viii) Student Union Treasurer.  
+    
+    * (ix) Class Council Officers.  
+    
+    * (x) Off-Campus Council Officers.  
+    
+    * (xi) Hall Presidents Council Co-Chairs.  
+    
+    * (xii) Club Coordination Council President.  
+    
+    * (xiii) Hall Senators.  
+    
+    * (xiv) Off-Campus Senator.  
+    
+  * (5) No individual currently holding an office enumerated in this Constitution may endorse a candidate for that same office.  
+  
+  * (6) Candidates may not communicate an endorsement such that it can be construed to represent that of a Residence Hall, Student Union Organization, University department, office, or official.  
+  
+  * (7) No student group may use funds of any type (allocated or unallocated) to support a candidate for a student office.  
+  
+* (g) Candidates may not be involved in or instruct others to engage in any unethical behavior as detailed in 17.1(i).  
+
+* (h) Candidates are expected to behave ethically at all times. Unethical behavior will be penalized by the Election Committee of Judicial Council. Examples of unethical behavior include monopolization of limited bulletin board space, covering or defaming of any other candidates’ posters, insulting or defaming other candidates, and harassment or misconduct toward any election officials.  
+
+* (i) Beginning at midnight the day of the election, all forms of campaigning are prohibited in the immediate polling place. The immediate polling place must be cleared of all campaign literature by the Hall Election Coordinator in the case of in-hall voting, and by an Election Committee member in the case of voting that takes place elsewhere. In the case that the election is held online, a personal computer is not a physical ballot station. “Immediate polling place” is defined as the area within 20 feet of a physical ballot station provided by Judicial Council or Hall Election Coordinator. If the election is held online, no candidates/tickets may provide a link to the polling web site. Only Judicial Council may provide a link to the polling web site.  
+
+* (j) Blank votes, unapproved write-ins, or split ticket votes shall not count as valid votes and shall not be considered in the final tally.  
+
+* (k) In cases of elections where there is one candidate/ticket running unopposed the Judicial Council may recommend that the Student Senate suspend the election and the candidate/ticket shall be declared the winner.  
+
+* (l) No new bylaws pertaining to elections may be put into practice after petitions become available without a three-fourths vote of the Senate.  
+
+* (m) All allegations of election misconduct are to be submitted to the Vice-President of Elections. All potential violations must be reported within 48 hours of the time committed or 11:59PM on the day of the election, whichever is sooner.  
+
+  * (1) The Judicial Council shall then conduct a review of the allegation as outlined in Article XIII and follow appropriate procedures.  
+  
+  * (2) The Election Committee reserves the right to change any sanction based on the magnitude of the offense. The committee will adhere to a policy of keeping all rules uniform to all candidates.  
+  
+  * (3) In any dispute over the Election Committee’s interpretation of these rules, any interpretation may be appealed to the Student Senate.  
+  
+  * (4) The penalty imposed by the Election Committee shall stand until such time as the Senate hears the appeal.  
+  
+  * (5) No election result may be released to the public while any allegation or appeal is pending.  
+  
+* (n) Failure to settle any penalties before election days shall result in immediate forfeiture of candidacy.  
+
+* (o) For the purpose of petitions, the original signature of an undergraduate student shall be required to signify approval of a candidate or ticket’s placement on the ballot.  
+
+* (p) In the event that an election proceeds to a runoff, all tickets in the runoff may have a nominal increase in their funding equivalent to 20% of the funding initially allocated for the primary election.  
+
+* (q) The Judicial Council President shall be responsible for verifying the validity of all votes cast in any election.  
+
+* (r) Where not otherwise specified, sanctions for violations of election regulations shall be up to the discretion of the Election Committee. The Election Committee shall be able to select an appropriate sanction, up to and including forfeiture of candidacy.  
+
 ## Section 17.2. Student Body President, Vice-President, & Class Councils
-(a) The exact date of the elections for Student
-Body President, Vice-President, and Class
-Officers shall be announced before January 30th
-each year.
-(b) There shall be an informational meeting for
-all candidates. The bylaws shall be explained
-and all rules and regulations will be discussed. It
-is the responsibility of all candidates to be fully
-aware of the official election rules as outlined in
-these bylaws and all University regulations in
-reference to posting.
-(c) Campaigning may begin as soon as a
-candidate/ticket has turned in a fully signed
-petition and it is verified and approved by the
-Election Committee.
-(d) No petition shall be accepted after the
-deadline without prior written approval of the
-Election Committee. A new member on a ticket
-without approval by the Election Committee
-must get new signatures. Only official petitions
-as distributed by the Election Committee may be
-used. An official list of candidates shall be
-posted outside the Student Government Office.
-(e) Receipts for all election materials purchased
-or donated must be presented to the Election
-Committee prior to any use of the materials. All
-receipts must be accompanied by a list of
-materials purchased.
-(f) Failure to disclose the proper cost of any
-election materials is a highly serious breach of
-campaign rules. Penalty shall be forfeiture of
-candidacy.
-(g) Copies of all physical campaign materials,
-including but not limited to posters, flyers, and
-table tents, must be submitted to the Election
-40 Constitution of the Undergraduate Student Body 01/17/2017
-Committee and stamped for approval by a
-member of the Election Committee, excluding
-the Director of the Department of Internal
-Affairs, before posting.
-(1) Posters to be placed on bulletin boards
-may not exceed eleven inches by seventeen
-inches. Posters may be placed inside
-residence halls and within public buildings.
-No posters may be placed within the
-classrooms themselves.
-(h) Candidates may not be involved in or
-instruct others to engage in any unethical
-behavior as detailed in Section 17.1.
-(i) Social Media.
-(1) Candidates may utilize social media in
-campaigning.
-(2) Candidates may create a social media
-account or page specifically for
-campaigning. The account or page must be
-approved by the Election committee before
-use and be made accessible to Judicial
-Council. All activity on a social media
-account or page, including but not limited to
-text posts, photos, and videos must adhere to
-the guidelines detailed in Section 17.1.
-(3) A personal social media account or page
-may be used to campaign. If a candidate
-uses their personal media account or page
-for their campaign, that personal account or
-page must be made accessible to Judicial
-Council. All actions on a personal account
-or page (including but not limited to the
-posting of text posts, photos, and videos)
-which may be construed as campaigning
-must adhere to the guidelines detailed in
-Section 17.1.
-(4) Any spending associated with social
-media for campaigning purposes must be
-documented and approved by the Election
-Committee before it is incurred. Spending
-must have a specific, known cost before the
-action is taken.
-(5) “Social Media,” as a rapidly developing
-and changing field, shall be interpreted by
-the Election Committee on an ongoing basis.
-In the event of new or changing policies,
-candidates will be informed before the
-release of petitions, in accordance with
-Section 17.1.
-(6) All allegations of election misconduct
-regarding social media usage will be heard
-by the Election Committee in accordance
-with procedures in Section 13.5.
-(j) Write-in candidates are those candidates
-who missed the deadline or switched tickets
-after the deadline. Write-in candidates may be
-voted for, but will not appear on the ballot.
-Write-in candidates shall be approved under the
-following conditions before the date of the
-election:
-(1) Candidates must furnish independent
-proof of good academic standing from the
-First Year of Studies or the Office of the
-Registrar and proof of good disciplinary
-standing from the Office of Community
-Standards.
-(2) The Election Committee shall not
-undertake the responsibility of informing the
-student body of write-ins’ placement on the
-ballot.
-(3) Candidates must submit a petition with
-100 unique signatures in addition to the
-required number of signatures for the
-position.
-(4) All materials for write-in candidacies
-must be submitted for approval by the
-Judicial Council no later than four (4)
-calendar days before the election.
-(k) Student Body President and Vice-President
-Election.
-(1) Candidates for Student Body President
-and Student Body Vice-President must run
-on the same ticket. Students may not split
-tickets when voting.
-(2) The primary election for Student Body
-President and Vice-President shall be held
-on the fourth Wednesday of the second
-semester. The run-off election will be held
-on the Monday following the primary.
-(3) Petitions for the office of Student Body
-President and Vice-President shall require
-700 signatures for the placement on the
-ballot. Petitions will be made available at
-noon on the first Tuesday of classes of the
-second semester. The deadline for the filing
-of all petitions is noon of the Friday of the
-following week.
-(4) A campaign limit is set for all Student
-Body Presidential and Vice-Presidential
-candidates’ tickets at $200.00. All outside
-contributions count toward the limit. All
-donations shall be assessed towards the limit
-at their fair market value with the sole
-exception of an individual’s labor which
-shall not be assessed against the limit.
-Combining campaigning funds of more than
-one ticket is not permitted and shall result in
-forfeiture.
-(A) The Judicial Council shall make
-available funds to reimburse the
-candidates for Student Body President
-and Vice-President of expenses incurred
-for the purpose of campaigning. These
-expenses must have been presented to
-the Election Committee.
-Reimbursements shall not exceed the
-campaign spending limit, and the
-Judicial Council President shall approve
-these reimbursements.
-(5) The Judicial Council shall facilitate
-campus debates for the candidates running
-for Student Body President and Student
-Body Vice-President.
-(l) Freshman Class Council.
-(1) Freshman Class Council Representatives
-shall be elected by a majority vote of the
-freshmen in each residence hall by the
-fourth Friday of the academic year.
-(2) A freshman shall submit to the Election
-Committee a petition of no less than 10% of
-his or her residence hall’s freshman
-residents to be considered an eligible
-candidate.
-(3) A campaign limit is set for all
-candidates at $20.00. All outside
-contributions count toward the limit. All
-donations shall be assessed towards the limit
-at their fair market value with the sole
-exception of an individual’s labor which
-shall not be assessed against the limit.
-Combining campaigning funds of more than
-one ticket is not permitted and shall result in
-forfeiture of candidacy.
-(m) Class Officer Election.
-(1) The Class Officers Elections shall be
-held before March 3rd each year.
-(2) Candidates for Class Officers must run
-on one ticket that designates the positions of
-President, Vice-President, Secretary, and
-Treasurer. Students may not split tickets
-when voting.
-(3) Petitions for class officer shall require
-200 signatures for the placement on the
-ballot.
-(4) A campaign limit is set for all
-candidates’ tickets at $75.00. All outside
-contributions count toward the limit. All
-donations shall be assessed towards the limit
-at their fair market value with the sole
-exception of an individual’s labor which
-shall not be assessed against the limit.
-Combining campaigning funds of more than
-one ticket is not permitted and shall result in
-forfeiture.
+* (a) The exact date of the elections for Student Body President, Vice-President, and Class Officers shall be announced before January 30th each year.  
+
+* (b) There shall be an informational meeting for all candidates. The bylaws shall be explained and all rules and regulations will be discussed. It is the responsibility of all candidates to be fully aware of the official election rules as outlined in these bylaws and all University regulations in reference to posting.  
+
+* (c) Campaigning may begin as soon as a candidate/ticket has turned in a fully signed petition and it is verified and approved by the Election Committee.  
+
+* (d) No petition shall be accepted after the deadline without prior written approval of the Election Committee. A new member on a ticket without approval by the Election Committee must get new signatures. Only official petitions as distributed by the Election Committee may be used. An official list of candidates shall be posted outside the Student Government Office.  
+
+* (e) Receipts for all election materials purchased or donated must be presented to the Election Committee prior to any use of the materials. All receipts must be accompanied by a list of materials purchased.  
+
+* (f) Failure to disclose the proper cost of any election materials is a highly serious breach of campaign rules. Penalty shall be forfeiture of candidacy.  
+
+* (g) Copies of all physical campaign materials, including but not limited to posters, flyers, and table tents, must be submitted to the Election Committee and stamped for approval by a member of the Election Committee, excluding the Director of the Department of Internal Affairs, before posting.  
+
+  * (1) Posters to be placed on bulletin boards may not exceed eleven inches by seventeen inches. Posters may be placed inside residence halls and within public buildings. No posters may be placed within the classrooms themselves.  
+  
+* (h) Candidates may not be involved in or instruct others to engage in any unethical behavior as detailed in Section 17.1.  
+
+* (i) Social Media.  
+
+  * (1) Candidates may utilize social media in campaigning.  
+  
+  * (2) Candidates may create a social media account or page specifically for campaigning. The account or page must be approved by the Election committee before use and be made accessible to Judicial Council. All activity on a social media account or page, including but not limited to text posts, photos, and videos must adhere to the guidelines detailed in Section 17.1. 
+  
+  * (3) A personal social media account or page may be used to campaign. If a candidate uses their personal media account or page for their campaign, that personal account or page must be made accessible to Judicial Council. All actions on a personal account or page (including but not limited to the posting of text posts, photos, and videos) which may be construed as campaigning must adhere to the guidelines detailed in Section 17.1.  
+  
+  * (4) Any spending associated with social media for campaigning purposes must be documented and approved by the Election Committee before it is incurred. Spending must have a specific, known cost before the action is taken.  
+  
+  * (5) “Social Media,” as a rapidly developing and changing field, shall be interpreted by the Election Committee on an ongoing basis. In the event of new or changing policies, candidates will be informed before the release of petitions, in accordance with Section 17.1.  
+  
+  * (6) All allegations of election misconduct regarding social media usage will be heard by the Election Committee in accordance with procedures in Section 13.5.  
+  
+* (j) Write-in candidates are those candidates who missed the deadline or switched tickets after the deadline. Write-in candidates may be voted for, but will not appear on the ballot. Write-in candidates shall be approved under the following conditions before the date of the election:  
+
+  * (1) Candidates must furnish independent proof of good academic standing from the First Year of Studies or the Office of the Registrar and proof of good disciplinary standing from the Office of Community Standards.  
+  
+  * (2) The Election Committee shall not undertake the responsibility of informing the student body of write-ins’ placement on the ballot.  
+  
+  * (3) Candidates must submit a petition with 100 unique signatures in addition to the required number of signatures for the position.  
+  
+  * (4) All materials for write-in candidacies must be submitted for approval by the Judicial Council no later than four (4) calendar days before the election.  
+  
+* (k) Student Body President and Vice-President Election.  
+
+  * (1) Candidates for Student Body President and Student Body Vice-President must run on the same ticket. Students may not split tickets when voting.  
+  
+  * (2) The primary election for Student Body President and Vice-President shall be held on the fourth Wednesday of the second semester. The run-off election will be held on the Monday following the primary.  
+  
+  * (3) Petitions for the office of Student Body President and Vice-President shall require 700 signatures for the placement on the ballot. Petitions will be made available at noon on the first Tuesday of classes of the second semester. The deadline for the filing of all petitions is noon of the Friday of the following week.  
+  
+  * (4) A campaign limit is set for all Student Body Presidential and Vice-Presidential candidates’ tickets at $200.00. All outside contributions count toward the limit. All donations shall be assessed towards the limit at their fair market value with the sole exception of an individual’s labor which shall not be assessed against the limit. Combining campaigning funds of more than one ticket is not permitted and shall result in forfeiture.  
+  
+    * (i) The Judicial Council shall make available funds to reimburse the candidates for Student Body President and Vice-President of expenses incurred for the purpose of campaigning. These expenses must have been presented to the Election Committee. Reimbursements shall not exceed the campaign spending limit, and the Judicial Council President shall approve these reimbursements.  
+    
+  * (5) The Judicial Council shall facilitate campus debates for the candidates running for Student Body President and Student Body Vice-President.  
+  
+* (l) Freshman Class Council.
+
+  * (1) Freshman Class Council Representatives shall be elected by a majority vote of the freshmen in each residence hall by the fourth Friday of the academic year.  
+  
+  * (2) A freshman shall submit to the Election Committee a petition of no less than 10% of his or her residence hall’s freshman residents to be considered an eligible candidate.  
+  
+  * (3) A campaign limit is set for all candidates at $20.00. All outside contributions count toward the limit. All donations shall be assessed towards the limit at their fair market value with the sole exception of an individual’s labor which shall not be assessed against the limit. Combining campaigning funds of more than one ticket is not permitted and shall result in forfeiture of candidacy.  
+  
+* (m) Class Officer Election.  
+
+  * (1) The Class Officers Elections shall be held before March 3rd each year.  
+  
+  * (2) Candidates for Class Officers must run on one ticket that designates the positions of President, Vice-President, Secretary, and Treasurer. Students may not split tickets when voting.  
+  
+  * (3) Petitions for class officer shall require 200 signatures for the placement on the ballot.  
+  
+  * (4) A campaign limit is set for all candidates’ tickets at $75.00. All outside contributions count toward the limit. All donations shall be assessed towards the limit at their fair market value with the sole exception of an individual’s labor which shall not be assessed against the limit. Combining campaigning funds of more than one ticket is not permitted and shall result in forfeiture.  
+  
 ## Section 17.3. Hall Elections
-(a) General Hall Provisions.
-(1) All hall elections are to be conducted by
-the Hall Election Coordinator.
-(2) Each Hall Election Coordinator is
-responsible for following the guidelines set
-forth by the Election Committee.
-(3) Posters to be placed on bulletin boards
-may not exceed eleven inches by seventeen
-inches. Posters may be placed inside
-residence halls and within public buildings.
-No posters may be placed within the
-classrooms themselves.
-(4) Each Hall Election Coordinator must
-hold an information session for students
-interested in the positions.
-(5) Receipts for all election materials
-purchased or donated must be presented to
-the Hall Election Coordinator prior to any
-use of the materials. All receipts must be
-accompanied by a list of materials
-purchased.
-(6) Candidates may utilize social media in
-campaigning. Accounts or pages used for
-campaigning, whether personal or created
-for the purpose of campaigning, must be
-made accessible to the Hall Election
-Coordinator.
-(b) Hall Senator, President, Vice-President(s),
-and SUB Representative.
-(1) The election for Senator shall be held
-prior to March 1st of each year. The election
-for President, Vice-President(s), and SUB
-Representative shall be held before April 1st
-each year. The Judicial Council reserves the
-right to specify dates for hall elections
-pending the approval of the Hall Presidents
-Council. In the absence of specified dates,
-hall election dates may be determined by the
-Hall Election Coordinator, but must be
-conducted prior to the final meeting of the
-current Student Senate, Hall Presidents
-Council, and Student Union Board.
-(2) The residence hall Senator, President,
-and SUB Representative must reside in the
-residence hall that he or she wishes to
-represent during the entire term of office
-Halls may not have more than one person
-fulfill any of these positions during a term.
-(3) Each hall may have up to two Vice-
-Presidents. If a hall has two Vice-Presidents,
-they shall serve in different semesters. The
-Vice-President must reside in the residence
-hall during the semester in which that Vice-
-President is serving. Vice-Presidents who
-split up their terms must run on a ticket
-together.
-(4) Each hall shall be responsible for
-determining the formation of tickets
-amongst any or all of the elected hall
-positions.
-(A) The Judicial Council may require a
-specific ticket formation for halls opting
-to use the Judicial Council online voting
-procedures.
-(5) Each hall shall be responsible for
-petitions for candidates and/or tickets.
-(6) A campaign limit is set for all
-candidates for Senator, President, Vice
-President(s) and SUB Representative at
-$50.00. If tickets are formed amongst any of
-these positions the spending limit shall apply
-to the entire ticket and not to the individuals
-who make up the ticket. All outside
-contributions count toward the limit. All
-donations shall be assessed towards the
-limit at their fair market value with the sole
-exception of an individual’s labor which
-shall not be assessed against the limit.
-Combining campaigning funds of more than
-one ticket is not permitted and shall result in
-forfeiture.
+* (a) General Hall Provisions.  
+
+  * (1) All hall elections are to be conducted by the Hall Election Coordinator.  
+  
+  * (2) Each Hall Election Coordinator is responsible for following the guidelines set forth by the Election Committee.  
+  
+  * (3) Posters to be placed on bulletin boards may not exceed eleven inches by seventeen inches. Posters may be placed inside residence halls and within public buildings. No posters may be placed within the classrooms themselves.  
+  
+  * (4) Each Hall Election Coordinator must hold an information session for students interested in the positions.  
+  
+  * (5) Receipts for all election materials purchased or donated must be presented to the Hall Election Coordinator prior to any use of the materials. All receipts must be accompanied by a list of materials purchased.  
+  
+  * (6) Candidates may utilize social media in campaigning. Accounts or pages used for campaigning, whether personal or created for the purpose of campaigning, must be made accessible to the Hall Election Coordinator.  
+  
+* (b) Hall Senator, President, Vice-President(s), and SUB Representative.  
+
+  * (1) The election for Senator shall be held prior to March 1st of each year. The election for President, Vice-President(s), and SUB Representative shall be held before April 1st each year. The Judicial Council reserves the right to specify dates for hall elections pending the approval of the Hall Presidents Council. In the absence of specified dates, hall election dates may be determined by the Hall Election Coordinator, but must be conducted prior to the final meeting of the current Student Senate, Hall Presidents Council, and Student Union Board.  
+  
+  * (2) The residence hall Senator, President, and SUB Representative must reside in the residence hall that he or she wishes to represent during the entire term of office Halls may not have more than one person fulfill any of these positions during a term.  
+  
+  * (3) Each hall may have up to two Vice-Presidents. If a hall has two Vice-Presidents, they shall serve in different semesters. The Vice-President must reside in the residence hall during the semester in which that Vice-President is serving. Vice-Presidents who split up their terms must run on a ticket together.  
+  
+  * (4) Each hall shall be responsible for determining the formation of tickets amongst any or all of the elected hall positions.  
+  
+    * (i) The Judicial Council may require a specific ticket formation for halls opting to use the Judicial Council online voting procedures.  
+  * (5) Each hall shall be responsible for petitions for candidates and/or tickets.  
+  
+  * (6) A campaign limit is set for all candidates for Senator, President, Vice-President(s) and SUB Representative at $50.00. If tickets are formed amongst any of these positions the spending limit shall apply to the entire ticket and not to the individuals who make up the ticket. All outside contributions count toward the limit. All donations shall be assessed towards the limit at their fair market value with the sole exception of an individual’s labor which shall not be assessed against the limit. Combining campaigning funds of more than one ticket is not permitted and shall result in forfeiture.  
+  
 ## Section 17.4. Off-Campus Elections
-(a) The election shall be held on or before the
-third full week of April of each year.
-(b) The Off-Campus President and Vice-
-President and the Off-Campus Senator must
-reside off-campus during the following
-academic year. Having a university-provided,
-on-campus residence during the following
-academic year disqualifies a person from this
-office.
-(c) Candidates for Off-Campus President and
-Vice-President must run on the same ticket.
-Students may not split tickets when voting.
-(c) Off-Campus Senator and Off-Campus
-President and Vice-President shall require no
-petition.
-(e) Students currently living off-campus and
-students living off-campus during the following
-academic year are eligible to vote for Off-
-Campus President and Vice-President and Off-
-Campus Senator.
-(e) A campaign limit is set for all candidates’
-tickets at $75.00. All outside contributions count
-toward the limit. All donations shall be assessed
-towards the limit at their fair market value with
-the sole exception of an individual’s labor,
-which shall not be assessed against the limit.
-Combining campaigning funds of more than one
-ticket is not permitted and shall result in
-forfeiture.
+* (a) The election shall be held on or before the third full week of April of each year.  
+
+* (b) The Off-Campus President and Vice-President and the Off-Campus Senator must reside off-campus during the following academic year. Having a university-provided, on-campus residence during the following academic year disqualifies a person from this office.  
+
+* (c) Candidates for Off-Campus President and Vice-President must run on the same ticket. Students may not split tickets when voting.  
+
+* (d) Off-Campus Senator and Off-Campus President and Vice-President shall require no petition.  
+
+* (e) Students currently living off-campus and students living off-campus during the following academic year are eligible to vote for Off-Campus President and Vice-President and Off-Campus Senator.  
+
+* (f) A campaign limit is set for all candidates’ tickets at $75.00. All outside contributions count toward the limit. All donations shall be assessed towards the limit at their fair market value with the sole exception of an individual’s labor, which shall not be assessed against the limit. Combining campaigning funds of more than one ticket is not permitted and shall result in forfeiture.  
+
 ## Section 17.5. Election Results
-(a) To win the election, a candidate/ticket must
-receive a majority of valid votes cast. There
-shall be an option for the voter to abstain on the
-ballot, but a vote to abstain will not count as a
-valid vote.
-(1) A run-off shall be held between the two
-highest vote-getting candidates/tickets if no
-candidate/ticket received the required total
-on the first ballot.
-04/13/2016 University of Notre Dame du Lac 43
-(2) In the event of a tie in the election of a
-Senator, Hall President, Hall SUB
-Representative, or Freshman Class Council
-election, additional run-off elections shall be
-held in the individual residence hall until a
-majority is obtained.
-(3) In the event of a tie in the run-off
-election for the Student Body President,
-Student Body Vice-President, Class
-Officers, Off-Campus President, or Off-
-Campus Senator, the ticket/candidate which
-wins the most amount of Senate
-constituencies shall win the election.
-(A) The Student Senate shall convene a
-special meeting for the purpose of
-observing the Judicial Council President
-announce the run-off election results
-from the individual Senate
-constituencies.
-(B) The Judicial Council President shall
-announce the candidate/ticket who
-received the most votes in each Senate
-constituency.
-(C) The Judicial Council shall not
-release any information regarding the
-results from the individual Senate
-constituencies prior to this meeting to
-any person.
-(D) If there is a tie between the
-candidates/tickets in a Senate
-constituency, the respective Senator
-shall cast the deciding vote at this
-special meeting.
-(E) If there is a tie between the
-candidates/tickets in a Senate
-constituency and the Senator is not
-present, the Senate constituency’s vote
-shall be voided.
-(F) If the Senate constituencies stand
-equally divided, the Chairman of the
-Senate shall cast the deciding vote.
-(b) In the event that a candidate/ticket in a runoff
-election forfeits, whether due to choice or by
-sanction, a re-election will be given to the
-student body.
-(1) The two top remaining tickets with the
-highest vote total from the primaries will be
-introduced in the run-off re-election.
-(2) The re-election shall take place no later
-than four days following the forfeiture of the
-candidate/ticket.
-(3) The two remaining tickets may receive a
-nominal increase of $35 to their spending
-limit.
-(c) In the event that there are no qualified
-candidates for a position or office, that position
-or office shall go unfilled.
+* (a) To win the election, a candidate/ticket must receive a majority of valid votes cast. There shall be an option for the voter to abstain on the ballot, but a vote to abstain will not count as a valid vote.  
+
+  * (1) A run-off shall be held between the two highest vote-getting candidates/tickets if no candidate/ticket received the required total on the first ballot.
+  
+  * (2) In the event of a tie in the election of a Senator, Hall President, Hall SUB Representative, or Freshman Class Council election, additional run-off elections shall be held in the individual residence hall until a majority is obtained.  
+  
+  * (3) In the event of a tie in the run-off election for the Student Body President, Student Body Vice-President, Class Officers, Off-Campus President, or Off-Campus Senator, the ticket/candidate which wins the most amount of Senate constituencies shall win the election.  
+  
+    * (i) The Student Senate shall convene a special meeting for the purpose of observing the Judicial Council President announce the run-off election results from the individual Senate constituencies.  
+    
+    * (ii) The Judicial Council President shall announce the candidate/ticket who received the most votes in each Senate constituency.  
+    
+    * (iii) The Judicial Council shall not release any information regarding the results from the individual Senate constituencies prior to this meeting to any person.  
+    
+    * (iv) If there is a tie between the candidates/tickets in a Senate constituency, the respective Senator shall cast the deciding vote at this special meeting.  
+    
+    * (v) If there is a tie between the candidates/tickets in a Senate constituency and the Senator is not present, the Senate constituency’s vote shall be voided.  
+    
+    * (F) If the Senate constituencies stand equally divided, the Chairman of the Senate shall cast the deciding vote.  
+    
+* (b) In the event that a candidate/ticket in a runoff election forfeits, whether due to choice or by sanction, a re-election will be given to the student body.  
+
+  * (1) The two top remaining tickets with the highest vote total from the primaries will be introduced in the run-off re-election.  
+  
+  * (2) The re-election shall take place no later than four days following the forfeiture of the candidate/ticket.  
+  
+  * (3) The two remaining tickets may receive a nominal increase of $35 to their spending limit.  
+  
+* (c) In the event that there are no qualified candidates for a position or office, that position or office shall go unfilled.  
+
 # ARTICLE XVIII. STUDENT UNION FISCAL POLICY
 ## Section 18.1. Preamble
-(a) The following general fiscal policy and
-guidelines provides the means for facilitating a
-sharing of responsibilities and decision making
-opportunities among the officially recognized
-Student Union organizations and the Student
-Activities Office of the University of Notre
-Dame.
+* (a) The following general fiscal policy and guidelines provides the means for facilitating a sharing of responsibilities and decision making opportunities among the officially recognized Student Union organizations and the Student Activities Office of the University of Notre Dame.  
+
 ## Section 18.2. General Guidelines
-(a) Mandatory student activity fees, as fixed by
-the University and the Student Senate shall be
-collected by the Notre Dame Accounting
-department and held in a University account.
-(b) The student activity fee shall be a separately
-itemized fee on each student’s bill for both the
-fall and spring semesters.
-(c) The Student Union fiscal year shall coincide
-with the University’s fiscal year and extend from
-July 1st to June 30th.
-(d) Student activity fee revenue may be used
-for, but shall not be limited to, the following
-purposes―
-(1) Social events, seminars, workshops,
-retreats, and conferences.
-(2) Equipment, supplies, and materials
-required for the operation of student
-programs and activities.
-(3) Travel and per diem for students and
-professional staff members participating in
-student programs and activities.
-(4) Premiums for liability and casualty
-insurance coverage for students serving in
-official capacities or participating in such
-programs and activities.
-(5) Dues for institutional national charter
-memberships in recognized student
-organizations.
-(6) Salaries and compensation to students
-serving in official capacities, or to any other
-full or part-time employees of the Student
-Union.
+* (a) Mandatory student activity fees, as fixed by the University and the Student Senate shall be collected by the Notre Dame Accounting department and held in a University account.  
+
+* (b) The student activity fee shall be a separately itemized fee on each student’s bill for both the fall and spring semesters.  
+
+* (c) The Student Union fiscal year shall coincide with the University’s fiscal year and extend from July 1st to June 30th.  
+
+* (d) Student activity fee revenue may be used for, but shall not be limited to, the following purposes―  
+
+  * (1) Social events, seminars, workshops, retreats, and conferences.  
+  
+  * (2) Equipment, supplies, and materials required for the operation of student programs and activities.  
+  
+  * (3) Travel and per diem for students and professional staff members participating in student programs and activities.  
+  
+  * (4) Premiums for liability and casualty insurance coverage for students serving in official capacities or participating in such programs and activities.  
+  
+  * (5) Dues for institutional national charter memberships in recognized student organizations.  
+  
+  * (6) Salaries and compensation to students serving in official capacities, or to any other full or part-time employees of the Student Union.  
+  
 ## Section 18.3. Method of Allocation
-(a) The pool of available funds shall be
-comprised of the total amount of student activity
-fees collected plus a portion of the proceeds
-from The Shirt Project.
-(1) 50% of The Shirt Project profits per
-annum, less $125,000 to be made available
-for FMB allocation, shall be invested in the
-Student Union Endowment. The remaining
-50% of The Shirt profits shall go towards
-The Shirt Charity Endowment less any funds
-needed to ensure the beginning fiscal year
-balance of $100,000 in the Shirt Charity
-Medical Fund and the minimum $100,000
-Rector Fund allocation, direct revenue will
-be diverted from that year’s Shirt Charity
-Endowment investment to offset any
-difference.
-(2) The initial quantity of The Shirt ordered
-shall be directed toward achieving an
-estimated net profit of no less than
-$250,000.
-(b) 39% of the funds available for FMB
-allocation shall be allotted to the line item
-“Clubs and Organizations” as the minimum
-amount designated for distribution by the Club
-Coordination Council with final review by the
-Financial Management Board.
-(c) 1.75% of the funds available for FMB
-allocation shall be placed in a contingency fund
-to be allocated by the Financial Management
-Board for the purpose of co-sponsorship; at least
-one club and one other Student Union
-organization must be involved.
-(d) The remaining 59% of available funds shall
-be distributed among the following Student
-Union organizations―
-(1) Student Union Board.
-(2) Office of the Student Body President.
-(3) Student Senate.
-(4) Hall Presidents’ Council.
-(5) Freshman Class.
-(6) Sophomore Class.
-(7) Junior Class.
-(8) Senior Class / Senior Week.
-(9) Off-Campus Council.
-(10) Office of the Student Union Treasurer.
-(11) Judicial Council.
-(12) Club Coordination Council.
-(13) Transfer / Freshman Orientation.
-(14) Any other areas deemed appropriate by
-the Financial Management Board with the
-approval of the Student Senate.
-(e) .25% of available funds shall be allocated to
-the special-interest student organizations.
-(f) For the purpose of the Rector Fund, a
-minimum of $100,000 shall be allocated to the
-Vice President for Student Affairs annually. In
-the event that the applied earnings from the Shirt
-Charity Endowment are insufficient to ensure
-the beginning fiscal year balance of $100,000 in
-the Shirt Charity Medical Fund a minimum
-$100,000 Rector Fund allocation, direct revenue
-will be diverted from that year’s Shirt Charity
-Endowment investment to offset any difference.
+* (a) The pool of available funds shall be comprised of the total amount of student activity fees collected plus a portion of the proceeds from The Shirt Project.  
+
+  * (1) 50% of The Shirt Project profits per annum, less $125,000 to be made available for FMB allocation, shall be invested in the Student Union Endowment. The remaining 50% of The Shirt profits shall go towards The Shirt Charity Endowment less any funds needed to ensure the beginning fiscal year balance of $100,000 in the Shirt Charity Medical Fund and the minimum $100,000 Rector Fund allocation, direct revenue will be diverted from that year’s Shirt Charity Endowment investment to offset any difference.  
+  
+  * (2) The initial quantity of The Shirt ordered shall be directed toward achieving an estimated net profit of no less than $250,000.  
+  
+* (b) 39% of the funds available for FMB allocation shall be allotted to the line item “Clubs and Organizations” as the minimum amount designated for distribution by the Club Coordination Council with final review by the Financial Management Board.  
+
+* (c) 1.75% of the funds available for FMB allocation shall be placed in a contingency fund to be allocated by the Financial Management Board for the purpose of co-sponsorship; at least one club and one other Student Union organization must be involved.  
+
+* (d) The remaining 59% of available funds shall be distributed among the following Student Union organizations―  
+
+  * (1) Student Union Board.  
+  
+  * (2) Office of the Student Body President.
+  
+  * (3) Student Senate.  
+  
+  * (4) Hall Presidents’ Council.  
+  
+  * (5) Freshman Class.  
+  
+  * (6) Sophomore Class.  
+  
+  * (7) Junior Class.  
+  
+  * (8) Senior Class / Senior Week.
+  
+  * (9) Off-Campus Council.  
+  
+  * (10) Office of the Student Union Treasurer.  
+  
+  * (11) Judicial Council.  
+  
+  * (12) Club Coordination Council.  
+  
+  * (13) Transfer / Freshman Orientation.  
+  
+  * (14) Any other areas deemed appropriate by the Financial Management Board with the approval of the Student Senate.  
+  
+* (e) .25% of available funds shall be allocated to the special-interest student organizations.  
+
+* (f) For the purpose of the Rector Fund, a minimum of $100,000 shall be allocated to the Vice President for Student Affairs annually. In the event that the applied earnings from the Shirt Charity Endowment are insufficient to ensure the beginning fiscal year balance of $100,000 in the Shirt Charity Medical Fund a minimum $100,000 Rector Fund allocation, direct revenue will be diverted from that year’s Shirt Charity Endowment investment to offset any difference.  
+
 ## Section 18.4. Special Limitations
-(a) Allocated funds may not be used for the
-purchase of alcoholic beverages, tobacco
-products, or other controlled substances of any
-kind.
-(b) Student Activity fees may not be used for
-charitable contributions.
-(1) Charitable contributions shall include,
-but not be limited to, direct donations to
-charities or individuals, and gifts, prizes, and
-awards for non-students.
-(A) Gifts purchased with funds from the
-Student Senate account with the express
-purpose of furthering relations between
-the Notre Dame Student Union and
-relevant bodies shall not be considered
-charitable contributions.
-(B) In the special case that the giving of
-gifts or prizes is inherent to the nature of
-an event being sponsored by a Student
-Union organization, appeals for
-exceptions to Paragraph (1) above may
-be made to the Financial Management
-Board prior to the holding of the event.
-(2) Student Activity fees may be used to
-fund Notre Dame students’ participation in
-service work.
-(A) Student Activity fees may be used to
-pay for the supplies and expenses
-involved in the activity or project,
-including (but not limited to)
-transportation and food.
-(3) Fundraising events may be sponsored by
-an organization or club if the purpose of the
-event is to educate, entertain, or increase
-student participation in a cause.
-(A) The net profit of a fundraising event
-may be donated to charity.
-(B) The total revenue from a fundraising
-event may be donated to charity if the
-sponsoring club or Student Union
-organization obtains the approval of the
-Financial Management Board prior to
-the event.
-(4) The Financial Management Board shall
-grant approval to appeals for exceptions to
-this Subsection if all of the following are
-met―
-(A) The event furthers the mission and
-purpose of the group.
-(B) The event educates or entertains the
-students of the University.
-(C) Use of student activity fees does not
-violate any of the other provisions of the
-fiscal policy of the Student Union.
-(c) Allocated funds may not be used for the
-support of candidates whether federal, state,
-local, or University level.
-(d) Ethnic organizations are eligible for funding
-provided that their programming will promote
-greater cultural awareness and understanding
-within the Notre Dame community.
-(e) The Shirt Coordinator, Student Union
-Treasurer, and Financial Management Board,
-when accepting bids for The Shirt, will ensure
-that the accepted bid is from a company which
-does not employ the use of sweatshops.
+* (a) Allocated funds may not be used for the purchase of alcoholic beverages, tobacco products, or other controlled substances of any kind.  
+
+* (b) Student Activity fees may not be used for charitable contributions.  
+
+  * (1) Charitable contributions shall include but not be limited to, direct donations to charities or individuals, and gifts, prizes, and awards for non-students.  
+  
+    * (i) Gifts purchased with funds from the Student Senate account with the express purpose of furthering relations between the Notre Dame Student Union and relevant bodies shall not be considered charitable contributions.  
+    
+    * (ii) In the special case that the giving of gifts or prizes is inherent to the nature of an event being sponsored by a Student Union organization, appeals for exceptions to Paragraph (1) above may be made to the Financial Management Board prior to the holding of the event.  
+    
+  * (2) Student Activity fees may be used to fund Notre Dame students’ participation in service work.  
+  
+    * (i) Student Activity fees may be used to pay for the supplies and expenses involved in the activity or project, including (but not limited to) transportation and food.  
+    
+  * (3) Fundraising events may be sponsored by an organization or club if the purpose of the event is to educate, entertain, or increase student participation in a cause.  
+  
+    * (i) The net profit of a fundraising event may be donated to charity.  
+    
+    * (ii) The total revenue from a fundraising event may be donated to charity if the sponsoring club or Student Union organization obtains the approval of the Financial Management Board prior to the event.  
+    
+  * (4) The Financial Management Board shall grant approval to appeals for exceptions to this Subsection if all of the following are met―  
+  
+    * (i) The event furthers the mission and purpose of the group.  
+    
+    * (ii) The event educates or entertains the students of the University.  
+    
+    * (iii) Use of student activity fees does not violate any of the other provisions of the fiscal policy of the Student Union.  
+    
+* (c) Allocated funds may not be used for the support of candidates whether federal, state, local, or University level.  
+
+* (d) Ethnic organizations are eligible for funding provided that their programming will promote greater cultural awareness and understanding within the Notre Dame community.  
+
+* (e) The Shirt Coordinator, Student Union Treasurer, and Financial Management Board, when accepting bids for The Shirt, will ensure that the accepted bid is from a company which does not employ the use of sweatshops.  
+
 ## Section 18.5. Political Activities
-(a) Funds of any type (allocated or unallocated)
-cannot be used for a direct contribution to any
-candidate for political office, including student
-elections.
-(b) Any appearance by political candidates,
-elected officials, or their surrogates shall follow
-the previously-adopted rules for campaign
-appearances as described in the Office of Public
-Affairs and Communications (OPAC)
-guidelines.
-(c) Only the political clubs (College Democrats,
-Libertarians, and Republicans) shall be
-permitted to use funds of any type (allocated or
-unallocated) for the following activities—
-(1) Selling and/or purchasing t-shirts
-supporting a particular candidate.
-(2) Holding rallies with student speakers
-and/or professors, but without the
-appearance of political candidates, elected
-officials, or their surrogates.
-(3) Developing, posting, and distributing
-signage and promotional materials regarding
-the parties’ positions and the candidates.
-(4) Taking a club bus trip to a candidate
-appearance in a nearby city.
-(5) Endorsing a candidate.
-(6) None of these activities may be used to
-support a candidate for student office except
-for endorsement. No funds of any type
-(allocated or unallocated) may be used to
-support a candidate for student office.
-(d) The aforementioned activities shall be
-clearly indicated and properly attributed to the
-student club, and not seen as a Universitysponsored
-event.
-(1) This includes conspicuous identification
-as a club and a disclaimer that it is not a
-46 Constitution of the Undergraduate Student Body 01/17/2017
-University-sponsored event, either orally or
-in writing, at rallies and other events, and on
-club websites.
+* (a) Funds of any type (allocated or unallocated) cannot be used for a direct contribution to any candidate for political office, including student elections.  
+
+* (b) Any appearance by political candidates, elected officials, or their surrogates shall follow the previously-adopted rules for campaign appearances as described in the Office of Public Affairs and Communications (OPAC) guidelines.  
+
+* (c) Only the political clubs (College Democrats, Libertarians, and Republicans) shall be permitted to use funds of any type (allocated or unallocated) for the following activities—  
+
+  * (1) Selling and/or purchasing t-shirts supporting a particular candidate.  
+  
+  * (2) Holding rallies with student speakers and/or professors, but without the appearance of political candidates, elected officials, or their surrogates.  
+  
+  * (3) Developing, posting, and distributing signage and promotional materials regarding the parties’ positions and the candidates.  
+  
+  * (4) Taking a club bus trip to a candidate appearance in a nearby city.  
+  
+  * (5) Endorsing a candidate.  
+  
+  * (6) None of these activities may be used to support a candidate for student office except for endorsement. No funds of any type (allocated or unallocated) may be used to support a candidate for student office.  
+  
+* (d) The aforementioned activities shall be clearly indicated and properly attributed to the student club, and not seen as a University sponsored event.  
+
+  * (1) This includes conspicuous identification as a club and a disclaimer that it is not a University-sponsored event, either orally or in writing, at rallies and other events, and on club websites.  
+  
 ## Section 18.6. Financial Management Board Approvals
-(a) The salaries, if any, of elected and/or
-appointed officials shall be approved by the
-Financial Management Board and the Student
-Senate.
-(b) Any event which has sum obligations
-greater than $5,000, or 10% of the requesting
-organization’s total budget, whichever is the
-larger amount, shall be approved by the
-Financial Management Board.
-(c) Any disbursement over $5,000, or 10% of
-the requesting organization’s total budget,
-whichever is the largest amount, shall be
-reported to the Treasurer and approved by the
-Financial Management Board.
-(d) Bids for programs scheduled for the next
-fiscal year, previous to the initial budget
-allocation meeting, may be made with Financial
-Management Board’s approval.
-(e) In the event that approval from Financial
-Management Board is needed while school is
-not in session, the organization seeking approval
-must notify the Student Union Treasurer. At
-such time, the Student Union Treasurer must
-contact and receive approval from a majority of
-the Financial Management Board. In the event a
-majority of the Financial Management Board
-cannot be reached the Student Union Treasurer
-may grant approvals. In the event the Student
-Union Treasurer is unable to grant approvals, the
-Director of Student Activities must be contacted
-in order to grant approval.
-(f) The Senate may hear appeals of Financial
-Management Board decisions and reverse these
-decisions by a two-thirds vote of all Senate
-members.
+* (a) The salaries, if any, of elected and/or appointed officials shall be approved by the Financial Management Board and the Student Senate.  
+
+* (b) Any event which has sum obligations greater than $5,000, or 10% of the requesting organization’s total budget, whichever is the larger amount, shall be approved by the Financial Management Board.  
+
+* (c) Any disbursement over $5,000, or 10% of the requesting organization’s total budget, whichever is the largest amount, shall be reported to the Treasurer and approved by the Financial Management Board.  
+
+* (d) Bids for programs scheduled for the next fiscal year, previous to the initial budget allocation meeting, may be made with Financial Management Board’s approval.  
+
+* (e) In the event that approval from Financial Management Board is needed while school is not in session, the organization seeking approval must notify the Student Union Treasurer. At such time, the Student Union Treasurer must contact and receive approval from a majority of the Financial Management Board. In the event a majority of the Financial Management Board cannot be reached the Student Union Treasurer may grant approvals. In the event the Student Union Treasurer is unable to grant approvals, the Director of Student Activities must be contacted in order to grant approval.  
+
+* (f) The Senate may hear appeals of Financial Management Board decisions and reverse these decisions by a two-thirds vote of all Senate members.  
+
 ## Section 18.7. Student Business Financial Guidelines
-(a) The Financial Management Board shall
-monitor the finances of the Student Businesses.
-(b) The Student Businesses shall have no initial
-allocation; however, the Student Union
-Treasurer may submit a request for funds in
-order to cover general office expenses.
-(c) Requests for capital expenditures shall be
-submitted to the Student Union Treasurer by the
-individual business requesting the funds.
-(d) The Financial Management Board shall
-approve capital expenditure requests in an
-efficient timely manner.
-(e) Net profits from the Student Businesses
-shall be transferred to the Student Union Carryforward
-account at the end of each fiscal year.
-(f) Net deficits from the Student Businesses
-shall be reconciled with funds from the Student
-Union Carry-forward account at the end of each
-fiscal year.
-(g) Groups within the Student Union shall
-budget as necessary to ensure that they spend
-only the dollar amount allocated during each
-fiscal year.
-(1) In the event that a group spends in
-excess of its allocation, the entire debt must
-be repaid during the subsequent fiscal year.
-This shall be accomplished by a funds
-transfer executed by the Student Union
-Treasurer prior to November 1st. Groups
-must be notified of such a situation by
-September 15th.
-(2) Should the debt from the previous year
-be in excess of 15% of the current fiscal
-year’s allocation, a payment schedule appeal
-may be brought to the Financial
-Management Board. However, the Financial
-Management Board is limited in that total
-repayment must be made within three years
-(the current year and the following two
-years). Additionally, the group must pay a
-minimum of 15% of its annual allocation
-during each year of the repayment process
-so as to expedite repayment. All appeals
-must be made by October 1st, and all
-decisions must be finalized by October 31st
-04/13/2016 University of Notre Dame du Lac 47
-to permit the necessary funds transfer prior
-to November 1st, as outlined above.
+* (a) The Financial Management Board shall monitor the finances of the Student Businesses.
+
+* (b) The Student Businesses shall have no initial allocation; however, the Student Union Treasurer may submit a request for funds in order to cover general office expenses.  
+
+* (c) Requests for capital expenditures shall be submitted to the Student Union Treasurer by the individual business requesting the funds.  
+
+* (d) The Financial Management Board shall approve capital expenditure requests in an efficient timely manner.  
+
+* (e) Net profits from the Student Businesses shall be transferred to the Student Union Carryforward account at the end of each fiscal year.  
+
+* (f) Net deficits from the Student Businesses shall be reconciled with funds from the Student Union Carry-forward account at the end of each fiscal year.  
+
+* (g) Groups within the Student Union shall budget as necessary to ensure that they spend only the dollar amount allocated during each fiscal year.  
+
+  * (1) In the event that a group spends in excess of its allocation, the entire debt must be repaid during the subsequent fiscal year. This shall be accomplished by a funds transfer executed by the Student Union Treasurer prior to November 1st. Groups must be notified of such a situation by September 15th.  
+  
+  * (2) Should the debt from the previous year be in excess of 15% of the current fiscal year’s allocation, a payment schedule appeal may be brought to the Financial Management Board. However, the Financial Management Board is limited in that total repayment must be made within three years (the current year and the following two years). Additionally, the group must pay a minimum of 15% of its annual allocation during each year of the repayment process so as to expedite repayment. All appeals must be made by October 1st, and all decisions must be finalized by October 31st to permit the necessary funds transfer prior to November 1st, as outlined above.  
+  
 ## Section 18.8. Club Coordination Council Guidelines
-(a) Funds from clubs rendered inactive by the
-Club Coordination Council and Student
-Activities shall be reallocated by the Club
-Coordination Council and should a defunct club
-run a deficit, that expense shall be incurred by
-the Club Coordination Council.
-Section 18.9. Carry-Forward Account
-Guidelines.
-(a) Appropriations from the Carry-forward
-account are designated for the purpose of
-financing unique and extraordinary opportunities
-for which have been previously unbudgeted and
-unplanned.
-(b) New capital expenditures as well as
-improvements on existing capital assets may be
-financed through the Carry-forward account.
-(c) The Carry-forward account may finance any
-other type of allocation not specifically
-mentioned above that is deemed appropriate by
-the Financial Management Board.
-(d) The Financial Management Board shall
-consider Carry-forward account requests on a
-rolling basis.
-(e) The Carry-forward account shall never be
-allowed to fall below $15,000, notwithstanding
-current-year student activity fees.
-(f) The Carry-forward account shall never
-exceed $100,000, notwithstanding current-year
-student activity fees. Any excess funds above
-this amount shall be placed in the Student Union
-Endowment. When the endowment return is
-negative, this provision shall be waived.
-(g) Total yearly allocations out of the Carryforward
-account shall not exceed $10,000.
-(h) Interest payments on the net monthly
-balance of student activity fees shall be
-deposited to the Carry-forward account.
-(i) Any fiscal year-end surplus or deficit shall
-be applied or deducted from the balance of the
-Carry-forward account.
-Section 18.10. Student Union Endowment.
-(a) 50% of revenues per annum from The Shirt
-Project, less the $125,000 directly available for
-FMB allocation, in addition to surplus funds
-above the $100,000 cap on the Carry-forward
-account shall be added to the initial principle.
-(b) Annual interest accrued from the Student
-Union Endowment shall be allocated by the
-Financial Management Board at the annual
-allocation meeting.
-(c) The Student Union shall not spend down the
-principle of the Student Union Endowment for
-any reason.
-(d) The Student Union Endowment shall be
-overseen by the Financial Management Board.
-(e) Any disputes regarding the Student Union
-Endowment shall be resolved by the Senate.
-Section 18.11. Shirt Charity Endowment.
-(a) The Shirt Charity Endowment shall exist so
-that the interest acquired from the endowment
-may fund the Shirt Charity Fund account.
-(b) Funds added to the Shirt Charity
-Endowment principal at the end of each fiscal
-year shall consist of 50% of net revenues of
-sales of The Shirt less any funds needed to
-ensure the beginning fiscal year balance of
-$100,000 in the Shirt Charity Fund and
-minimum $100,000 to the Rector Fund after
-Charity Fund Endowment applied earnings.
-(c) The Student Union shall not spend down the
-principle of The Shirt Charity Endowment for
-any reason.
-(d) If Shirt Charity Fund requests approved by
-Financial Management Board exceed the
-balance of The Shirt Charity Fund, existing
-funds in The Shirt Profit account may be
-transferred directly to the Shirt Charity Fund
-account to cover any shortfall. If this occurs, the
-starting balance amount of the Shirt Charity
-Fund shall be reevaluated by the Financial
-Management Board and approved by the Senate.
-(e) The Shirt Charity Endowment shall be
-overseen by the Financial Management Board.
-(f) Any disputes regarding the Shirt Charity
-Endowment shall be resolved by the Senate.
+* (a) Funds from clubs rendered inactive by the Club Coordination Council and Student Activities shall be reallocated by the Club Coordination Council and should a defunct club run a deficit, that expense shall be incurred by the Club Coordination Council.  
+
+## Section 18.9. Carry-Forward Account Guidelines
+* (a) Appropriations from the Carry-forward account are designated for the purpose of financing unique and extraordinary opportunities for which have been previously unbudgeted and unplanned.  
+
+* (b) New capital expenditures as well as improvements on existing capital assets may be financed through the Carry-forward account.  
+
+* (c) The Carry-forward account may finance any other type of allocation not specifically mentioned above that is deemed appropriate by the Financial Management Board.  
+
+* (d) The Financial Management Board shall consider Carry-forward account requests on a rolling basis.  
+
+* (e) The Carry-forward account shall never be allowed to fall below $15,000, notwithstanding current-year student activity fees.  
+
+* (f) The Carry-forward account shall never exceed $100,000, notwithstanding current-year student activity fees. Any excess funds above this amount shall be placed in the Student Union Endowment. When the endowment return is negative, this provision shall be waived.  
+
+* (g) Total yearly allocations out of the Carryforward account shall not exceed $10,000.  
+
+* (h) Interest payments on the net monthly balance of student activity fees shall be deposited to the Carry-forward account.  
+
+* (i) Any fiscal year-end surplus or deficit shall be applied or deducted from the balance of the Carry-forward account.  
+
+## Section 18.10. Student Union Endowment
+* (a) 50% of revenues per annum from The Shirt Project, less the $125,000 directly available for FMB allocation, in addition to surplus funds above the $100,000 cap on the Carry-forward account shall be added to the initial principle.  
+
+* (b) Annual interest accrued from the Student Union Endowment shall be allocated by the Financial Management Board at the annual allocation meeting.  
+
+* (c) The Student Union shall not spend down the principle of the Student Union Endowment for any reason.  
+
+* (d) The Student Union Endowment shall be overseen by the Financial Management Board.  
+
+* (e) Any disputes regarding the Student Union Endowment shall be resolved by the Senate.  
+
+## Section 18.11. Shirt Charity Endowment
+* (a) The Shirt Charity Endowment shall exist so that the interest acquired from the endowment may fund the Shirt Charity Fund account.  
+
+* (b) Funds added to the Shirt Charity Endowment principal at the end of each fiscal year shall consist of 50% of net revenues of sales of The Shirt less any funds needed to ensure the beginning fiscal year balance of $100,000 in the Shirt Charity Fund and minimum $100,000 to the Rector Fund after Charity Fund Endowment applied earnings.  
+
+* (c) The Student Union shall not spend down the principle of The Shirt Charity Endowment for any reason.  
+
+* (d) If Shirt Charity Fund requests approved by Financial Management Board exceed the balance of The Shirt Charity Fund, existing funds in The Shirt Profit account may be transferred directly to the Shirt Charity Fund account to cover any shortfall. If this occurs, the starting balance amount of the Shirt Charity Fund shall be reevaluated by the Financial Management Board and approved by the Senate.  
+
+* (e) The Shirt Charity Endowment shall be overseen by the Financial Management Board.  
+
+* (f) Any disputes regarding the Shirt Charity Endowment shall be resolved by the Senate.  
+
 # ARTICLE XIX. ANNUAL AWARDS
 ## Section 19.1. The Irish Clover Award
-(a) The Irish Clover Award is given to two
-outstanding members of the Notre Dame
-community for exemplary service to the student
-body. Recipients may include students, faculty,
-staff, administrators, or alumni.
-(b) The Student Senate shall choose the
-recipients of the Irish Clover Award each term.
+* (a) The Irish Clover Award is given to two outstanding members of the Notre Dame community for exemplary service to the student body. Recipients may include students, faculty, staff, administrators, or alumni.  
+
+* (b) The Student Senate shall choose the recipients of the Irish Clover Award each term.  
+
 ## Section 19.2. The Michael J. Palumbo Award
-(a) Named in honor of its first recipient, the
-Michael J. Palumbo Award shall be given
-annually to a member of the undergraduate
-student body for outstanding service and
-dedication to the Notre Dame Student Union.
-(b) The Senate shall confer the award on a
-Student Union official prior to April 1st of each
-year.
-(c) The recipient of the award must—
-(1) Have given outstanding service to and
-shown exceptional dedication to the Notre
-Dame Student Union.
-(2) Be an undergraduate student at the
-University of Notre Dame in good standing
-with the University.
-(3) Have held any office in the Notre Dame
-Student Union for at least one academic
-year.
-(4) Have been nominated for the award by
-at least one undergraduate student of the
-University of Notre Dame.
-(5) Have performed services so as to greatly
-further the causes of the Notre Dame
-Student Union.
-(6) Have gone beyond the call of duty to
-show honor and respect for the Constitution
-of the Undergraduate Student Body of the
-University of Notre Dame du Lac.
-(7) Have demonstrated outstanding
-character in the best tradition of the
-University of Notre Dame and its ideals.
-(d) The Student Union Ethics Commission shall
-aid the Student Senate’s selection process by—
-(1) Informing the undergraduate student
-body of the existence and purpose of the
-award and soliciting nominations.
-(2) Gathering information about all
-nominees sufficient to making an informed
-decision.
-(3) Recommending a recipient of the award
-to the Student Senate, for its approval, no
-later than the second-to-last meeting of its
-term.
-(e) The winner of the Michael J. Palumbo
-Award each year—
-(1) Shall be informed of his or her selection
-and be issued a certificate of
-accomplishment.
-(2) Shall have his or her name engraved on
-the award’s commemorative plaque which
-hangs in the Student Government Office.
-## Section 19.3. The Frank O’Malley
-Undergraduate Teaching Award.
-(a) Named in honor of former Notre Dame
-Professor, Frank O'Malley, the Frank O’Malley
-Undergraduate Teaching Award shall be given
-annually to a member of the Notre Dame faculty
-who has had an outstanding impact on
-undergraduate education at the University and
-shown exceptional service to the students of the
-Notre Dame community. Any faculty member is
-eligible for consideration.
-(b) The Student Senate shall choose the recipient
-of the Frank O’Malley Undergraduate Teaching
-Award each term.
+* (a) Named in honor of its first recipient, the Michael J. Palumbo Award shall be given annually to a member of the undergraduate student body for outstanding service and dedication to the Notre Dame Student Union.  
+
+* (b) The Senate shall confer the award on a Student Union official prior to April 1st of each year.  
+
+* (c) The recipient of the award must—  
+  * (1) Have given outstanding service to and shown exceptional dedication to the Notre Dame Student Union.  
+  
+  * (2) Be an undergraduate student at the University of Notre Dame in good standing with the University.  
+  
+  * (3) Have held any office in the Notre Dame Student Union for at least one academic year.  
+  
+  * (4) Have been nominated for the award by at least one undergraduate student of the University of Notre Dame.  
+  
+  * (5) Have performed services so as to greatly further the causes of the Notre Dame Student Union.  
+  
+  * (6) Have gone beyond the call of duty to show honor and respect for the Constitution of the Undergraduate Student Body of the University of Notre Dame du Lac.  
+  
+  * (7) Have demonstrated outstanding character in the best tradition of the University of Notre Dame and its ideals.  
+  
+* (d) The Student Union Ethics Commission shall aid the Student Senate’s selection process by—  
+
+  * (1) Informing the undergraduate student body of the existence and purpose of the award and soliciting nominations.  
+  
+  * (2) Gathering information about all nominees sufficient to making an informed decision.  
+  
+  * (3) Recommending a recipient of the award to the Student Senate, for its approval, no later than the second-to-last meeting of its term.  
+  
+* (e) The winner of the Michael J. Palumbo Award each year—  
+
+  * (1) Shall be informed of his or her selection and be issued a certificate of accomplishment.  
+  
+  * (2) Shall have his or her name engraved on the award’s commemorative plaque which hangs in the Student Government Office.  
+  
+## Section 19.3. The Frank O’Malley Undergraduate Teaching Award
+* (a) Named in honor of former Notre Dame Professor, Frank O'Malley, the Frank O’Malley Undergraduate Teaching Award shall be given annually to a member of the Notre Dame faculty who has had an outstanding impact on undergraduate education at the University and shown exceptional service to the students of the Notre Dame community. Any faculty member is eligible for consideration.  
+
+* (b) The Student Senate shall choose the recipient of the Frank O’Malley Undergraduate Teaching Award each term.  
