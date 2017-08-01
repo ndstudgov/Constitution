@@ -2,7 +2,7 @@
 
 **The University of Notre Dame Student Union 2016 – 2017**
 
-Corey Robinson <br> *Student Body President* | Rebecca Blais <br> *Student Body Vice-President* | Michael Markel <br> *Chief of Staff*
+Rebecca Blais <br> *Student Body President* | Sibonay Shewit <br> *Student Body Vice-President* | Prathm Juneja <br> *Chief of Staff*
 ------------ | ------------- | ------------ 
 Alexandra Eisele <br> *Student Union Secretary* | Mason Shinn <br> *Student Union Treasurer* | Monica Montgomery <br> *Parliamentarian*
 Erica Tabor <br> *Director of Communications* | Daniel Swanson <br> *Executive Controller* | Caitlin Geary <br> *Judicial Council President*
