@@ -4,16 +4,15 @@
 
 Rebecca Blais <br> *Student Body President* | Sibonay Shewit <br> *Student Body Vice-President* | Prathm Juneja <br> *Chief of Staff*
 ------------ | ------------- | ------------ 
-Alexandra Eisele <br> *Student Union Secretary* | Mason Shinn <br> *Student Union Treasurer* | Monica Montgomery <br> *Parliamentarian*
-Erica Tabor <br> *Director of Communications* | Daniel Swanson <br> *Executive Controller* | Caitlin Geary <br> *Judicial Council President*
-Eva Niklinska <br> *Director of Academic Affairs* | Stephanie Mastorakos <br> *Director of Internal Affairs* | Bryce Badura <br> *Director of Campus Technology*
-Kimberly Sullivan <br> *Director of Constituent Services* | Xun Chris Wang <br> *Director of Gender Issues* | Caitlin Hodges <br> *Director of Community Relations*
-Joseph Sierotko <br> *Director of Residence Life* | Andrea Tong <br> *Director of Social Concerns* | Andrew Helmin <br> *Director of University Affairs*
-Rachel Wallace <br> *Student Union Representative to Diversity Council* | MaKenna Siebenaler <br> *Campus Ministry Representative* | Andrew Recker <br>*Athletics Representative*
-Louis Bertolotti <br> *Student Union Board Executive Director* | Christina Fernandez and Elizabeth Feeley <br> *Hall Presidents Council Co-Chairs* | Daniel Hopkinson and Nabila Mourad <br> *FUEL Directors*
-Paulina Eberts <br> *Club Coordination Council* | Michelle Lacouture <br> *Off-Campus President* | Katelyn Wray <br> *Senior Class President*
-Sara Dugan <br> *Junior Class President* | Michael Conlon <br> *Sophomore Class President* | Joe Witt <br> *Freshman Class President*
-Julia Dunbar <br> *Director of Health and Wellness* | Grace Watkins <br> *University Policy Liaison* | Prathm Juneja <br> *Director of National Engagement and Outreach*  
+Molly McGraw <br> *Student Union Secretary* | Alexandra Henderson <br> *Student Union Treasurer* | Colin Brankin <br> *Parliamentarian*
+Alex Kruszewski <br> *Executive Controller* | Mathew Ross <br> *Judicial Council President* | King Fork *Club Coordination Council*
+John Henry Hobgood <br> *Director of Academic Affairs* | Jonah Shainberg <br> *Director of Athletics* | Sean McMahon <br> *Director of Campus Technology*
+Andrea Tong <br> Joseph Murphy <br> *Director of Communications* | Adam Moeller <br> *Director of Community Engagement and Outreach* | Trever Carter <br> Molly Walsh <br> *FUEL Directors*
+Keenan White <br> *Director of Faith and Service* | Kaleem Minor <br> *Director of Diversity and Inclusions* | Isabel Rooper <br> *Director of Gender Relations*
+Jade Martinez <br> *Director of Health and Wellness* | Austin Matheny <br> *Director of Social Concerns* | Kelly Beatty <br>*Directory of University Policy*
+Jackson Herfeldt <br> *Student Union Board Executive Director* | Brandon Ryan <br> Alyssa Lyon <br> *Hall Presidents Council Co-Chairs* | Timothy O'Connell <br> Caitlin Murphy <br> *Directors of Student Life*
+Sara Dugan <br> *Senior Class President* | Jim English <br> *Off-Campus President* | Michael Conlon <br> *Junior Class President*
+Joe Witt <br> *Sophomore Class President* | | TBD <br> *Freshman Class President*
 
 <hr>
 
