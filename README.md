@@ -5,10 +5,10 @@
 Rebecca Blais <br> *Student Body President* | Sibonay Shewit <br> *Student Body Vice-President* | Prathm Juneja <br> *Chief of Staff*
 ------------ | ------------- | ------------ 
 Molly McGraw <br> *Student Union Secretary* | Alexandra Henderson <br> *Student Union Treasurer* | Colin Brankin <br> *Parliamentarian*
-Alex Kruszewski <br> *Executive Controller* | Mathew Ross <br> *Judicial Council President* | King Fork *Club Coordination Council*
+Alex Kruszewski <br> *Executive Controller* | Mathew Ross <br> *Judicial Council President* | King Fork <br> *Club Coordination Council*
 John Henry Hobgood <br> *Director of Academic Affairs* | Jonah Shainberg <br> *Director of Athletics* | Sean McMahon <br> *Director of Campus Technology*
 Andrea Tong <br> Joseph Murphy <br> *Director of Communications* | Adam Moeller <br> *Director of Community Engagement and Outreach* | Trever Carter <br> Molly Walsh <br> *FUEL Directors*
-Keenan White <br> *Director of Faith and Service* | Kaleem Minor <br> *Director of Diversity and Inclusions* | Isabel Rooper <br> *Director of Gender Relations*
+Keenan White <br> *Director of Faith and Service* | Kaleem Minor <br> *Director of Diversity and Inclusion* | Isabel Rooper <br> *Director of Gender Relations*
 Jade Martinez <br> *Director of Health and Wellness* | Austin Matheny <br> *Director of Social Concerns* | Kelly Beatty <br>*Directory of University Policy*
 Jackson Herfeldt <br> *Student Union Board Executive Director* | Brandon Ryan <br> Alyssa Lyon <br> *Hall Presidents Council Co-Chairs* | Timothy O'Connell <br> Caitlin Murphy <br> *Directors of Student Life*
 Sara Dugan <br> *Senior Class President* | Jim English <br> *Off-Campus President* | Michael Conlon <br> *Junior Class President*
